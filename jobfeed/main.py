@@ -45,27 +45,32 @@ def cross_source_key(job: Job) -> str:
 def send_backlog(collected: list[Job], cfg: dict, store: SeenStore, dry_run: bool) -> int:
     """Everything matching that is online now, seen or not; marks it all as seen."""
     matches: dict[str, Job] = {}
+    fresh_urls: set[str] = set()  # not seen by any earlier run, marked 🆕 in the digest
     for job in collected:
+        is_new = job.id not in store and f"src:{job.source}" in store
         store.add(job.id)
         store.add(f"src:{job.source}")
         if filters.passes(job, cfg["filters"]):
             key = cross_source_key(job)
+            if is_new and key not in store:
+                fresh_urls.add(job.url)
             store.add(key)
             matches.setdefault(key, job)
     by_source = sorted(matches.values(), key=lambda j: list(SOURCES).index(j.source))
     log.info("backlog: %d matching offers", len(by_source))
 
     if dry_run:
-        print("\n".join(format_digest(by_source)))
+        print("\n".join(format_digest(by_source, fresh_urls)))
         return 0
 
     tg = Telegram(os.environ["TELEGRAM_TOKEN"], os.environ["TELEGRAM_CHAT_ID"])
-    tg.send(f"📋 Backlog: {len(by_source)} matching offers currently online")
+    tg.send(f"📋 Backlog: {len(by_source)} matching offers currently online, "
+            f"🆕 {len(fresh_urls)} of them not sent before")
     for source in SOURCES:
         jobs = [j for j in by_source if j.source == source]
         if jobs:
             tg.send(f"<b>{ICONS[source]} — {len(jobs)}</b>")
-            for message in format_digest(jobs):
+            for message in format_digest(jobs, fresh_urls):
                 tg.send(message)
     store.save()
     return 0

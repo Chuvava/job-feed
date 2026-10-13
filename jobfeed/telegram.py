@@ -25,13 +25,15 @@ def format_job(job: Job) -> str:
     return "\n".join(lines)
 
 
-def format_digest(jobs: list[Job], limit: int = 3800) -> list[str]:
+def format_digest(jobs: list[Job], fresh_urls: set[str] = frozenset(), limit: int = 3800) -> list[str]:
     """Compact one-line-per-job list, split into messages under Telegram's 4096-char limit."""
     e = html.escape
     messages, current = [], ""
-    for job in jobs:
+    # fresh ones first so they don't get lost in a long list
+    for job in sorted(jobs, key=lambda j: j.url not in fresh_urls):
         where = " ".join(x for x in [WORKPLACE.get(job.workplace, job.workplace).split(" ")[0], e(job.location[:40])] if x)
-        line = f'• <a href="{e(job.url)}">{e(job.title)}</a> — {e(job.company)}'
+        bullet = "🆕" if job.url in fresh_urls else "•"
+        line = f'{bullet} <a href="{e(job.url)}">{e(job.title)}</a> — {e(job.company)}'
         line += "".join(f" · {x}" for x in [where, e(job.salary)] if x) + "\n"
         if len(current) + len(line) > limit:
             messages.append(current)
