@@ -4,7 +4,7 @@
  * (Execute as: Me, Who has access: Anyone). Set Script property SECRET (Project Settings → Script properties)
  * to the same value as the Worker's SHEET_SECRET.
  *
- * POST JSON: {secret, action: "save"|"applied"|"cv", job: {url, title, company, where, salary, skills, source, noB2b}, cv}
+ * POST JSON: {secret, action: "save"|"applied"|"cv"|"target", job: {url, title, company, where, salary, skills, source, noB2b}, cv}
  * Returns JSON: {row, existed} or {error}.
  */
 const SPREADSHEET_ID = '1ApL9PkVKOzU47T550zH_spfzKoDVlBBnBaH9xAZIYqo';
@@ -13,8 +13,15 @@ const FIRST_DATA_ROW = 3;   // row 1 = headers, row 2 = fictional example
 const LAST_ROW = 501;       // conditional formatting covers rows 2..501
 const TZ = 'Europe/Warsaw';
 // Columns (1-based): A Компания, B Роль, C Этап, D След. шаг, E Дата шага, F Посл. контакт,
-// G Контакт, H Вакансия, I Условия, J Заметки, K Дата отклика, L Версия CV
-const COL = {company: 1, role: 2, stage: 3, next: 4, nextDate: 5, url: 8, terms: 9, notes: 10, applied: 11, cv: 12};
+// G Контакт, H Вакансия, I Условия, J Заметки, K Дата отклика, L Версия CV, M Приоритет, N Тактика
+const COL = {company: 1, role: 2, stage: 3, next: 4, nextDate: 5, url: 8, terms: 9, notes: 10, applied: 11, cv: 12,
+             priority: 13, tactic: 14};
+const TARGET_TACTIC = [
+  '1. Реферал: найти в LinkedIn QA/dev из компании-клиента и попросить рекомендацию (до отклика)',
+  '2. Отклик: если за 1–2 дня реферала нет — податься самому',
+  '3. Рекрутеру/TA компании в LinkedIn: 2–3 строки «подался на …, почему подхожу»',
+  '4. Через 5–7 дней после отклика — вежливо спросить статус',
+].join('\n');
 
 function doPost(e) {
   try {
@@ -29,6 +36,7 @@ function doPost(e) {
       if (req.action === 'save') return json(save(sheet, req.job));
       if (req.action === 'applied') return json(applied(sheet, req.job));
       if (req.action === 'cv') return json(setCv(sheet, req.job, req.cv));
+      if (req.action === 'target') return json(target(sheet, req.job));
       return json({error: 'unknown action ' + req.action});
     } finally {
       lock.releaseLock();
@@ -107,18 +115,39 @@ function createRow(sheet, job, stage) {
 function save(sheet, job) {
   const existing = findRow(sheet, job.url);
   if (existing) return {row: existing, existed: true};
-  return {row: createRow(sheet, job, 'Сохранено'), existed: false};
+  return {row: createRow(sheet, job, 'Планирую отклик'), existed: false};
 }
 
 function applied(sheet, job) {
   let row = findRow(sheet, job.url);
   const existed = !!row;
-  if (!row) row = createRow(sheet, job, 'Отклик');
-  sheet.getRange(row, COL.stage).setValue('Отклик');
-  sheet.getRange(row, COL.next).setValue('Ждать обратной связи');
-  sheet.getRange(row, COL.nextDate).clearContent();   // a form application has nobody to remind
+  if (!row) row = createRow(sheet, job, 'Откликнулся');
+  sheet.getRange(row, COL.stage).setValue('Откликнулся');
+  if (sheet.getRange(row, COL.priority).getValue() === '🎯') {
+    // targets keep pushing: note to the recruiter now, status check in a week
+    sheet.getRange(row, COL.next).setValue('Написать рекрутеру/TA; через 5–7 дней спросить статус');
+    setDate(sheet, row, COL.nextDate, addDays(today(), 7));
+  } else {
+    sheet.getRange(row, COL.next).setValue('Ждать обратной связи');
+    sheet.getRange(row, COL.nextDate).clearContent();   // a form application has nobody to remind
+  }
   setDate(sheet, row, COL.applied, today());
   prependNote(sheet, row, logLine('подался (кнопка в боте).'));
+  return {row: row, existed: existed};
+}
+
+function target(sheet, job) {
+  let row = findRow(sheet, job.url);
+  const existed = !!row;
+  if (!row) row = createRow(sheet, job, 'Планирую отклик');
+  sheet.getRange(row, COL.priority).setValue('🎯');
+  const tactic = sheet.getRange(row, COL.tactic);
+  if (!String(tactic.getValue() || '').trim()) tactic.setValue(TARGET_TACTIC);
+  if (sheet.getRange(row, COL.stage).getValue() === 'Планирую отклик') {
+    sheet.getRange(row, COL.next).setValue('Найти реферала в LinkedIn');
+    setDate(sheet, row, COL.nextDate, addDays(today(), 2));
+  }
+  prependNote(sheet, row, logLine('🎯 отмечено целью (кнопка в боте).'));
   return {row: row, existed: existed};
 }
 

@@ -10,6 +10,7 @@ WORKPLACE = {"remote": "🏠 remote", "hybrid": "🔀 hybrid", "office": "🏢 o
 # Handled by the Cloudflare Worker in bot/ (it reads the job back from the card text)
 CARD_BUTTONS = {"inline_keyboard": [[
     {"text": "⭐ В трекер", "callback_data": "save"},
+    {"text": "🎯", "callback_data": "target"},
     {"text": "✅ Подался", "callback_data": "applied"},
     {"text": "🗑", "callback_data": "hide"},
 ]]}

@@ -65,6 +65,15 @@ async function onButton(cb, env) {
     res = await sheet(env, { action: "applied", job });
     toast = `Отклик записан, строка ${res.row}. Какое CV?`;
     buttons = appliedButtons(res.row);
+  } else if (data === "target") {
+    res = await sheet(env, { action: "target", job });
+    toast = `🎯 Цель, строка ${res.row}. План с рефералом — в столбце «Тактика»`;
+    buttons = {
+      inline_keyboard: [
+        [{ text: `🎯 Цель · строка ${res.row}`, callback_data: "noop" }],
+        [{ text: "✅ Подался", callback_data: "applied" }, { text: "🗑", callback_data: "hide" }],
+      ],
+    };
   } else if (data.startsWith("cv:")) {
     const cv = data.slice(3);
     res = await sheet(env, { action: "cv", job, cv });
@@ -85,7 +94,11 @@ function savedButtons(row) {
   return {
     inline_keyboard: [
       [{ text: `⭐ В трекере · строка ${row}`, callback_data: "noop" }],
-      [{ text: "✅ Подался", callback_data: "applied" }, { text: "🗑", callback_data: "hide" }],
+      [
+        { text: "🎯 Цель", callback_data: "target" },
+        { text: "✅ Подался", callback_data: "applied" },
+        { text: "🗑", callback_data: "hide" },
+      ],
     ],
   };
 }
