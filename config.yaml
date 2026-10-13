@@ -1,0 +1,58 @@
+# What to collect and what to let through to Telegram.
+# Matching is case-insensitive substring matching on the job title.
+
+filters:
+  # A title must contain at least one of these
+  title_include:
+    - automat        # automation, automatyzacji, automated
+    - aqa
+    - sdet
+    - qa engineer
+    - test engineer
+    - quality assurance
+    - quality engineer
+    - tester
+    - testing engineer
+    - playwright
+    - selenium
+  # A title containing any of these is dropped
+  title_exclude:
+    - manual
+    - manualny
+    - junior
+    - intern
+    - trainee
+    - staż
+    - praktyk
+    - student
+    - penetration
+    - pentest
+  # Seniority levels to drop (JustJoin experienceLevel / NoFluff seniority, lowercase)
+  seniority_exclude:
+    - junior
+    - trainee
+    - intern
+  # Allowed workplace types: remote, hybrid, office
+  workplace: [remote, hybrid, office]
+
+sources:
+  justjoin:
+    enabled: true
+    category: testing
+    max_pages: 5          # 10 offers per page, newest first
+
+  nofluff:
+    enabled: true
+    category: testing
+
+  linkedin:
+    enabled: true
+    location: Poland
+    hours_old: 3           # only postings from the last N hours
+    results_per_term: 40
+    delay_seconds: 15      # pause between search terms, LinkedIn answers 429 otherwise
+    search_terms:
+      - QA Automation Engineer
+      - SDET
+      - Test Automation Engineer
+      - Playwright
