@@ -83,9 +83,9 @@ function addDays(date, n) {
 }
 
 function setDate(sheet, row, col, date) {
-  const cell = sheet.getRange(row, col);
-  cell.setValue(date);
-  if (date) cell.setNumberFormat('M/d/yyyy');
+  // E/F/K are typed DATE columns of the sheet table: they format themselves and
+  // refuse setNumberFormat ("Нельзя выбрать числовой формат … с заданным типом данных")
+  sheet.getRange(row, col).setValue(date);
 }
 
 function logLine(text) {

@@ -11,8 +11,7 @@ def _salary(employment_types: list[dict]) -> str:
         if e.get("currencySource") != "original":
             continue  # skip auto-converted USD/EUR/... duplicates
         if e.get("fromPerUnit") is None and e.get("toPerUnit") is None:
-            parts.append(e.get("type", ""))
-            continue
+            continue  # no amounts; the contract type itself goes to Job.contracts
         unit = UNITS.get(e.get("unit"), e.get("unit") or "")
         parts.append(
             f"{money(e.get('fromPerUnit'))}–{money(e.get('toPerUnit'))} "
