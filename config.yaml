@@ -44,6 +44,8 @@ sources:
     enabled: true
     category: testing
     max_pages: 5          # 10 offers per page, newest first
+    backlog:              # overrides for --backlog (everything currently online)
+      max_pages: 40
 
   nofluff:
     enabled: true
@@ -55,6 +57,9 @@ sources:
     hours_old: 3           # only postings from the last N hours
     results_per_term: 40
     delay_seconds: 15      # pause between search terms, LinkedIn answers 429 otherwise
+    backlog:
+      hours_old: 168       # last week
+      results_per_term: 100
     search_terms:
       - QA Automation Engineer
       - SDET

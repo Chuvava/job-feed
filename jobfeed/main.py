@@ -16,7 +16,7 @@ from jobfeed import filters
 from jobfeed.models import Job
 from jobfeed.sources import justjoin, linkedin, nofluff
 from jobfeed.store import SeenStore
-from jobfeed.telegram import Telegram, format_job
+from jobfeed.telegram import ICONS, Telegram, format_digest, format_job
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = {"justjoin": justjoin.fetch, "nofluff": nofluff.fetch, "linkedin": linkedin.fetch}
@@ -42,10 +42,41 @@ def cross_source_key(job: Job) -> str:
     return f"ct:{norm(company)}|{norm(job.title)}"
 
 
+def send_backlog(collected: list[Job], cfg: dict, store: SeenStore, dry_run: bool) -> int:
+    """Everything matching that is online now, seen or not; marks it all as seen."""
+    matches: dict[str, Job] = {}
+    for job in collected:
+        store.add(job.id)
+        store.add(f"src:{job.source}")
+        if filters.passes(job, cfg["filters"]):
+            key = cross_source_key(job)
+            store.add(key)
+            matches.setdefault(key, job)
+    by_source = sorted(matches.values(), key=lambda j: list(SOURCES).index(j.source))
+    log.info("backlog: %d matching offers", len(by_source))
+
+    if dry_run:
+        print("\n".join(format_digest(by_source)))
+        return 0
+
+    tg = Telegram(os.environ["TELEGRAM_TOKEN"], os.environ["TELEGRAM_CHAT_ID"])
+    tg.send(f"📋 Backlog: {len(by_source)} matching offers currently online")
+    for source in SOURCES:
+        jobs = [j for j in by_source if j.source == source]
+        if jobs:
+            tg.send(f"<b>{ICONS[source]} — {len(jobs)}</b>")
+            for message in format_digest(jobs):
+                tg.send(message)
+    store.save()
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--only", choices=SOURCES, help="run a single source")
+    parser.add_argument("--backlog", action="store_true",
+                        help="send every matching offer currently online as a compact digest, not only new ones")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
@@ -56,9 +87,11 @@ def main() -> int:
     collected: list[Job] = []
     failed: list[str] = []
     for name, fetch in SOURCES.items():
-        src_cfg = cfg["sources"].get(name, {})
+        src_cfg = dict(cfg["sources"].get(name, {}))
         if not src_cfg.get("enabled") or (args.only and args.only != name):
             continue
+        if args.backlog:  # look deeper than the regular "what's new" window
+            src_cfg.update(src_cfg.get("backlog", {}))
         try:
             jobs = fetch(src_cfg)
             log.info("%s: %d offers", name, len(jobs))
@@ -66,6 +99,9 @@ def main() -> int:
         except Exception as e:
             log.error("%s failed: %s", name, e)
             failed.append(name)
+
+    if args.backlog:
+        return send_backlog(collected, cfg, store, args.dry_run)
 
     # A source seen for the first time is indexed silently, otherwise it would dump
     # everything currently online into the chat

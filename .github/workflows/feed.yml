@@ -2,8 +2,14 @@ name: job-feed
 
 on:
   schedule:
-    - cron: "*/30 5-21 * * *"   # every 30 min, 07:00-23:30 Warsaw (UTC+2 summer)
-  workflow_dispatch: {}
+    # every 30 min, ~07:00-23:40 Warsaw; off :00/:30 because GitHub drops many top-of-hour runs
+    - cron: "7,37 5-21 * * *"
+  workflow_dispatch:
+    inputs:
+      backlog:
+        description: "Send every matching offer currently online (digest), not only new ones"
+        type: boolean
+        default: false
 
 concurrency:
   group: job-feed
@@ -30,7 +36,7 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m jobfeed.main
+        run: python -m jobfeed.main ${{ inputs.backlog && '--backlog' || '' }}
 
       - name: Save seen state
         run: |
