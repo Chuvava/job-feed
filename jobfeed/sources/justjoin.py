@@ -49,6 +49,7 @@ def fetch(cfg: dict) -> list[Job]:
                 salary=_salary(o.get("employmentTypes") or []),
                 seniority=o.get("experienceLevel", ""),
                 skills=[sk["name"] for sk in o.get("requiredSkills") or []],
+                contracts=sorted({e["type"] for e in o.get("employmentTypes") or [] if e.get("type")}),
             ))
         cursor = (body.get("meta", {}).get("next") or {}).get("cursor")
         if cursor is None:

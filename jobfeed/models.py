@@ -13,3 +13,13 @@ class Job:
     salary: str = ""
     seniority: str = ""
     skills: list[str] = field(default_factory=list)
+    contracts: list[str] = field(default_factory=list)  # b2b | permanent | mandate_contract | any ...; empty = unknown
+
+    @property
+    def no_b2b(self) -> bool:
+        """Contract types are known and B2B isn't among them (the user works only on B2B)."""
+        return no_b2b(self.contracts)
+
+
+def no_b2b(contracts: list[str]) -> bool:
+    return bool(contracts) and not {"b2b", "any"} & {c.lower() for c in contracts}

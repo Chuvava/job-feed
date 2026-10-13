@@ -12,6 +12,8 @@ WORKPLACE = {"remote": "🏠 remote", "hybrid": "🔀 hybrid", "office": "🏢 o
 def format_job(job: Job) -> str:
     e = html.escape
     lines = [f"<b>{e(job.title)}</b>", f"🏛 {e(job.company)}"]
+    if job.no_b2b:
+        lines.insert(0, f"⚠️ без B2B ({e(', '.join(job.contracts))})")
     where = " · ".join(x for x in [WORKPLACE.get(job.workplace, job.workplace), e(job.location)] if x)
     if where:
         lines.append(where)
@@ -34,6 +36,8 @@ def format_digest(jobs: list[Job], fresh_urls: set[str] = frozenset(), limit: in
         where = " ".join(x for x in [WORKPLACE.get(job.workplace, job.workplace).split(" ")[0], e(job.location[:40])] if x)
         bullet = "🆕" if job.url in fresh_urls else "•"
         line = f'{bullet} <a href="{e(job.url)}">{e(job.title)}</a> — {e(job.company)}'
+        if job.no_b2b:
+            line += " ⚠️без B2B"
         line += "".join(f" · {x}" for x in [where, e(job.salary)] if x) + "\n"
         if len(current) + len(line) > limit:
             messages.append(current)

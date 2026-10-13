@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 
+from jobfeed.models import no_b2b
 from jobfeed.sources import money, session
 from jobfeed.sources.justjoin import _salary as jj_salary
 from jobfeed.sources.nofluff import _workplace as nfj_workplace
@@ -42,6 +43,8 @@ def justjoin(url: str) -> dict:
         "location": ", ".join(dict.fromkeys(l["city"] for l in o.get("locations") or [] if l.get("city"))),
         "workplace": o.get("workplaceType"),
         "salary": jj_salary(o.get("employmentTypes") or []),
+        "contracts": (c := sorted({e["type"] for e in o.get("employmentTypes") or [] if e.get("type")})),
+        "no_b2b": no_b2b(c),
         "seniority": o.get("experienceLevel"),
         "skills_required": [s["name"] for s in o.get("requiredSkills") or []],
         "skills_nice": [s["name"] for s in o.get("niceToHaveSkills") or []],
@@ -83,6 +86,8 @@ def nofluff(url: str) -> dict:
         "location": ", ".join(sorted({pl["city"] for pl in loc.get("places", []) if pl.get("city")})),
         "workplace": nfj_workplace(loc) or _nfj_remote_days(loc.get("remote")),
         "salary": salary,
+        "contracts": (c := list((sal.get("types") or {}).keys())),
+        "no_b2b": no_b2b(c),
         "seniority": ", ".join((p.get("basics") or {}).get("seniority") or []),
         "skills_required": [m["value"] for m in req.get("musts") or []],
         "skills_nice": [m["value"] for m in req.get("nices") or []],

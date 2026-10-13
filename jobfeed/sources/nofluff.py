@@ -48,6 +48,8 @@ def fetch(cfg: dict) -> list[Job]:
                 salary=_salary(p.get("salary")),
                 seniority=", ".join(p.get("seniority") or []),
                 skills=[t["value"] for t in (p.get("tiles") or {}).get("values", []) if t.get("type") == "requirement"],
+                # search shows the b2b salary whenever the offer has one, so a non-b2b type means no B2B at all
+                contracts=[p["salary"]["type"]] if (p.get("salary") or {}).get("type") else [],
             ))
         page += 1
     return jobs
