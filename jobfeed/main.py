@@ -16,7 +16,7 @@ from jobfeed import filters
 from jobfeed.models import Job
 from jobfeed.sources import justjoin, linkedin, nofluff
 from jobfeed.store import SeenStore
-from jobfeed.telegram import ICONS, Telegram, format_digest, format_job
+from jobfeed.telegram import CARD_BUTTONS, ICONS, Telegram, format_digest, format_job
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = {"justjoin": justjoin.fetch, "nofluff": nofluff.fetch, "linkedin": linkedin.fetch}
@@ -141,7 +141,7 @@ def main() -> int:
         tg.send(f"✅ Started watching {', '.join(sorted(new_sources))}: indexed {indexed} current offers. "
                 f"New ones will arrive here.")
     for job in fresh[:MAX_MESSAGES_PER_RUN]:
-        tg.send(format_job(job))
+        tg.send(format_job(job), CARD_BUTTONS)
     if len(fresh) > MAX_MESSAGES_PER_RUN:
         tg.send(f"…and {len(fresh) - MAX_MESSAGES_PER_RUN} more skipped this run (limit {MAX_MESSAGES_PER_RUN}).")
     if failed:

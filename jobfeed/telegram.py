@@ -7,6 +7,12 @@ from jobfeed.models import Job
 
 ICONS = {"justjoin": "🟣 JJ", "nofluff": "🟢 NFJ", "linkedin": "🔵 LinkedIn"}
 WORKPLACE = {"remote": "🏠 remote", "hybrid": "🔀 hybrid", "office": "🏢 office"}
+# Handled by the Cloudflare Worker in bot/ (it reads the job back from the card text)
+CARD_BUTTONS = {"inline_keyboard": [[
+    {"text": "⭐ В трекер", "callback_data": "save"},
+    {"text": "✅ Подался", "callback_data": "applied"},
+    {"text": "🗑", "callback_data": "hide"},
+]]}
 
 
 def format_job(job: Job) -> str:
@@ -53,14 +59,17 @@ class Telegram:
         self.url = f"https://api.telegram.org/bot{token}/sendMessage"
         self.chat_id = chat_id
 
-    def send(self, text: str) -> None:
+    def send(self, text: str, buttons: dict | None = None) -> None:
+        payload = {
+            "chat_id": self.chat_id,
+            "text": text,
+            "parse_mode": "HTML",
+            "link_preview_options": {"is_disabled": True},
+        }
+        if buttons:
+            payload["reply_markup"] = buttons
         for _ in range(3):
-            r = requests.post(self.url, json={
-                "chat_id": self.chat_id,
-                "text": text,
-                "parse_mode": "HTML",
-                "link_preview_options": {"is_disabled": True},
-            }, timeout=30)
+            r = requests.post(self.url, json=payload, timeout=30)
             if r.status_code == 429:  # rate limited, Telegram says how long to wait
                 time.sleep(r.json().get("parameters", {}).get("retry_after", 5) + 1)
                 continue

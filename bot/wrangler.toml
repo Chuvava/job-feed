@@ -1,0 +1,5 @@
+name = "job-feed-bot"
+main = "src/worker.js"
+compatibility_date = "2026-09-01"
+
+# Secrets (wrangler secret put …): TELEGRAM_TOKEN, CHAT_ID, WEBHOOK_SECRET, SHEET_URL, SHEET_SECRET
