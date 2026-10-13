@@ -50,5 +50,6 @@ def fetch(cfg: dict) -> list[Job]:
                 workplace="remote" if _val(row, "is_remote") else "",
                 salary=salary,
                 seniority=_val(row, "job_level") or "",
+                published=str(_val(row, "date_posted") or "")[:10],
             )
     return list(jobs.values())

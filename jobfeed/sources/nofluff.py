@@ -1,3 +1,5 @@
+from datetime import datetime, timezone
+
 from jobfeed.models import Job
 from jobfeed.sources import money, session
 
@@ -50,6 +52,8 @@ def fetch(cfg: dict) -> list[Job]:
                 skills=[t["value"] for t in (p.get("tiles") or {}).get("values", []) if t.get("type") == "requirement"],
                 # search shows the b2b salary whenever the offer has one, so a non-b2b type means no B2B at all
                 contracts=[p["salary"]["type"]] if (p.get("salary") or {}).get("type") else [],
+                # first publication; "renewed" is just a paid bump of the same offer
+                published=datetime.fromtimestamp(p["posted"] / 1000, timezone.utc).strftime("%Y-%m-%d") if p.get("posted") else "",
             ))
         page += 1
     return jobs

@@ -49,6 +49,8 @@ def fetch(cfg: dict) -> list[Job]:
                 seniority=o.get("experienceLevel", ""),
                 skills=[sk["name"] for sk in o.get("requiredSkills") or []],
                 contracts=sorted({e["type"] for e in o.get("employmentTypes") or [] if e.get("type")}),
+                # publishedAt can lie in the future (promoted offers), lastPublishedAt is the real one
+                published=(o.get("lastPublishedAt") or o.get("publishedAt") or "")[:10],
             ))
         cursor = (body.get("meta", {}).get("next") or {}).get("cursor")
         if cursor is None:

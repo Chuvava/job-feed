@@ -14,6 +14,7 @@ class Job:
     seniority: str = ""
     skills: list[str] = field(default_factory=list)
     contracts: list[str] = field(default_factory=list)  # b2b | permanent | mandate_contract | any ...; empty = unknown
+    published: str = ""          # YYYY-MM-DD, empty = unknown
 
     @property
     def no_b2b(self) -> bool:
