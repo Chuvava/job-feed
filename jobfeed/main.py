@@ -72,12 +72,18 @@ def main() -> int:
     new_sources = {j.source for j in collected if f"src:{j.source}" not in store}
     fresh: list[Job] = []
     for job in collected:
-        key = cross_source_key(job)
-        if job.id in store or key in store:
+        if job.id in store:
             continue
         store.add(job.id)
+        # Filter before the company+title dedupe: the Gdańsk copy of an offer must not
+        # hide its Warsaw copy that does match
+        if not filters.passes(job, cfg["filters"]):
+            continue
+        key = cross_source_key(job)
+        if key in store:
+            continue
         store.add(key)
-        if job.source not in new_sources and filters.passes(job, cfg["filters"]):
+        if job.source not in new_sources:
             fresh.append(job)
     for source in new_sources:
         store.add(f"src:{source}")

@@ -41,7 +41,10 @@ def fetch(cfg: dict) -> list[Job]:
                 title=o.get("title", ""),
                 company=o.get("companyName", ""),
                 url=f"https://justjoin.it/job-offer/{o['slug']}",
-                location=o.get("city", ""),
+                # multi-city offers list every city here, the filter needs all of them
+                location=", ".join(dict.fromkeys(
+                    loc["city"] for loc in o.get("locations") or [] if loc.get("city")
+                )) or o.get("city", ""),
                 workplace=o.get("workplaceType", ""),
                 salary=_salary(o.get("employmentTypes") or []),
                 seniority=o.get("experienceLevel", ""),

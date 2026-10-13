@@ -32,8 +32,12 @@ filters:
     - junior
     - trainee
     - intern
-  # Allowed workplace types: remote, hybrid, office
-  workplace: [remote, hybrid, office]
+  # Per workplace type: "any" location, or a list of cities (diacritics/English names both fine).
+  # A type that is not listed here is rejected.
+  workplace:
+    remote: any
+    hybrid: [Łódź, Warszawa, Warsaw, Kraków, Cracow]
+    office: [Łódź]
 
 sources:
   justjoin:
