@@ -2,7 +2,7 @@
 
     A  🔥 right away: Java/C# stack + remote or a light hybrid + rate ≥ min_rate (or not stated)
     B  🗂 evening digest, ordered by score
-    C  ⬇️ evening digest, bottom: only Python/JS stack, low rate, or office/heavy hybrid outside Łódź
+    C  ⬇️ evening digest, bottom: only Python/JS stack, low rate, no B2B, or office/heavy hybrid outside Łódź
 
 Thresholds live in config.yaml → priority. Weights follow cv-match/profile.md.
 """
@@ -165,7 +165,7 @@ def priority(job: Job, cfg: dict | None = None, today: date | None = None) -> Pr
         age = (today - date.fromisoformat(job.published)).days
         score += 2 if age <= 3 else 1 if age <= 7 else 0
 
-    low = other_only or (rate is not None and rate < cfg["low_rate"]) or heavy
+    low = other_only or (rate is not None and rate < cfg["low_rate"]) or heavy or job.no_b2b
     rate_ok = rate is None or rate >= cfg["min_rate"]
     tier = "A" if core and light and rate_ok and not low else "C" if low else "B"
 
@@ -175,4 +175,6 @@ def priority(job: Job, cfg: dict | None = None, today: date | None = None) -> Pr
     lang = [n for n, p in (("Java", r"java(?!script)"), ("C#", r"c#|\.net|csharp"), ("Python", r"python|pytest"),
                            ("JS", r"javascript|js|node\.?js"), ("TS", r"typescript")) if _has(p, stack_text)]
     why.append("/".join(lang) or "язык ?")
+    if job.no_b2b:
+        why.append("без B2B")
     return Priority(tier, score, rate, office, " · ".join(why))
