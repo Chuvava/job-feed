@@ -290,6 +290,216 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:mid-senior-software-developer-engineer-in-test-sdet-tns-Łódź",
+"source": "nofluff",
+"title": "Mid/Senior Software Developer Engineer in Test (SDET)",
+"company": "TNS",
+"url": "https://nofluffjobs.com/pl/job/mid-senior-software-developer-engineer-in-test-sdet-tns-lodz",
+"location": "Łódź",
+"workplace": "hybrid",
+"salary": "15 000–21 500 PLN/mo permanent",
+"seniority": "Mid",
+"skills": [
+"Test automation",
+"Postman",
+"Selenium",
+"Testing"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 127.97619047619048,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~128 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:cc485f44-b880-4c41-94dc-77100b362ee7",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer | Branża bankowa",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-senior-test-automation-engineer-branza-bankowa-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Playwright",
+"REST",
+"SOAP"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-08-25"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": 4.0,
+"why": "офис ~4 дн/мес · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4479004314",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer with Databricks",
+"company": "Luxoft Poland",
+"url": "https://www.linkedin.com/jobs/view/4479004314",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478465424",
+"source": "linkedin",
+"title": "Senior Quality Assurance Engineer IRC306241",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4478465424",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4"
+]
+},
+{
+"job": {
+"id": "justjoin:e5439c51-8d56-4c63-bcff-6e1b42d93d91",
+"source": "justjoin",
+"title": "Senior Mobile QA Engineer (Android)",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-senior-mobile-qa-engineer-android--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "90–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Manual Testing",
+"QA",
+"Android",
+"Kotlin",
+"Appium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-09"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:977df135-9888-4b13-aca5-039ac31a97ae",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Miquido",
+"url": "https://justjoin.it/job-offer/miquido-qa-engineer-krakow-testing",
+"location": "Kraków, Katowice, Tarnów",
+"workplace": "remote",
+"salary": "11 800–15 100 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Test Automation",
+"Playwright",
+"API Testing",
+"CI/CD",
+"AI"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-07-30"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 89.88095238095238,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4476671464",
+"source": "linkedin",
+"title": "Tester",
+"company": "Hays",
+"url": "https://www.linkedin.com/jobs/view/4476671464",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
