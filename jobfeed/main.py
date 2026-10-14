@@ -6,7 +6,6 @@
 import argparse
 import logging
 import os
-import re
 import sys
 from pathlib import Path
 
@@ -16,6 +15,7 @@ from jobfeed import filters
 from jobfeed.models import Job
 from jobfeed.sources import justjoin, linkedin, nofluff
 from jobfeed.store import SeenStore
+from jobfeed.tracker import Tracker, cross_source_key, legacy_key
 from jobfeed.telegram import CARD_BUTTONS, ICONS, Telegram, format_digest, format_job
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -35,11 +35,9 @@ def load_env(path: Path) -> None:
             os.environ.setdefault(key.strip(), value.strip())
 
 
-def cross_source_key(job: Job) -> str:
-    """Same offer posted on several boards -> same key."""
-    norm = lambda s: re.sub(r"[^a-z0-9]+", "", s.lower())
-    company = re.sub(r"\b(sp z o o|s a|ltd|gmbh|inc|llc)\b", "", job.company.lower())
-    return f"ct:{norm(company)}|{norm(job.title)}"
+def tracker_note(job: Job, tracker: Tracker) -> list[str]:
+    row = tracker.find(job)
+    return [f"📌 Уже в трекере · строка {row['row']} · {row['stage']}"] if row else []
 
 
 def send_backlog(collected: list[Job], cfg: dict, store: SeenStore, dry_run: bool) -> int:
@@ -57,10 +55,12 @@ def send_backlog(collected: list[Job], cfg: dict, store: SeenStore, dry_run: boo
             store.add(key)
             matches.setdefault(key, job)
     by_source = sorted(matches.values(), key=lambda j: list(SOURCES).index(j.source))
+    tracker = Tracker.load()
+    tracked = {j.url: row["row"] for j in by_source if (row := tracker.find(j))}
     log.info("backlog: %d matching offers", len(by_source))
 
     if dry_run:
-        print("\n".join(format_digest(by_source, fresh_urls)))
+        print("\n".join(format_digest(by_source, fresh_urls, tracked=tracked)))
         return 0
 
     tg = Telegram(os.environ["TELEGRAM_TOKEN"], os.environ["TELEGRAM_CHAT_ID"])
@@ -70,7 +70,7 @@ def send_backlog(collected: list[Job], cfg: dict, store: SeenStore, dry_run: boo
         jobs = [j for j in by_source if j.source == source]
         if jobs:
             tg.send(f"<b>{ICONS[source]} — {len(jobs)}</b>")
-            for message in format_digest(jobs, fresh_urls):
+            for message in format_digest(jobs, fresh_urls, tracked=tracked):
                 tg.send(message)
     store.save()
     return 0
@@ -121,7 +121,7 @@ def main() -> int:
         if not filters.passes(job, cfg["filters"]):
             continue
         key = cross_source_key(job)
-        if key in store:
+        if key in store or legacy_key(job) in store:  # same offer from another board, or a repost
             continue
         store.add(key)
         if job.source not in new_sources:
@@ -130,9 +130,10 @@ def main() -> int:
         store.add(f"src:{source}")
     log.info("new matching offers: %d (silently indexed sources: %s)", len(fresh), sorted(new_sources) or "-")
 
+    tracker = Tracker.load() if fresh else Tracker([])
     if args.dry_run:
         for job in fresh:
-            print(format_job(job), end="\n\n")
+            print(format_job(job, tracker_note(job, tracker)), end="\n\n")
         return 0
 
     tg = Telegram(os.environ["TELEGRAM_TOKEN"], os.environ["TELEGRAM_CHAT_ID"])
@@ -141,7 +142,7 @@ def main() -> int:
         tg.send(f"✅ Started watching {', '.join(sorted(new_sources))}: indexed {indexed} current offers. "
                 f"New ones will arrive here.")
     for job in fresh[:MAX_MESSAGES_PER_RUN]:
-        tg.send(format_job(job), CARD_BUTTONS)
+        tg.send(format_job(job, tracker_note(job, tracker)), CARD_BUTTONS)
     if len(fresh) > MAX_MESSAGES_PER_RUN:
         tg.send(f"…and {len(fresh) - MAX_MESSAGES_PER_RUN} more skipped this run (limit {MAX_MESSAGES_PER_RUN}).")
     if failed:

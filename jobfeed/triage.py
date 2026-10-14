@@ -2,7 +2,8 @@
 
     python -m jobfeed.triage --dry-run                 # print the ranking
     python -m jobfeed.triage --days 14 --cards 25      # top 25 as cards with buttons, the rest as a digest
-    python -m jobfeed.triage --exclude tracked.txt     # skip URLs already in the tracker (one per line)
+
+Offers already in the tracker (by URL or company+title, read via SHEET_URL) are skipped.
 
 Does not touch state/seen.json: the hourly feed keeps working as before.
 """
@@ -13,15 +14,15 @@ import os
 import re
 import sys
 from datetime import date, timedelta
-from pathlib import Path
 
 import yaml
 
 from jobfeed import filters
 from jobfeed.filters import _norm
-from jobfeed.main import ROOT, SOURCES, cross_source_key, load_env
+from jobfeed.main import ROOT, SOURCES, load_env
 from jobfeed.models import Job
 from jobfeed.telegram import CARD_BUTTONS, Telegram, format_job
+from jobfeed.tracker import Tracker, cross_source_key
 
 log = logging.getLogger("jobfeed.triage")
 
@@ -87,15 +88,10 @@ def digest(ranked: list[tuple[int, Job]], limit: int = 3800) -> list[str]:
     return messages + ([current] if current else [])
 
 
-def norm_url(url: str) -> str:
-    return re.sub(r"[?#].*$", "", url.strip()).rstrip("/").lower()
-
-
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--days", type=int, default=14, help="drop offers published earlier than this")
     parser.add_argument("--cards", type=int, default=25, help="how many top offers to send as cards with buttons")
-    parser.add_argument("--exclude", type=Path, help="file with URLs already in the tracker")
     parser.add_argument("--only", choices=SOURCES)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
@@ -105,7 +101,8 @@ def main() -> int:
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text("utf-8"))
     today = date.today()
     since = today - timedelta(days=args.days)
-    tracked = {norm_url(u) for u in args.exclude.read_text("utf-8").split()} if args.exclude else set()
+    tracker = Tracker.load()
+    log.info("tracker rows: %d", len(tracker))
 
     collected: list[Job] = []
     for name, fetch in SOURCES.items():
@@ -129,7 +126,7 @@ def main() -> int:
             stats["no_b2b"] += 1; continue
         if job.published and date.fromisoformat(job.published) < since:
             stats["old"] += 1; continue
-        if norm_url(job.url) in tracked:
+        if tracker.find(job):
             stats["tracked"] += 1; continue
         pts, _ = score(job, today)
         key = cross_source_key(job)

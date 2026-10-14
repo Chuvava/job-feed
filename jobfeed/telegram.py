@@ -16,7 +16,8 @@ CARD_BUTTONS = {"inline_keyboard": [[
 ]]}
 
 
-def format_job(job: Job) -> str:
+def format_job(job: Job, notes: list[str] = ()) -> str:
+    """notes go right before the source line: the bot expects title first and source last."""
     e = html.escape
     lines = [f"<b>{e(job.title)}</b>", f"🏛 {e(job.company)}"]
     if job.no_b2b:
@@ -30,11 +31,13 @@ def format_job(job: Job) -> str:
         lines.append(f"🎚 {e(job.seniority)}")
     if job.skills:
         lines.append(f"🧰 {e(', '.join(job.skills[:8]))}")
+    lines += [e(n) for n in notes]
     lines.append(f'{ICONS.get(job.source, job.source)} · <a href="{e(job.url)}">open</a>')
     return "\n".join(lines)
 
 
-def format_digest(jobs: list[Job], fresh_urls: set[str] = frozenset(), limit: int = 3800) -> list[str]:
+def format_digest(jobs: list[Job], fresh_urls: set[str] = frozenset(), limit: int = 3800,
+                  tracked: dict[str, int] = {}) -> list[str]:
     """Compact one-line-per-job list, split into messages under Telegram's 4096-char limit."""
     e = html.escape
     messages, current = [], ""
@@ -45,6 +48,8 @@ def format_digest(jobs: list[Job], fresh_urls: set[str] = frozenset(), limit: in
         line = f'{bullet} <a href="{e(job.url)}">{e(job.title)}</a> — {e(job.company)}'
         if job.no_b2b:
             line += " ⚠️без B2B"
+        if job.url in tracked:
+            line += f" 📌стр.{tracked[job.url]}"
         line += "".join(f" · {x}" for x in [where, e(job.salary)] if x) + "\n"
         if len(current) + len(line) > limit:
             messages.append(current)
