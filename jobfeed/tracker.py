@@ -62,15 +62,17 @@ class Tracker:
         url, secret = os.environ.get("SHEET_URL"), os.environ.get("SHEET_SECRET")
         if not url or not secret:
             return cls([])
-        try:
-            r = requests.post(url, json={"secret": secret, "action": "list"}, timeout=60)
-            rows = r.json().get("rows")
-            if rows is None:
-                raise ValueError(r.text[:200])
-            return cls(rows)
-        except Exception as e:  # the feed must keep working without the sheet
-            log.warning("tracker unavailable: %s", e)
-            return cls([])
+        for attempt in range(3):  # Apps Script sometimes hangs on a cold start
+            try:
+                r = requests.post(url, json={"secret": secret, "action": "list"}, timeout=30)
+                rows = r.json().get("rows")
+                if rows is None:
+                    raise ValueError(r.text[:200])
+                log.info("tracker: %d rows", len(rows))
+                return cls(rows)
+            except Exception as e:  # the feed must keep working without the sheet
+                log.warning("tracker unavailable (attempt %d): %s", attempt + 1, e)
+        return cls([])
 
     def find(self, job: Job) -> dict | None:
         return self.by_url.get(norm_url(job.url)) or self.by_key.get(cross_source_key(job))
