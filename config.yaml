@@ -65,3 +65,12 @@ sources:
       - SDET
       - Test Automation Engineer
       - Playwright
+
+# Delivery priority (jobfeed/rank.py): 🔥 card right away only for Java/C# + remote or light hybrid
+# + rate ≥ min_rate (or not stated); everything else waits for the evening digest.
+priority:
+  min_rate: 120          # PLN/h B2B; monthly /168, daily /8, EUR ×4.25
+  low_rate: 100          # below this → low priority
+  light_hybrid_days: 6   # office days per month that still count as "almost remote"
+  digest_hour: 20        # Europe/Warsaw, first hourly run at or after it sends the digest
+  digest_cards: 10       # top N of the digest as cards with buttons

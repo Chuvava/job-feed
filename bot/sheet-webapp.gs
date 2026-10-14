@@ -6,7 +6,7 @@
  *
  * POST JSON: {secret, action: "save"|"applied"|"cv"|"target", job: {url, title, company, where, salary, skills, source, noB2b}, cv}
  * Returns JSON: {row, existed} or {error}.
- * action "list" (used by the feed to mark offers already in the tracker) returns {rows: [{row, url, company, role, stage}]}.
+ * action "list" (used by the feed to mark offers already in the tracker) returns {rows: [{row, url, company, role, stage, cv}]}.
  */
 const SPREADSHEET_ID = '1ApL9PkVKOzU47T550zH_spfzKoDVlBBnBaH9xAZIYqo';
 const TAB = '2026 New';
@@ -155,11 +155,12 @@ function target(sheet, job) {
 
 function list(sheet) {
   const n = LAST_ROW - FIRST_DATA_ROW + 1;
-  const values = sheet.getRange(FIRST_DATA_ROW, COL.company, n, COL.url).getValues();   // A..H
+  const values = sheet.getRange(FIRST_DATA_ROW, COL.company, n, COL.cv).getValues();   // A..L
   const rows = [];
   values.forEach((v, i) => {
     if (String(v[0]).trim()) {
-      rows.push({row: FIRST_DATA_ROW + i, company: String(v[0]), role: String(v[1]), stage: String(v[2]), url: String(v[COL.url - 1])});
+      rows.push({row: FIRST_DATA_ROW + i, company: String(v[0]), role: String(v[1]), stage: String(v[2]), url: String(v[COL.url - 1]),
+                 cv: String(v[COL.cv - 1])});
     }
   });
   return {rows: rows};

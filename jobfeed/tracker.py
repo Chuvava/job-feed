@@ -56,6 +56,10 @@ class Tracker:
     def __init__(self, rows: list[dict]):
         self.by_url = {norm_url(r["url"]): r for r in rows if str(r.get("url", "")).startswith("http")}
         self.by_key = {f"ct:{company_key(r['company'])}|{title_key(r['role'])}": r for r in rows}
+        self.by_company: dict[str, list[dict]] = {}
+        for r in rows:
+            if company_key(r["company"]):
+                self.by_company.setdefault(company_key(r["company"]), []).append(r)
 
     @classmethod
     def load(cls) -> "Tracker":
@@ -76,6 +80,16 @@ class Tracker:
 
     def find(self, job: Job) -> dict | None:
         return self.by_url.get(norm_url(job.url)) or self.by_key.get(cross_source_key(job))
+
+    def notes(self, job: Job) -> list[str]:
+        """📌 this very offer is in the tracker; ⚠️ other rows of the same company (don't send two CVs)."""
+        own = self.find(job)
+        out = [f"📌 Уже в трекере · строка {own['row']} · {own['stage']}"] if own else []
+        for r in self.by_company.get(company_key(job.company), []):
+            if r is not own:
+                cv = f" · CV {r['cv']}" if r.get("cv") else ""
+                out.append(f"⚠️ {r['company']}: «{r['role']}» · {r['stage']}{cv} · строка {r['row']}")
+        return out[:3]
 
     def __len__(self) -> int:
         return len(self.by_key)

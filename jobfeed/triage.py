@@ -11,14 +11,12 @@ import argparse
 import html
 import logging
 import os
-import re
 import sys
 from datetime import date, timedelta
 
 import yaml
 
-from jobfeed import filters
-from jobfeed.filters import _norm
+from jobfeed import filters, rank
 from jobfeed.main import ROOT, SOURCES, load_env
 from jobfeed.models import Job
 from jobfeed.telegram import CARD_BUTTONS, Telegram, format_job
@@ -26,43 +24,9 @@ from jobfeed.tracker import Tracker, cross_source_key
 
 log = logging.getLogger("jobfeed.triage")
 
-# Weights follow cv-match/profile.md: strong skills count most, "none" skills are penalties.
-# Matched as whole words against title + required skills (LinkedIn has only the title).
-STACK = {
-    r"java(?!script)": 3, r"c#|\.net|csharp": 3, r"selenium|selenide": 2, r"playwright": 2,
-    r"rest ?assured": 2, r"api": 1, r"typescript": 1, r"sql|mysql|oracle": 1, r"testng|junit|nunit": 1,
-    r"cucumber|bdd|gherkin": 1, r"jenkins|gitlab|azure|teamcity|ci/cd": 1, r"docker|kubernetes|k8s": 1,
-    r"appium|mobile": 1, r"postman|swagger|openapi": 1, r"kafka": 1, r"sdet|automation|aqa": 2,
-}
-PENALTY = {r"python|pytest": -4, r"cypress": -1, r"ranorex|tosca|uft": -2, r"k6|gatling|locust": -1,
-           r"lead|manager|head of|principal": -1, r"mid\b|regular": -1}
-
-
-def _hits(patterns: dict[str, int], text: str) -> list[tuple[str, int]]:
-    return [(p, w) for p, w in patterns.items() if re.search(rf"(?<![a-z]){p}(?![a-z])", text)]
-
-
-def score(job: Job, today: date) -> tuple[int, list[str]]:
-    text = _norm(" ".join([job.title, *job.skills]))
-    why: list[str] = []
-    pts = 0
-    for p, w in _hits(STACK, text) + _hits(PENALTY, text):
-        pts += w
-    loc = _norm(job.location)
-    if job.workplace == "remote":
-        pts += 3; why.append("remote")
-    elif "lodz" in loc:
-        pts += 3; why.append("Łódź")
-    elif "warsz" in loc or "warsaw" in loc:
-        pts += 1
-    if "senior" in _norm(job.seniority + " " + job.title):
-        pts += 1
-    if job.salary:
-        pts += 1
-    if job.published:
-        age = (today - date.fromisoformat(job.published)).days
-        pts += 2 if age <= 3 else 1 if age <= 7 else 0
-    return pts, why
+def score(job: Job, today: date, prio_cfg: dict) -> tuple[int, str]:
+    pr = rank.priority(job, prio_cfg, today)
+    return pr.score, pr.why
 
 
 def card(job: Job, pts: int) -> str:
@@ -128,7 +92,7 @@ def main() -> int:
             stats["old"] += 1; continue
         if tracker.find(job):
             stats["tracked"] += 1; continue
-        pts, _ = score(job, today)
+        pts, _ = score(job, today, {**rank.DEFAULTS, **cfg.get("priority", {})})
         key = cross_source_key(job)
         if key not in best or pts > best[key][0]:  # same offer on two boards: keep the richer copy
             best[key] = (pts, job)
