@@ -625,6 +625,302 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:e821b32b-91b1-4222-9fe2-7710c174ca18",
+"source": "justjoin",
+"title": "QA / Test Automation Engineer",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-qa-test-automation-engineer-lisbon-testing",
+"location": "Lisbon",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Documentation",
+"Project Management",
+"Java",
+"JavaScript",
+"API (Application Programming Interface)",
+"Quality Assurance (QA)",
+"maintenance",
+"Coordination",
+"CI/CD",
+"frontend"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-09"
+},
+"priority": {
+"tier": "A",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/JS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:9b38ee9c-186d-477f-864d-6e736496c142",
+"source": "justjoin",
+"title": "Team-penetrasjonstestere for digital lommebok, MinID og eFormidling (SSA-O)",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-team-penetrasjonstestere-for-digital-lommebok-minid-og-eformidling-ssa-o--oslo-testing",
+"location": "Oslo",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Security",
+"Java",
+"JavaScript",
+"API (Application Programming Interface)",
+"PKI",
+"Spring",
+"frontend",
+"Backend",
+"Testing",
+"Android"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-09"
+},
+"priority": {
+"tier": "A",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/JS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:715ba70d-bf6e-432d-b4c2-510704c5aeba",
+"source": "justjoin",
+"title": "QA / Integration Test Engineer",
+"company": "PEOPLEMORE P.S.A.",
+"url": "https://justjoin.it/job-offer/peoplemore-p-s-a--qa-integration-test-engineer-krakow-testing",
+"location": "Kraków, Warszawa, Poznań, Wrocław, Gdańsk",
+"workplace": "remote",
+"salary": "110–160 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Testing",
+"Test Cases",
+"TEST SCENARIOS",
+"Test Automation",
+"Testing Tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-06"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 160.0,
+"office_days": null,
+"why": "remote · ~160 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8c598fd2-3ba5-4255-8fbe-d0df060186b1",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer",
+"company": "Ready4S",
+"url": "https://justjoin.it/job-offer/ready4s-senior-test-automation-engineer-krakow-testing",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "150–180 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"AWS"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-04"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 180.0,
+"office_days": null,
+"why": "remote · ~180 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:5c9994a8-9f3f-41d6-95f6-8ec4f3f1f6c4",
+"source": "justjoin",
+"title": "QA Mobile Automation Engineer",
+"company": "AI Clearing",
+"url": "https://justjoin.it/job-offer/ai-clearing-qa-mobile-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "10 000–13 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Test Automation",
+"Kotlin",
+"Java",
+"Appium",
+"REST API",
+"CI/CD",
+"Git",
+"SQL",
+"Docker"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-28"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 77.38095238095238,
+"office_days": null,
+"why": "hybrid · ~77 PLN/ч · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:e5f2438c-4436-4942-b8ff-e5e21bf1104f",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer (Python)",
+"company": "EPAM Systems",
+"url": "https://justjoin.it/job-offer/epam-systems-senior-qa-automation-engineer-python--wroclaw-testing",
+"location": "Wroclaw",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Python",
+"Selenium",
+"Automated Testing in Python",
+"SQL",
+"Web Service / API Testing",
+"Test automation frameworks",
+"AI Agents Development"
+],
+"contracts": [
+"any"
+],
+"published": "2026-08-05"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4476695747",
+"source": "linkedin",
+"title": "DPU Datapath Engineer, Validation & Automation",
+"company": "CoreWeave",
+"url": "https://www.linkedin.com/jobs/view/4476695747",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479598436",
+"source": "linkedin",
+"title": "Embedded Systems Test Engineer",
+"company": "Geotab",
+"url": "https://www.linkedin.com/jobs/view/4479598436",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:c007fab0-c46b-4b1e-b509-8f76e4622938",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer (Databricks, SQL, Python, Robot Framework)",
+"company": "EPAM Systems",
+"url": "https://justjoin.it/job-offer/epam-systems-senior-qa-automation-engineer-databricks-sql-python-robot-framework--krakow-testing",
+"location": "Krakow",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Robot Framework",
+"SQL",
+"Python",
+"Databricks",
+"Data Quality Engineering",
+"Test Automation",
+"ETL",
+"Regulatory Reporting"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-14"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
