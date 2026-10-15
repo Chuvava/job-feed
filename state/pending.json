@@ -2652,6 +2652,290 @@
 "notes": [
 "⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
 ]
+},
+{
+"job": {
+"id": "justjoin:9043ca4c-a249-4d10-9576-c9d0f8eef19c",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer (Java) - K/M",
+"company": "ASTEK Polska",
+"url": "https://justjoin.it/job-offer/astek-polska-senior-qa-automation-engineer-java---k-m-warszawa-testing",
+"location": "Warszawa, Gdańsk, Wrocław, Poznań, Kraków",
+"workplace": "remote",
+"salary": "800–1 100 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"Selenium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": 137.5,
+"office_days": null,
+"why": "remote · ~138 PLN/ч · Java"
+},
+"sent_now": true,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4460474699",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer / Senior Test Automation Engineerka - Warszawa (Mazowieckie), Polska K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4460474699",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4469318546",
+"source": "linkedin",
+"title": "QA Automation Engineer (Playwright | Java | Python | API Testing)  -  K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4469318546",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"sent_now": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "justjoin:51c64aa1-0a34-4201-93bb-a489e19743ed",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "dotLinkers",
+"url": "https://justjoin.it/job-offer/dotlinkers-qa-automation-engineer-poznan-testing",
+"location": "Poznań, Kraków, Warszawa, Wrocław, Gdańsk",
+"workplace": "remote",
+"salary": "11 000–18 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"API",
+"QA",
+"Web Applications",
+"CI/CD",
+"Quality Assurance",
+"Test Automation"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-09-30"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 107.14285714285714,
+"office_days": null,
+"why": "remote · ~107 PLN/ч · язык ? · без B2B"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:cd5fa2ce-a1b4-422c-ab3b-4cb0025fba91",
+"source": "justjoin",
+"title": "Embedded Tester (Python)",
+"company": "Verks",
+"url": "https://justjoin.it/job-offer/verks-embedded-tester-python--warszawa-testing",
+"location": "Warszawa, Gdańsk, Poznań, Wrocław, Kraków",
+"workplace": "remote",
+"salary": "110–175 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Python",
+"Embedded Systems",
+"pytest",
+"CI/CD",
+"Test Automation",
+"test framework",
+"Automotive",
+"Functional Testing",
+"Network Protocols"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-07-27"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 175.0,
+"office_days": null,
+"why": "remote · ~175 PLN/ч · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:27945b31-30fc-49ea-b801-d916e85378c7",
+"source": "justjoin",
+"title": "Tester oprogramowania",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-tester-oprogramowania-warszawa-testing-93f462cf",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "80–100 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"SQL",
+"ISTQB",
+"SoapUI",
+"Postman",
+"Jira",
+"MS Word"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-07-22"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:5996ea3e-33df-4f4e-b1ef-21ca4369747f",
+"source": "justjoin",
+"title": "Tester",
+"company": "PKO BP Finat",
+"url": "https://justjoin.it/job-offer/pko-bp-finat-tester-warszawa-testing-4d233075",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Testing",
+"Xray"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-31"
+},
+"priority": {
+"tier": "B",
+"score": 2,
+"rate": null,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:99b3320f-a54b-4871-91df-9d951f4e32a0",
+"source": "justjoin",
+"title": "Tester IT",
+"company": "act digital",
+"url": "https://justjoin.it/job-offer/act-digital-tester-it-warszawa-testing-ca3995d8",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "78–88 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"SQL",
+"SOAP UI",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-31"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": 88.0,
+"office_days": null,
+"why": "hybrid · ~88 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:3f2a9206-37f9-4e47-899e-3b5f93c4269a",
+"source": "justjoin",
+"title": "IT Tester",
+"company": "act digital",
+"url": "https://justjoin.it/job-offer/act-digital-it-tester-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "55–62 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"SoapUI",
+"Postman",
+"Jira",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-31"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": 62.0,
+"office_days": null,
+"why": "hybrid · ~62 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
