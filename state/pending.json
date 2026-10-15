@@ -2175,6 +2175,341 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:99c39f27-b5c7-454e-a4c9-d19bd82208b6",
+"source": "justjoin",
+"title": "Senior QA Engineer",
+"company": "KUBO",
+"url": "https://justjoin.it/job-offer/kubo-senior-qa-engineer-gdansk-testing",
+"location": "Gdańsk",
+"workplace": "remote",
+"salary": "130–160 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"QA",
+"Test Automation",
+".NET C#",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": 160.0,
+"office_days": null,
+"why": "remote · ~160 PLN/ч · C#"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8ec4725f-925a-4b61-9abc-9a00cb580e47",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer",
+"company": "Clurgo ",
+"url": "https://justjoin.it/job-offer/clurgo--senior-test-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "110–130 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"API Testing",
+"Playwright",
+"TypeScript",
+"Jira",
+"qTest",
+"Git",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-30"
+},
+"priority": {
+"tier": "C",
+"score": 15,
+"rate": 130.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~130 PLN/ч · Java/TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4442726725",
+"source": "linkedin",
+"title": "Automation Tester (f/m)",
+"company": "NATEK",
+"url": "https://www.linkedin.com/jobs/view/4442726725",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": [
+"⚠️ NATEK — maritime & technology: «QA Automation Engineer (.NET/C#)» · Контакт · строка 7"
+]
+},
+{
+"job": {
+"id": "justjoin:e08cff9f-4634-4bc2-a7e4-2a65e4c6b0e1",
+"source": "justjoin",
+"title": "Inżynier QA ds. Automatyzacji Testów",
+"company": "PKO BP Finat",
+"url": "https://justjoin.it/job-offer/pko-bp-finat-inzynier-qa-ds-automatyzacji-testow-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Apache Kafka",
+"Java",
+"REST API",
+"SQL",
+"PostgreSQL",
+"JavaScript",
+"Selenium",
+"Cypress",
+"Playwright",
+"Cucumber"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-15"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java/JS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:748afbeb-ddf8-4f62-bba2-8f8dcdf0a626",
+"source": "justjoin",
+"title": "QA Test Engineer (Automation)",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-qa-test-engineer-automation--warsaw-testing",
+"location": "Warsaw",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Java",
+"Quality Assurance (QA)",
+"Maven",
+"CI/CD",
+"JMeter",
+"ISTQB",
+"Selenium",
+"REST",
+"Jenkins",
+"Atlassian Bamboo"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-05"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479112357",
+"source": "linkedin",
+"title": "Tester IT - Automatyzacja",
+"company": "act digital EMEA - Alter Solutions",
+"url": "https://www.linkedin.com/jobs/view/4479112357",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:9fe0d33f-f340-4004-a7bf-c44f65afeffe",
+"source": "justjoin",
+"title": "Tester IT - Automatyzacja",
+"company": "act digital",
+"url": "https://justjoin.it/job-offer/act-digital-tester-it---automatyzacja-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "105–115 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Playwright",
+"TypeScript",
+"API",
+"UI",
+"Cypress",
+"WebdriverIO",
+"Selenium",
+"Node.js",
+"DevOps",
+"Grafana / Kibana"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 115.0,
+"office_days": null,
+"why": "hybrid · ~115 PLN/ч · JS/TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:4a2ed502-9fb6-48c4-a30a-4a5f9008e0d1",
+"source": "justjoin",
+"title": "Tester Automatyczny - Data & API",
+"company": "PKO BP Finat",
+"url": "https://justjoin.it/job-offer/pko-bp-finat-tester-automatyczny---data-api-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"SQL",
+"Data Warehousing",
+"ETL",
+"REST API",
+"SOAP",
+"Postman",
+"Swagger",
+"TestRail",
+"API",
+"Azure DevOps"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-25"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:452e4f3c-a6ae-4be1-999e-2a616128bfe1",
+"source": "justjoin",
+"title": "Tester aplikacji kredytowych",
+"company": "PKO BP Finat",
+"url": "https://justjoin.it/job-offer/pko-bp-finat-tester-aplikacji-kredytowych-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"REST API",
+"Jira",
+"Postman",
+"Swagger",
+"Kibana",
+"Scrum"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-15"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:a2ae6c44-a1ff-41f2-a227-6b5f6528d700",
+"source": "justjoin",
+"title": "Senior QA Engineer",
+"company": "JellyLabs Tech",
+"url": "https://justjoin.it/job-offer/jellylabs-tech-senior-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "85–90 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Test Cases"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 90.0,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
