@@ -1364,6 +1364,343 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4461707764",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer IV",
+"company": "OpenX",
+"url": "https://www.linkedin.com/jobs/view/4461707764",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python/JS/TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:486c2758-9012-4625-acc5-e143381ea6b6",
+"source": "justjoin",
+"title": "Senior IT Automation Tester (with PEGA)",
+"company": "DCG",
+"url": "https://justjoin.it/job-offer/dcg-senior-it-automation-tester-with-pega--warszawa-testing",
+"location": "Warszawa, Gdańsk, Gdynia",
+"workplace": "hybrid",
+"salary": "130–150 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+".Net",
+".NET C#",
+"Testing",
+"SQL",
+"Bitbucket",
+"Bamboo",
+"PEGA",
+"CI/CD",
+"Git"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-05"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 150.0,
+"office_days": null,
+"why": "hybrid · ~150 PLN/ч · C#"
+},
+"sent_now": false,
+"notes": [
+"⚠️ DCG (агентство) — клиент не назван: «Tester/ka Automatyzujący/a» · Откликнулся · CV Java classic · строка 31"
+]
+},
+{
+"job": {
+"id": "justjoin:c1580021-cbdb-43b8-a579-56daa0253bed",
+"source": "justjoin",
+"title": "Tester automatyzujący (C#)",
+"company": "Nexio Management Sp. z o. o.",
+"url": "https://justjoin.it/job-offer/nexio-management-sp-z-o-o--tester-automatyzujacy-c--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+".NET C#",
+"C#",
+"Testing",
+"Test Automation",
+"Selenium",
+"Playwright",
+"Entity Framework"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-10"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · C#"
+},
+"sent_now": false,
+"notes": [
+"⚠️ Nexio Management — клиент из энергетики: «Test Automation Engineer – SAP IS-U / Tricentis Tosca» · Откликнулся · CV Java classic · строка 33"
+]
+},
+{
+"job": {
+"id": "justjoin:fe27a442-bf62-439b-8d49-9958754cdd93",
+"source": "justjoin",
+"title": "Test Engineer",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-test-engineer-krakow-testing-b89a38a7",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "140–155 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+".Net",
+"C#",
+"JavaScript",
+"TypeScript",
+"Azure DevOps"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-11"
+},
+"priority": {
+"tier": "A",
+"score": 12,
+"rate": 155.0,
+"office_days": 5.0,
+"why": "офис ~5 дн/мес · ~155 PLN/ч · C#/JS/TS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:256d7240-5c74-4dfc-b0f4-e845ce7ba266",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "H2B Group",
+"url": "https://justjoin.it/job-offer/h2b-group-qa-automation-engineer-gdansk-testing-790dd5e4",
+"location": "Gdańsk",
+"workplace": "remote",
+"salary": "90–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Gherkin",
+"Playwright",
+"Cypress",
+"Selenium",
+"SpecFlow",
+"BDD",
+"RESTful API",
+"GitHub Actions",
+"Terraform"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-06"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:00dc655b-53db-4937-b89d-1cbc8df8042a",
+"source": "justjoin",
+"title": "QA Automation Specialist",
+"company": "KOMFORT",
+"url": "https://justjoin.it/job-offer/komfort-qa-automation-specialist-lodz-testing",
+"location": "Łódź",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Playwright",
+"Selenium",
+"Cypress",
+"QA",
+"Test Automation",
+"CI/CD"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-08-31"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ? · без B2B"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479791721",
+"source": "linkedin",
+"title": "Senior Automation QA",
+"company": "Seargin",
+"url": "https://www.linkedin.com/jobs/view/4479791721",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477061754",
+"source": "linkedin",
+"title": "Lead QA Engineer",
+"company": "Transcenda",
+"url": "https://www.linkedin.com/jobs/view/4477061754",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477054799",
+"source": "linkedin",
+"title": "Quality Assurance Support Specialist",
+"company": "Daikin Europe Business Support",
+"url": "https://www.linkedin.com/jobs/view/4477054799",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:65da7d90-9799-48cf-a94b-bd253f5039f4",
+"source": "justjoin",
+"title": "Tester / Testerka Oprogramowania",
+"company": "VeloBank S.A.",
+"url": "https://justjoin.it/job-offer/velobank-s-a--tester-testerka-oprogramowania-wroclaw-testing",
+"location": "Wrocław, Katowice",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Jira",
+"Confluence",
+"API Testing",
+"X-ray"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-09-21"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ? · без B2B"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479810055",
+"source": "linkedin",
+"title": "QA Automation Engineer-Python",
+"company": "iXceed Solutions",
+"url": "https://www.linkedin.com/jobs/view/4479810055",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
