@@ -2510,6 +2510,148 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:71592317-567d-43b3-8d4d-f3ff140166aa",
+"source": "justjoin",
+"title": "Senior Automation Tester (k/m)",
+"company": "Lumicode Sp. z o.o. (Pentacomp Group)",
+"url": "https://justjoin.it/job-offer/lumicode-sp-z-o-o-pentacomp-group--senior-automation-tester-k-m--gdansk-testing",
+"location": "Gdańsk, Warszawa, Łódź, Gdynia",
+"workplace": "hybrid",
+"salary": "100–125 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"JUnit",
+"Selenium",
+"SQL",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-05"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": 125.0,
+"office_days": null,
+"why": "hybrid · ~125 PLN/ч · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477074929",
+"source": "linkedin",
+"title": "Network Automation Engineer (DevOps) (m/k)",
+"company": "Orange Polska",
+"url": "https://www.linkedin.com/jobs/view/4477074929",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479108717",
+"source": "linkedin",
+"title": "QA Engineer | €100/hr | Remote",
+"company": "The Ai Training Company",
+"url": "https://www.linkedin.com/jobs/view/4479108717",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479833000",
+"source": "linkedin",
+"title": "AI Voice Agent (QA Engineer)",
+"company": "Seargin",
+"url": "https://www.linkedin.com/jobs/view/4479833000",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:tester-testerka-oprogramowania-avenga-agencja-pracy-nr-kraz-8448-Warszawa",
+"source": "nofluff",
+"title": "Tester/Testerka Oprogramowania",
+"company": "AVENGA (Agencja Pracy, nr KRAZ: 8448)",
+"url": "https://nofluffjobs.com/pl/job/tester-testerka-oprogramowania-avenga-agencja-pracy-nr-kraz-8448-warszawa",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "10 080–11 760 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"SQL",
+"QA",
+"Jira",
+"QC"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": 70.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~70 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": [
+"⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
+]
 }
 ]
 }
