@@ -1193,6 +1193,177 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:b2d82fef-c90b-4fdf-ba9c-693777eb15e8",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer",
+"company": "KUBO Poland Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/kubo-poland-sp-z-o-o--senior-qa-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+".NET C#",
+"Test Automation",
+"Azure",
+"Kafka",
+"Kubernetes",
+"AI",
+"RabbitMQ",
+"Distributed systems",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-15"
+},
+"priority": {
+"tier": "A",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · C#"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:aafcc787-618f-4c97-beb0-a682dbd1b4c7",
+"source": "justjoin",
+"title": "QA Automation Engineer (C#)",
+"company": "TQLO SP. Z O.O.",
+"url": "https://justjoin.it/job-offer/tqlo-sp-z-o-o--qa-automation-engineer-c--gdansk-testing",
+"location": "Gdańsk, Sopot, Poznań, Kraków, Warszawa",
+"workplace": "hybrid",
+"salary": "14 000–18 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"C#",
+"Selenium",
+"Playwright",
+"NUnit",
+"XUnit",
+"Docker",
+"Jira"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-09-25"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 107.14285714285714,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~107 PLN/ч · C#"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:3a5ede70-9af7-4a21-893a-e4d8167d8b13",
+"source": "justjoin",
+"title": "Autonomous Networks Tester",
+"company": "Capgemini",
+"url": "https://justjoin.it/job-offer/capgemini-autonomous-networks-tester-wroclaw-testing",
+"location": "Wrocław, Kraków, Poznań, Warszawa, Opole, Gdańsk, Lublin, Katowice",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Testing",
+"Java",
+"SQL",
+"Linux"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-30"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:645bb868-421a-48d9-9ccd-d6cd6d147d3a",
+"source": "justjoin",
+"title": "Tester UAT (K/M)",
+"company": "Neontri",
+"url": "https://justjoin.it/job-offer/neontri-tester-uat-k-m--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Figma",
+"Mobile App Testing",
+"SoapUI",
+"TestLink",
+"Redmine"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:dc9131c6-4cbd-43b1-a8be-e9fc5f9370ff",
+"source": "justjoin",
+"title": "QA Engineer (Python / UiPath / API testing / GenAI)",
+"company": "Link Group",
+"url": "https://justjoin.it/job-offer/link-group-qa-engineer-python-uipath-api-testing-genai--warszawa-testing",
+"location": "Warszawa, Wrocław, Poznań, Kraków, Gdańsk",
+"workplace": "remote",
+"salary": "75–105 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Python",
+"UiPath",
+"API Testing",
+"SQL",
+"Generative AI Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": 105.0,
+"office_days": null,
+"why": "remote · ~105 PLN/ч · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
