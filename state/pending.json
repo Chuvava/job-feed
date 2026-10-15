@@ -921,6 +921,31 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478829790",
+"source": "linkedin",
+"title": "We're Hiring: Russian Game Localization QA Testers | Warsaw, Poland",
+"company": "TransPerfect",
+"url": "https://www.linkedin.com/jobs/view/4478829790",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
