@@ -2936,6 +2936,42 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:649eb677-a5c9-4ee1-ab44-ae19b138d917",
+"source": "justjoin",
+"title": "QA Tester",
+"company": "Margo",
+"url": "https://justjoin.it/job-offer/margo-qa-tester-lodz-testing",
+"location": "Łódź",
+"workplace": "remote",
+"salary": "80–90 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"C#",
+"F#",
+"CI/CD",
+"JavaScript",
+"CSS",
+"HTML",
+"Zarządzanie zespołem",
+"Automatyzacja testów"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-30"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": 90.0,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · C#/JS"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
