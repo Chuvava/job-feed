@@ -2997,6 +2997,96 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:b4f1d4e0-70f2-437c-893a-a9c7fcf7e9a2",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer – API & UI",
+"company": "ITDS",
+"url": "https://justjoin.it/job-offer/itds-senior-test-automation-engineer---api-ui-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "14 700–17 745 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Java Test Automation",
+"REST API Testing (Rest Assured)",
+"Gatling Performance Testing",
+"CI/CD (Jenkins/Git)",
+"SQL",
+"Jira",
+"SOAP API Testing",
+"Playwright",
+"UFT Developer / UFT ONE",
+"API Mocking (Swagger/Postman)"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": 105.625,
+"office_days": null,
+"why": "hybrid · ~106 PLN/ч · Java"
+},
+"sent_now": false,
+"notes": [
+"⚠️ ITDS (агентство) — клиент из fintech: «Senior Test Automation Engineer – UI and API Frameworks» · Техническое · CV C# classic · строка 18"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4477099481",
+"source": "linkedin",
+"title": "QA Engineer (AI + Python)",
+"company": "apreel",
+"url": "https://www.linkedin.com/jobs/view/4477099481",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479127823",
+"source": "linkedin",
+"title": "Quality Engineer / UAT Lead",
+"company": "Accenture Poland",
+"url": "https://www.linkedin.com/jobs/view/4479127823",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
