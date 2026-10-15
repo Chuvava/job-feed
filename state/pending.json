@@ -946,6 +946,31 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479768969",
+"source": "linkedin",
+"title": "Tester Automatyzujący / Test Automation Engineer",
+"company": "Billennium",
+"url": "https://www.linkedin.com/jobs/view/4479768969",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
