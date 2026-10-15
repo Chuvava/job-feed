@@ -1739,6 +1739,220 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:ecfe9027-8689-4310-90d5-37651ad9f750",
+"source": "justjoin",
+"title": "Automation Tester Java",
+"company": "Connectis",
+"url": "https://justjoin.it/job-offer/connectis-automation-tester-java-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "103–126 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"TypeScript",
+"Selenium",
+"Cucumber",
+"SQL",
+"jenkin",
+"Jira",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "A",
+"score": 20,
+"rate": 126.0,
+"office_days": null,
+"why": "remote · ~126 PLN/ч · Java/TS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4449853508",
+"source": "linkedin",
+"title": "I. Test Automation Engineer (m/f/d) - FlexHub Lodz",
+"company": "Commerzbank Digital Technology Centre Poland",
+"url": "https://www.linkedin.com/jobs/view/4449853508",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 18,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:c3cf566f-3abe-476d-a264-708273bbdc56",
+"source": "justjoin",
+"title": "Test Automation",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-test-automation-warszawa-testing",
+"location": "Warszawa, Gdańsk, Łódź",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Java",
+"Selenium",
+"REST API",
+"SOAP"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-30"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:1a69de9c-0e37-418f-993a-c6020352a918",
+"source": "justjoin",
+"title": "Senior QA Automation and Quality Assurance Lead",
+"company": "ITDS",
+"url": "https://justjoin.it/job-offer/itds-senior-qa-automation-and-quality-assurance-lead-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "4 620–5 460 EUR/mo b2b",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"QA Strategy & Leadership",
+"CI/CD pipelines",
+"Manual Testing",
+"test frameworks",
+"Team Leadership & Mentoring",
+"Quality KPIs & Metrics Analysis",
+"Agile/Cross-functional Collaboration",
+"Dutch Language",
+"QA Certifications"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 138.125,
+"office_days": null,
+"why": "remote · ~138 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": [
+"⚠️ ITDS (агентство) — клиент из fintech: «Senior Test Automation Engineer – UI and API Frameworks» · Техническое · CV C# classic · строка 18"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4479819165",
+"source": "linkedin",
+"title": "Test Engineer – Payments, Python & Automation",
+"company": "Thrive IT Systems",
+"url": "https://www.linkedin.com/jobs/view/4479819165",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:10e70e82-6f44-43d4-abce-dfce1ba0d594",
+"source": "justjoin",
+"title": "Tester oprogramowania (k/m)",
+"company": "Lumicode Sp. z o.o. (Pentacomp Group)",
+"url": "https://justjoin.it/job-offer/lumicode-sp-z-o-o-pentacomp-group--tester-oprogramowania-k-m--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "70–100 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Selenium WebDriver",
+"SoapUI",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-30"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479814403",
+"source": "linkedin",
+"title": "Functional Tester",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4479814403",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
