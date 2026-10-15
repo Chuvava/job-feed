@@ -1097,6 +1097,102 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:quality-engineering-lead-qa-service-delivery-manager-upvanta-Remote",
+"source": "nofluff",
+"title": "Quality Engineering Lead / QA Service Delivery Manager",
+"company": "Upvanta",
+"url": "https://nofluffjobs.com/pl/job/quality-engineering-lead-qa-service-delivery-manager-upvanta-remote",
+"location": "",
+"workplace": "remote",
+"salary": "25 200–31 500 PLN/mo b2b",
+"seniority": "Lead",
+"skills": [
+"QA",
+"ISTQB",
+"CI/CD",
+"Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 187.5,
+"office_days": null,
+"why": "remote · ~188 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:fc246497-6dcb-49ce-9efb-5a808c15c634",
+"source": "justjoin",
+"title": "QA Automation Engineer (Playwright / JavaScript)",
+"company": "Detable",
+"url": "https://justjoin.it/job-offer/detable-qa-automation-engineer-playwright-javascript--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "14 280–18 480 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Playwright",
+"JavaScript",
+"Automated Testing",
+"Test Automation",
+"Automation Tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-05"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · JS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:4e28d2ed-57b0-4424-8b9d-32cc53e7b633",
+"source": "justjoin",
+"title": "Senior QA Engineer (AI)",
+"company": "co.brick Talents",
+"url": "https://justjoin.it/job-offer/co-brick-talents-senior-qa-engineer-ai--gliwice-testing",
+"location": "Gliwice",
+"workplace": "remote",
+"salary": "90–100 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"AI",
+"Claude",
+"Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
