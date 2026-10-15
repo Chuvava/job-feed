@@ -1953,6 +1953,228 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:052f09ca-2190-4598-9510-b6964011e8c7",
+"source": "justjoin",
+"title": "Automation QA Engineer (AQA)",
+"company": "IBA Poland",
+"url": "https://justjoin.it/job-offer/iba-poland-automation-qa-engineer-aqa--wroclaw-testing",
+"location": "Wrocław, Warszawa, Gdańsk, Kraków, Poznań",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Java",
+"TypeScript",
+"Test Automation",
+"Selenium",
+"Playwright",
+"API Testing",
+"REST Assured",
+"Postman",
+"Cucumber",
+"CI/CD"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-10-05"
+},
+"priority": {
+"tier": "A",
+"score": 20,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/TS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:3fe7f68e-7ebd-47ab-8a45-ef51137be3c4",
+"source": "justjoin",
+"title": "Automation Tester (Playwright)",
+"company": "Connectis",
+"url": "https://justjoin.it/job-offer/connectis-automation-tester-playwright--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"TypeScript",
+"API Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ставка не указана · TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:845b4731-bd24-4557-9081-7d784a6ee6f0",
+"source": "justjoin",
+"title": "Senior Automation Engineer",
+"company": "H2B Group",
+"url": "https://justjoin.it/job-offer/h2b-group-senior-automation-engineer-wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "85–105 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"TypeScript",
+"Test Automation",
+"Scrum",
+"Domain-Driven Design",
+"AI coding agents"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-10"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 105.0,
+"office_days": null,
+"why": "remote · ~105 PLN/ч · TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:331a43a3-08da-4c0e-9095-b6623df5b107",
+"source": "justjoin",
+"title": "Tester Automatyzujący",
+"company": "TSS",
+"url": "https://justjoin.it/job-offer/tss-tester-automatyzujacy-warszawa-testing-9c213168",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "75–90 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Maven",
+"SoapUI",
+"Jira",
+"Postman",
+"Java",
+"SQL",
+"Enterprise Architect",
+"Selenium WebDriver",
+"SonarQube",
+"Docker"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-26"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 90.0,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:3b45934e-c357-4075-a5e7-66d7be3d1d17",
+"source": "justjoin",
+"title": "Tester (PEGA, C#)",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-tester-pega-c--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "130–140 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"PEGA",
+"C#"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-21"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 140.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~140 PLN/ч · C#"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479822450",
+"source": "linkedin",
+"title": "QA Tester",
+"company": "Immersion Labs",
+"url": "https://www.linkedin.com/jobs/view/4479822450",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479818608",
+"source": "linkedin",
+"title": "LQA Game Tester with Spanish",
+"company": "Testronic",
+"url": "https://www.linkedin.com/jobs/view/4479818608",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
