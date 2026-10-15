@@ -971,6 +971,132 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:ebed59ba-4d9c-4325-9560-5b753ebb4522",
+"source": "justjoin",
+"title": "Test Automation Engineer | Branża bankowa",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-test-automation-engineer-branza-bankowa-warszawa-testing-338fb417",
+"location": "Warszawa, Gdańsk, Kraków, Wrocław, Poznań",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Selenium",
+"Java",
+"Test Automation",
+"Playwright"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-05"
+},
+"priority": {
+"tier": "C",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java · без B2B"
+},
+"sent_now": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "justjoin:ec89307f-343d-4a8e-9375-72700dbefe3e",
+"source": "justjoin",
+"title": "Tester Automatyzujący / Testerka Automatyzująca",
+"company": "ASTEK Polska",
+"url": "https://justjoin.it/job-offer/astek-polska-tester-automatyzujacy-testerka-automatyzujaca-warszawa-testing-eb35e2c4",
+"location": "Warszawa, Gdańsk, Gdynia",
+"workplace": "hybrid",
+"salary": "900–1 100 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"TypeScript",
+"Playwright",
+"API Testing",
+"Git"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-25"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": 137.5,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~138 PLN/ч · Java/TS"
+},
+"sent_now": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "justjoin:eebc9d37-2b09-414e-9fee-cadab391c784",
+"source": "justjoin",
+"title": "Tester automatyzujący (Java + Selenium) – Sektor Publiczny",
+"company": "Billennium",
+"url": "https://justjoin.it/job-offer/billennium-tester-automatyzujacy-java-selenium---sektor-publiczny-warszawa-testing-35f219f3",
+"location": "Warszawa, Gdańsk, Wrocław, Kraków, Poznań",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Automated Testing",
+"Java",
+"Selenium WebDriver"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-08-26"
+},
+"priority": {
+"tier": "A",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478855153",
+"source": "linkedin",
+"title": "Senior QA Engineer",
+"company": "Jobgether",
+"url": "https://www.linkedin.com/jobs/view/4478855153",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-15"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
