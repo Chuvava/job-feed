@@ -1701,6 +1701,44 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:0f03ac17-272d-4e15-afab-c1e804663548",
+"source": "justjoin",
+"title": "QA Automation Engineer (Java / REST Assured)",
+"company": "ITLT",
+"url": "https://justjoin.it/job-offer/itlt-qa-automation-engineer-java-rest-assured--warszawa-testing-cbcf6aa9",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "120–160 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"REST Assured",
+"JUnit",
+"TestNG",
+"API Testing",
+"REST API",
+"Postman",
+"SQL",
+"Microservices",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-17"
+},
+"priority": {
+"tier": "C",
+"score": 17,
+"rate": 160.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~160 PLN/ч · Java"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
