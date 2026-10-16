@@ -3196,6 +3196,31 @@
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4480342260",
+"source": "linkedin",
+"title": "Marketing Automation Specialist",
+"company": "Kinguin",
+"url": "https://www.linkedin.com/jobs/view/4480342260",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
