@@ -4404,6 +4404,62 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:de10cd1a-59ef-4e5a-aa20-244227efab73",
+"source": "justjoin",
+"title": "Workflow Automation Engineer",
+"company": "Be in IT to butikowa firma rekrutacyjna IT.",
+"url": "https://justjoin.it/job-offer/be-in-it-to-butikowa-firma-rekrutacyjna-it--workflow-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "130–170 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Process Orchestration",
+"Workflow Automation",
+"Node.js"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": 170.0,
+"office_days": null,
+"why": "remote · ~170 PLN/ч · JS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479366557",
+"source": "linkedin",
+"title": "SQA Engineer IV",
+"company": "Brightstar Lottery",
+"url": "https://www.linkedin.com/jobs/view/4479366557",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
