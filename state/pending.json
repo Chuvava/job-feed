@@ -3221,6 +3221,306 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480341530",
+"source": "linkedin",
+"title": "Senior Automation QA Engineer",
+"company": "Luxoft Poland",
+"url": "https://www.linkedin.com/jobs/view/4480341530",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 19,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/JS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480336755",
+"source": "linkedin",
+"title": "Senior Quality Assurance Automation Engineer with Java",
+"company": "Luxoft Poland",
+"url": "https://www.linkedin.com/jobs/view/4480336755",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:0c3e64b7-e69a-48bf-8dfb-18b5771f7f76",
+"source": "justjoin",
+"title": "Senior Automation Tester (C# / Java | Appium)",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-senior-automation-tester-c-java-appium--warszawa-testing",
+"location": "Warszawa, Kraków, Gdańsk",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"C#",
+"Java",
+"Appium",
+"Appium Inspector",
+"Cucumber",
+"JMeter",
+"Gatling",
+"LoadRunner",
+"CI/CD"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-08-07"
+},
+"priority": {
+"tier": "C",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/C# · без B2B"
+},
+"sent_now": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "justjoin:566d27b4-f705-45c1-89d0-17a577faf777",
+"source": "justjoin",
+"title": "Automation QA Senior Engineer",
+"company": "Itransition",
+"url": "https://justjoin.it/job-offer/itransition-automation-qa-senior-engineer-warszawa-testing",
+"location": "Warszawa, Wrocław",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Selenium",
+"Appium",
+"TestComplete",
+"Java",
+"CI/CD",
+"AWS"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-16"
+},
+"priority": {
+"tier": "A",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:4e82f5de-ae76-44c8-9ff0-3bedf0478fb0",
+"source": "justjoin",
+"title": "Automation QA Middle Engineer",
+"company": "Itransition",
+"url": "https://justjoin.it/job-offer/itransition-automation-qa-middle-engineer-warszawa-testing",
+"location": "Warszawa, Wrocław",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Selenium",
+"Appium",
+"GameBench",
+"TestComplete",
+"Scrum",
+"SQL databases",
+"Java",
+"Agile"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-16"
+},
+"priority": {
+"tier": "A",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:4d51fbab-a1af-4860-89b7-771f28ee4816",
+"source": "justjoin",
+"title": "QA Automation Engineer (K/M)",
+"company": "Neontri",
+"url": "https://justjoin.it/job-offer/neontri-qa-automation-engineer-k-m--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Agile",
+"QA",
+"Test Automation",
+"SQL",
+"SoapUI",
+"Git",
+"Confluence",
+"Postman",
+"Java",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-16"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480338538",
+"source": "linkedin",
+"title": "Senior Automation QA Engineer (Java)",
+"company": "Luxoft Poland",
+"url": "https://www.linkedin.com/jobs/view/4480338538",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:23f8e4ac-d803-4e50-bdc7-f3353469efc0",
+"source": "justjoin",
+"title": "QA AI-Driven Engineer / QA AI-Driven Automation Engineer",
+"company": "ProService Finteco Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/proservice-finteco-sp-z-o-o--qa-ai-driven-engineer-qa-ai-driven-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"QA",
+"Web Applications Testing",
+"REST API Testing",
+"Test Automation",
+"Testing Tools",
+"CI/CD",
+"Agile",
+"Analytical Thinking",
+"AI Coding Assistant",
+"LLM in QA"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-09-11"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ? · без B2B"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:c9fc9ce1-32ae-44e6-8625-2666fc8a40ea",
+"source": "justjoin",
+"title": "QA Engineer (AI + backend)",
+"company": "apreel",
+"url": "https://justjoin.it/job-offer/apreel-qa-engineer-ai-backend--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "160–170 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Technical QA",
+"API Testing",
+"Python",
+"Contract Testing",
+"Security-aware testing",
+"LLM Evaluation",
+"Prompt Engineering",
+"REST APIs",
+"Postman",
+"Git"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 170.0,
+"office_days": null,
+"why": "remote · ~170 PLN/ч · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
