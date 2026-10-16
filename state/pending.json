@@ -4033,6 +4033,94 @@
 "notes": [
 "⚠️ DCG (агентство) — клиент не назван: «Tester/ka Automatyzujący/a» · Откликнулся · CV Java classic · строка 31"
 ]
+},
+{
+"job": {
+"id": "justjoin:8ac916b1-cc50-4a67-8637-dc70a1a72f73",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer – Python (emagine’s Talent Community)",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-senior-test-automation-engineer---python-emagine-s-talent-community--warsaw-testing",
+"location": "Warsaw",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Network",
+"Java",
+"SQL",
+"API (Application Programming Interface)",
+"Python",
+"CI/CD",
+"Testing",
+"Agile",
+"JMeter",
+"Selenium"
+],
+"contracts": [
+"any"
+],
+"published": "2026-09-21"
+},
+"priority": {
+"tier": "A",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/Python"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480371199",
+"source": "linkedin",
+"title": "Test Engineer(Chinese language)",
+"company": "Hydsoft CO., LTD",
+"url": "https://www.linkedin.com/jobs/view/4480371199",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4461160320",
+"source": "linkedin",
+"title": "Ekspert / Ekspertka ds. Automatyzacji",
+"company": "InPost",
+"url": "https://www.linkedin.com/jobs/view/4461160320",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
