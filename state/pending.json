@@ -3521,6 +3521,125 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:test-automation-engineer-kotlin-appium-m-f-arche-solutions-Remote",
+"source": "nofluff",
+"title": "Test Automation Engineer (Kotlin, Appium) [M/F]",
+"company": "Arche Solutions Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/test-automation-engineer-kotlin-appium-m-f-arche-solutions-remote",
+"location": "",
+"workplace": "remote",
+"salary": "18 480–21 000 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Kotlin",
+"Appium",
+"Android"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:444f8f43-cf06-4f6c-a817-e50bafde59db",
+"source": "justjoin",
+"title": "Test Automation Engineer",
+"company": "JellyLabs Tech",
+"url": "https://justjoin.it/job-offer/jellylabs-tech-test-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "100–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Appium",
+"Kotlin",
+"Android"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:59db92ea-9ec5-437a-81ee-66b742d805b6",
+"source": "justjoin",
+"title": "Automation QA Engineer at Finonex ",
+"company": "On The Spot Development",
+"url": "https://justjoin.it/job-offer/on-the-spot-development-automation-qa-engineer-at-finonex--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"browserstack",
+"API",
+"TypeScript",
+"Appium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-11"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4425970350",
+"source": "linkedin",
+"title": "Intelligent Automation & Analytics Associate (GenAI, Python/SQL)",
+"company": "JPMorganChase",
+"url": "https://www.linkedin.com/jobs/view/4425970350",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
