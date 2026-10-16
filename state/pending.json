@@ -4121,6 +4121,212 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-automation-engineer-upvanta-Remote",
+"source": "nofluff",
+"title": "Senior QA Automation Engineer",
+"company": "Upvanta",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-automation-engineer-upvanta-remote",
+"location": "",
+"workplace": "remote",
+"salary": "18 900–23 100 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Java",
+"TypeScript",
+"Selenium",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "A",
+"score": 19,
+"rate": 137.5,
+"office_days": null,
+"why": "remote · ~138 PLN/ч · Java/TS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479350999",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer",
+"company": "SoftServe",
+"url": "https://www.linkedin.com/jobs/view/4479350999",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4426511863",
+"source": "linkedin",
+"title": "Senior QA Engineer - Netwrix Privilege Secure Discovery",
+"company": "Netwrix Corporation",
+"url": "https://www.linkedin.com/jobs/view/4426511863",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:957e9d9a-2a27-4671-8127-91171f791db3",
+"source": "justjoin",
+"title": "Performance Test Engineer",
+"company": "Be in IT to butikowa firma rekrutacyjna IT.",
+"url": "https://justjoin.it/job-offer/be-in-it-to-butikowa-firma-rekrutacyjna-it--performance-test-engineer-wroclaw-testing",
+"location": "Wrocław, Kraków",
+"workplace": "hybrid",
+"salary": "100–130 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Dynatrace",
+"LoadRunner"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": 130.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~130 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:b3eea0b7-237a-4517-bafe-85aa07c57f02",
+"source": "justjoin",
+"title": "Quality Assurance - Tester ( Mid)",
+"company": "Montrose Software",
+"url": "https://justjoin.it/job-offer/montrose-software-quality-assurance---tester-mid--krakow-testing-735dd7c1",
+"location": "Kraków, Warszawa, Poznań, Gdańsk, Wrocław",
+"workplace": "remote",
+"salary": "10 700–16 800 PLN/mo b2b; 8 000–13 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"Excel",
+"Manual Testing",
+"Scrum",
+"ISTQB",
+"Jira",
+"Agile"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:d36ae884-470c-4a4c-b082-21084b1bfc74",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Fitatu S.A.",
+"url": "https://justjoin.it/job-offer/fitatu-s-a--qa-engineer-poznan-testing",
+"location": "Poznań",
+"workplace": "remote",
+"salary": "10 000–13 000 PLN/mo b2b; 8 000–10 500 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"ISTQB Foundation level",
+"Chrome DevTools",
+"HTML",
+"CSS",
+"REST API"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 77.38095238095238,
+"office_days": null,
+"why": "remote · ~77 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480369300",
+"source": "linkedin",
+"title": "AI Quality Assurance Lead",
+"company": "Locon Sp. z o.o.",
+"url": "https://www.linkedin.com/jobs/view/4480369300",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
