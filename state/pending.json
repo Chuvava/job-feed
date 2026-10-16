@@ -4512,6 +4512,90 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:606cec3b-1e36-47ca-88f2-67890ab67fd3",
+"source": "justjoin",
+"title": "Mobile Test Automation Engineer (Android / Appium)",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-mobile-test-automation-engineer-android-appium--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "100–125 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Appium",
+"Kotlin test automation",
+"Espresso",
+"HIL testing",
+"Mobile test automation",
+"Hardware-in-the-Loop"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477397858",
+"source": "linkedin",
+"title": "Test Engineer",
+"company": "RevTech",
+"url": "https://www.linkedin.com/jobs/view/4477397858",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477718131",
+"source": "linkedin",
+"title": "Data Quality Engineer",
+"company": "QuantumLight",
+"url": "https://www.linkedin.com/jobs/view/4477718131",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
