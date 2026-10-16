@@ -3640,6 +3640,35 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:e8548f53-582c-4ae7-a885-6339626610e2",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Cyclad",
+"url": "https://justjoin.it/job-offer/cyclad-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "80–100 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Manual Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-01"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": 100.0,
+"office_days": 50.0,
+"why": "офис ~50 дн/мес · ~100 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
