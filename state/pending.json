@@ -3669,6 +3669,229 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:ac1122c2-f60a-4a49-a81e-8b5ccc4f54a2",
+"source": "justjoin",
+"title": "Automation Tester / QA Automation Engineer",
+"company": "Antal Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/antal-sp-z-o-o--automation-tester-qa-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "120–150 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Automated Testing",
+"Java",
+"TypeScript",
+"SQL",
+"Cucumber",
+"Maven",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "A",
+"score": 19,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · Java/TS"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480349477",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "RITS",
+"url": "https://www.linkedin.com/jobs/view/4480349477",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": [
+"⚠️ RITS — клиент из банковской сферы: «Automation Tester» · Планирую отклик · строка 13"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4477387310",
+"source": "linkedin",
+"title": "Automation Engineer",
+"company": "Uni Systems",
+"url": "https://www.linkedin.com/jobs/view/4477387310",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:a21e3560-5a48-43f4-ae22-ea1d71bdc2a1",
+"source": "justjoin",
+"title": "QA Automation Engineer (Banking)",
+"company": "Experis Manpower Group",
+"url": "https://justjoin.it/job-offer/experis-manpower-group-qa-automation-engineer-banking--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "75–95 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"Selenium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-21"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 95.0,
+"office_days": 4.0,
+"why": "офис ~4 дн/мес · ~95 PLN/ч · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4471472223",
+"source": "linkedin",
+"title": "QA engineer",
+"company": "ETAP Software",
+"url": "https://www.linkedin.com/jobs/view/4471472223",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480356289",
+"source": "linkedin",
+"title": "Process Automation Designer (f/m/n)",
+"company": "InPost",
+"url": "https://www.linkedin.com/jobs/view/4480356289",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4469686522",
+"source": "linkedin",
+"title": "Principal Knowledge Automation Analyst",
+"company": "Autodesk",
+"url": "https://www.linkedin.com/jobs/view/4469686522",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:7bdf1f60-fd1f-4a2a-b688-413764d4fe6c",
+"source": "justjoin",
+"title": "Automation Tester - Python / Robot Framework",
+"company": "Lumicode Sp. z o.o. (Pentacomp Group)",
+"url": "https://justjoin.it/job-offer/lumicode-sp-z-o-o-pentacomp-group--automation-tester---python-robot-framework-warszawa-testing",
+"location": "Warszawa, Gdańsk, Gdynia, Łódź",
+"workplace": "hybrid",
+"salary": "90–115 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Python",
+"Robot Framework",
+"REST API"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-06"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": 115.0,
+"office_days": null,
+"why": "hybrid · ~115 PLN/ч · Python"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
