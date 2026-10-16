@@ -3892,6 +3892,147 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:4be67c9f-754e-4d1a-9fd1-16f84d40d5a7",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer (Java | Web | Mobile | API)",
+"company": "Upvanta sp. z o.o.",
+"url": "https://justjoin.it/job-offer/upvanta-sp-z-o-o--senior-qa-automation-engineer-java-web-mobile-api--warszawa-testing",
+"location": "Warszawa, Kraków, Wrocław, Poznań, Gdańsk",
+"workplace": "remote",
+"salary": "900–1 200 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Java",
+"Maven",
+"Selenium",
+"Playwright",
+"Appium",
+"Perfecto",
+"Cucumber",
+"TestNG",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-07-28"
+},
+"priority": {
+"tier": "A",
+"score": 22,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · Java"
+},
+"sent_now": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:56446592-2d50-405c-b0f2-d2ed5dc1deb1",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Antal Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/antal-sp-z-o-o--qa-engineer-krakow-testing-bf68d85c",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"RESTful API",
+"Postman",
+"SQL",
+"English",
+"Jira",
+"Confluence",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-07-23"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ставка не указана · Java/JS/TS"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4468650864",
+"source": "linkedin",
+"title": "SENIOR C&I AUTOMATION ENGINEER (F/M/D) I IGNITIS RENEWABLES",
+"company": "Ignitis Group",
+"url": "https://www.linkedin.com/jobs/view/4468650864",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-16"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:34e27e3e-0ee4-4029-b545-d767ee302143",
+"source": "justjoin",
+"title": "Expert QA Automation Tester",
+"company": "DCG",
+"url": "https://justjoin.it/job-offer/dcg-expert-qa-automation-tester-warszawa-testing",
+"location": "Warszawa, Gdańsk, Gdynia, Łódź",
+"workplace": "hybrid",
+"salary": "140–175 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"QA Automation",
+"data warehouse testing",
+"Snowflake",
+"SQL",
+"dbt testing",
+"AWS",
+"data validation",
+"Experience with AI tools",
+"Python",
+"JavaScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-09-11"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 175.0,
+"office_days": null,
+"why": "hybrid · ~175 PLN/ч · Python/JS"
+},
+"sent_now": false,
+"notes": [
+"⚠️ DCG (агентство) — клиент не назван: «Tester/ka Automatyzujący/a» · Откликнулся · CV Java classic · строка 31"
+]
 }
 ]
 }
