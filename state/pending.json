@@ -3162,6 +3162,40 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:93dc94c0-69be-4a5f-850c-ce38ababca9b",
+"source": "justjoin",
+"title": "Senior Test Engineer (M/K)",
+"company": "ASTEK Polska",
+"url": "https://justjoin.it/job-offer/astek-polska-senior-test-engineer-m-k--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "550–650 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Jira",
+"Kanban",
+"Agile",
+"Scrum"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-01"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": 81.25,
+"office_days": null,
+"why": "remote · ~81 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
 }
 ]
 }
