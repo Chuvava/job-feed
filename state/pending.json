@@ -4773,6 +4773,31 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4470187598",
+"source": "linkedin",
+"title": "Lead AI SRE and QA Engineer",
+"company": "Danaher",
+"url": "https://www.linkedin.com/jobs/view/4470187598",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "B",
+"score": 2,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
