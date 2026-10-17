@@ -4798,6 +4798,37 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:369220c7-34db-45c4-b164-2284ea88bf26",
+"source": "justjoin",
+"title": "QA Engineer - German speaking",
+"company": "Kyotu Technology",
+"url": "https://justjoin.it/job-offer/kyotu-technology-qa-engineer---german-speaking-wroclaw-testing",
+"location": "Wrocław, Poznań, Szczecin, Bydgoszcz, Warszawa",
+"workplace": "remote",
+"salary": "19 200–24 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Test Automation",
+"Manual Testing",
+"Automation Tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 142.85714285714286,
+"office_days": null,
+"why": "remote · ~143 PLN/ч · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
