@@ -4621,6 +4621,108 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4450131875",
+"source": "linkedin",
+"title": "Test Automation Engineer – banking sector (f/m/x)",
+"company": "Sii Poland",
+"url": "https://www.linkedin.com/jobs/view/4450131875",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · строка 8"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4444931945",
+"source": "linkedin",
+"title": "Senior Quality Engineer (Java)",
+"company": "Kingfisher plc",
+"url": "https://www.linkedin.com/jobs/view/4444931945",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4470316267",
+"source": "linkedin",
+"title": "Quality Assurance Engineer",
+"company": "Brightstar Lottery",
+"url": "https://www.linkedin.com/jobs/view/4470316267",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4472074812",
+"source": "linkedin",
+"title": "Expert Manufacturing Test Engineer",
+"company": "Aptiv",
+"url": "https://www.linkedin.com/jobs/view/4472074812",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
