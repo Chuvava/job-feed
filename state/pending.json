@@ -4748,6 +4748,31 @@
 },
 "sent_now": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480821927",
+"source": "linkedin",
+"title": "Senior Test Engineer (Contract, Poland, Remote)",
+"company": "Nearform",
+"url": "https://www.linkedin.com/jobs/view/4480821927",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-17"
+},
+"priority": {
+"tier": "C",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python/JS/TS"
+},
+"sent_now": false,
+"notes": []
 }
 ]
 }
