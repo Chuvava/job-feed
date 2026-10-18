@@ -66,11 +66,13 @@ sources:
       - Test Automation Engineer
       - Playwright
 
-# Delivery priority (jobfeed/rank.py): 🔥 card right away only for Java/C# + remote or light hybrid
-# + rate ≥ min_rate (or not stated); everything else waits for the evening digest.
+# Delivery (jobfeed/rank.py + digest.py): offers are collected hourly but never sent right away.
+# At each batch hour the best `batch_cards` waiting offers go out as cards; at digest_hour the
+# day summary lists everything else (low priority at the bottom). Hours are Europe/Warsaw.
 priority:
-  min_rate: 120          # PLN/h B2B; monthly /168, daily /8, EUR ×4.25
-  low_rate: 100          # below this → low priority
-  light_hybrid_days: 6   # office days per month that still count as "almost remote"
-  digest_hour: 20        # Europe/Warsaw, first hourly run at or after it sends the digest
-  digest_cards: 10       # top N of the digest as cards with buttons
+  min_rate: 120          # PLN/h B2B; monthly /168, daily /8, EUR ×4.25; not stated counts as OK
+  low_rate: 100          # below this → low priority, never a card
+  light_hybrid_days: 4   # office days per month that still count as "almost remote"
+  batch_hours: [9, 12, 15, 18, 21]
+  batch_cards: 3
+  digest_hour: 21        # right after the last batch

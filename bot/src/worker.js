@@ -45,6 +45,9 @@ async function onButton(cb, env) {
 
   if (data === "hide") {
     const r = await tg(env, "deleteMessage", { chat_id: msg.chat.id, message_id: msg.message_id });
+    // remembered in the sheet so the feed won't offer it again (sheet() never throws)
+    const hidden = parseCard(msg);
+    if (hidden.url) await sheet(env, { action: "hide", job: hidden });
     return tg(env, "answerCallbackQuery", {
       callback_query_id: cb.id,
       text: r.ok ? "" : "Telegram не даёт удалить сообщения старше 48 ч — удали вручную",

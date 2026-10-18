@@ -23,7 +23,6 @@ from jobfeed.telegram import CARD_BUTTONS, ICONS, Telegram, format_digest, forma
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = {"justjoin": justjoin.fetch, "nofluff": nofluff.fetch, "linkedin": linkedin.fetch}
-MAX_MESSAGES_PER_RUN = 40
 
 log = logging.getLogger("jobfeed")
 
@@ -128,70 +127,78 @@ def main() -> int:
         store.add(f"src:{source}")
     log.info("new matching offers: %d (silently indexed sources: %s)", len(fresh), sorted(new_sources) or "-")
 
-    # Tier decides delivery: A now as a card, everything (A included) goes to the evening digest
+    # No card goes out right away: everything queues up and leaves in batches (config → priority)
     prio_cfg = {**rank.DEFAULTS, **cfg.get("priority", {})}
     tracker = Tracker.load() if fresh else Tracker([])
     pending = Pending(ROOT / "state" / "pending.json")
-    ranked = []
     for job in fresh:
+        if tracker.hidden(job):  # removed with 🗑 earlier (a repost or the same offer elsewhere)
+            continue
         rank.enrich(job)
         pr = rank.priority(job, prio_cfg)
-        ranked.append((job, pr, tracker.notes(job)))
-    ranked.sort(key=lambda x: x[1].score, reverse=True)
-    now_cards = [x for x in ranked if x[1].tier == "A"]
-    log.info("tiers: %s", {t: sum(1 for x in ranked if x[1].tier == t) for t in "ABC"})
+        pending.add(job, pr, tracker.notes(job))
+    log.info("queued: %d, waiting for a card: %d", len(fresh), pending.waiting())
 
     if args.dry_run:
-        for job, pr, notes in ranked:
-            print(f"[{pr.tier} {pr.score}]", format_job(job, [f"🔥 {pr.why}", *notes]), end="\n\n")
+        for job, pr, _, notes in sorted(pending._all(), key=lambda i: i[1].score, reverse=True):
+            print(f"[{pr.tier} {pr.score}]", format_job(job, [f"{TIER[pr.tier]} {pr.why}", *notes]), end="\n\n")
         return 0
 
+    # State first: a failed Telegram call must never make the next run resend the same cards
+    store.save()
+    pending.save()
     tg = Telegram(os.environ["TELEGRAM_TOKEN"], os.environ["TELEGRAM_CHAT_ID"])
     if new_sources:
         indexed = sum(1 for j in collected if j.source in new_sources)
         tg.send(f"✅ Started watching {', '.join(sorted(new_sources))}: indexed {indexed} current offers. "
                 f"New ones will arrive here.")
-    for job, pr, notes in now_cards[:MAX_MESSAGES_PER_RUN]:
-        tg.send(format_job(job, [f"🔥 Приоритет: {pr.why}", *notes]), CARD_BUTTONS)
-    for job, pr, notes in ranked:
-        pending.add(job, pr, sent_now=pr.tier == "A", notes=notes)
-    # State first: a failed Telegram call must never make the next run resend the same cards
-    store.save()
-    pending.save()
-    if pending.due(prio_cfg["digest_hour"]):
-        items = pending.take()
-        pending.save()
-        try:
-            send_digest(tg, items, prio_cfg["digest_cards"])
-        except Exception as e:
-            log.exception("digest failed")
-            tg.send(f"⚠️ Итог дня не отправился: {html.escape(str(e))[:300]}")
+    hours = prio_cfg["batch_hours"]
+    try:
+        if pending.batch_due(hours):
+            batch, left = pending.take_batch(prio_cfg["batch_cards"], hours)
+            pending.save()
+            send_batch(tg, batch, left)
+        if pending.digest_due(prio_cfg["digest_hour"]):
+            items = pending.take_all()
+            pending.save()
+            send_digest(tg, items)
+    except Exception as e:
+        log.exception("delivery failed")
+        tg.send(f"⚠️ Пачка/итог не отправились: {html.escape(str(e))[:300]}")
     if failed:
         tg.send(f"⚠️ Sources failed this run: {', '.join(failed)}")
     return 0
 
 
-def send_digest(tg: Telegram, items: list, cards: int) -> None:
-    """Evening summary: A were already sent as cards, B top N as cards, the rest as lines."""
-    a = [i for i in items if i[1].tier == "A"]
-    b = sorted((i for i in items if i[1].tier == "B"), key=lambda i: i[1].score, reverse=True)
-    c = sorted((i for i in items if i[1].tier == "C"), key=lambda i: i[1].score, reverse=True)
-    tg.send(f"🗂 <b>Итог дня</b>: новых подходящих {len(items)} · 🔥 сразу {len(a)} · "
-            f"🗂 в разборе {len(b)} · ⬇️ низкий приоритет {len(c)}"
-            + (f"\nТоп-{min(cards, len(b))} — карточками, остальное — списком." if b else ""))
-    if a:
-        tg.send("<b>🔥 Уже приходили сегодня:</b>")
-        for message in digest_lines(a):
+TIER = {"A": "🔥", "B": "🗂", "C": "⬇️"}
+
+
+def card_notes(pr: rank.Priority, notes: list[str]) -> list[str]:
+    return [f"{TIER[pr.tier]} {pr.score} · {pr.why}", *notes]
+
+
+def send_batch(tg: Telegram, batch: list, left: int) -> None:
+    for job, pr, _, notes in batch:
+        tg.send(format_job(job, card_notes(pr, notes)), CARD_BUTTONS)
+    if batch or left:
+        tg.send(f"⏳ Ещё в очереди: {left}" if left else "✅ Очередь пуста")
+
+
+def send_digest(tg: Telegram, items: list) -> None:
+    """End of day: stats, then everything that didn't make it into a card, low priority last."""
+    shown = [i for i in items if i[2]]
+    rest = sorted((i for i in items if not i[2] and i[1].tier != "C"), key=lambda i: i[1].score, reverse=True)
+    low = sorted((i for i in items if i[1].tier == "C"), key=lambda i: i[1].score, reverse=True)
+    tg.send(f"🗂 <b>Итог дня</b>: новых подходящих {len(items)} · карточками {len(shown)} · "
+            f"списком {len(rest)} · ⬇️ низкий приоритет {len(low)}")
+    if rest:
+        tg.send(f"<b>🗂 Не попали в карточки — {len(rest)}</b> (балл · вакансия · почему); "
+                f"понравившуюся пришли боту ссылкой:")
+        for message in digest_lines(rest):
             tg.send(message)
-    for job, pr, _, notes in b[:cards]:
-        tg.send(format_job(job, [f"🗂 {pr.score} · {pr.why}", *notes]), CARD_BUTTONS)
-    if b[cards:]:
-        tg.send(f"<b>🗂 Ещё {len(b) - cards}</b> (балл · вакансия · почему) — понравившуюся пришли боту ссылкой:")
-        for message in digest_lines(b[cards:]):
-            tg.send(message)
-    if c:
-        tg.send(f"<b>⬇️ Низкий приоритет — {len(c)}</b> (Python/JS без Java/C#, ставка ниже порога, без B2B, офис):")
-        for message in digest_lines(c):
+    if low:
+        tg.send(f"<b>⬇️ Низкий приоритет — {len(low)}</b> (Python/JS без Java/C#, ставка ниже порога, без B2B, офис):")
+        for message in digest_lines(low):
             tg.send(message)
 
 

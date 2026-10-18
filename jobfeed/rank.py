@@ -17,7 +17,8 @@ from jobfeed.models import Job
 
 log = logging.getLogger(__name__)
 
-DEFAULTS = {"min_rate": 120, "low_rate": 100, "light_hybrid_days": 6, "digest_hour": 20, "digest_cards": 10}
+DEFAULTS = {"min_rate": 120, "low_rate": 100, "light_hybrid_days": 4,
+            "batch_hours": [9, 12, 15, 18, 21], "batch_cards": 3, "digest_hour": 21}
 
 # Matched as whole words against title + skills (+ description when skills are unknown)
 STACK = {

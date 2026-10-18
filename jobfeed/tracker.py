@@ -53,7 +53,9 @@ def norm_url(url: str) -> str:
 class Tracker:
     """Rows of the "2026 New" tab, read through the Apps Script web app (action "list")."""
 
-    def __init__(self, rows: list[dict]):
+    def __init__(self, rows: list[dict], hidden: list[dict] = ()):
+        self.hidden_urls = {norm_url(h["url"]) for h in hidden if h.get("url")}
+        self.hidden_keys = {f"ct:{company_key(h['company'])}|{title_key(h['role'])}" for h in hidden if h.get("role")}
         self.by_url = {norm_url(r["url"]): r for r in rows if str(r.get("url", "")).startswith("http")}
         self.by_key = {f"ct:{company_key(r['company'])}|{title_key(r['role'])}": r for r in rows}
         self.by_company: dict[str, list[dict]] = {}
@@ -72,14 +74,19 @@ class Tracker:
                 rows = r.json().get("rows")
                 if rows is None:
                     raise ValueError(r.text[:200])
-                log.info("tracker: %d rows", len(rows))
-                return cls(rows)
+                hidden = r.json().get("hidden") or []
+                log.info("tracker: %d rows, %d hidden", len(rows), len(hidden))
+                return cls(rows, hidden)
             except Exception as e:  # the feed must keep working without the sheet
                 log.warning("tracker unavailable (attempt %d): %s", attempt + 1, e)
         return cls([])
 
     def find(self, job: Job) -> dict | None:
         return self.by_url.get(norm_url(job.url)) or self.by_key.get(cross_source_key(job))
+
+    def hidden(self, job: Job) -> bool:
+        """Removed with 🗑 in the bot (same URL, or the same company+title from another board)."""
+        return norm_url(job.url) in self.hidden_urls or cross_source_key(job) in self.hidden_keys
 
     def notes(self, job: Job) -> list[str]:
         """📌 this very offer is in the tracker; ⚠️ other rows of the same company (don't send two CVs)."""

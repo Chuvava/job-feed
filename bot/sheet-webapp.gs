@@ -6,13 +6,15 @@
  *
  * POST JSON: {secret, action: "save"|"applied"|"cv"|"target", job: {url, title, company, where, salary, skills, source, noB2b}, cv}
  * Returns JSON: {row, existed} or {error}.
- * action "list" (used by the feed to mark offers already in the tracker) returns {rows: [{row, url, company, role, stage, cv}]}.
+ * action "list" (used by the feed to mark offers already in the tracker) returns {rows: [{row, url, company, role, stage, cv}],
+ *   hidden: [{url, company, role}]}; action "hide" appends the job to the "🗑 Скрыто" tab.
  */
 const SPREADSHEET_ID = '1ApL9PkVKOzU47T550zH_spfzKoDVlBBnBaH9xAZIYqo';
 const TAB = '2026 New';
 const FIRST_DATA_ROW = 3;   // row 1 = headers, row 2 = fictional example
 const LAST_ROW = 501;       // conditional formatting covers rows 2..501
 const TZ = 'Europe/Warsaw';
+const HIDDEN_TAB = '🗑 Скрыто';   // offers removed with 🗑 in the bot; the feed skips them later
 // Columns (1-based): A Компания, B Роль, C Этап, D След. шаг, E Дата шага, F Посл. контакт,
 // G Контакт, H Вакансия, I Условия, J Заметки, K Дата отклика, L Версия CV, M Приоритет, N Тактика
 const COL = {company: 1, role: 2, stage: 3, next: 4, nextDate: 5, url: 8, terms: 9, notes: 10, applied: 11, cv: 12,
@@ -39,6 +41,7 @@ function doPost(e) {
       if (req.action === 'cv') return json(setCv(sheet, req.job, req.cv));
       if (req.action === 'target') return json(target(sheet, req.job));
       if (req.action === 'list') return json(list(sheet));
+      if (req.action === 'hide') return json(hide(req.job));
       return json({error: 'unknown action ' + req.action});
     } finally {
       lock.releaseLock();
@@ -163,7 +166,26 @@ function list(sheet) {
                  cv: String(v[COL.cv - 1])});
     }
   });
-  return {rows: rows};
+  const hiddenSheet = sheet.getParent().getSheetByName(HIDDEN_TAB);
+  const hidden = [];
+  if (hiddenSheet && hiddenSheet.getLastRow() > 1) {
+    hiddenSheet.getRange(2, 1, hiddenSheet.getLastRow() - 1, 4).getValues().forEach((v) => {
+      hidden.push({company: String(v[1]), role: String(v[2]), url: String(v[3])});
+    });
+  }
+  return {rows: rows, hidden: hidden};
+}
+
+function hide(job) {
+  const book = SpreadsheetApp.openById(SPREADSHEET_ID);
+  let tab = book.getSheetByName(HIDDEN_TAB);
+  if (!tab) {
+    tab = book.insertSheet(HIDDEN_TAB);
+    tab.appendRow(['Дата', 'Компания', 'Роль', 'Ссылка']);
+    tab.setFrozenRows(1);
+  }
+  tab.appendRow([Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd'), job.company || '', job.title || '', job.url || '']);
+  return {row: tab.getLastRow(), existed: false};
 }
 
 function setCv(sheet, job, cv) {
