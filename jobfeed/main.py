@@ -4,6 +4,7 @@
     python -m jobfeed.main --dry-run  # print instead of sending, don't touch state
 """
 import argparse
+import html
 import logging
 import os
 import sys
@@ -154,13 +155,19 @@ def main() -> int:
         tg.send(format_job(job, [f"🔥 Приоритет: {pr.why}", *notes]), CARD_BUTTONS)
     for job, pr, notes in ranked:
         pending.add(job, pr, sent_now=pr.tier == "A", notes=notes)
+    # State first: a failed Telegram call must never make the next run resend the same cards
+    store.save()
+    pending.save()
     if pending.due(prio_cfg["digest_hour"]):
-        send_digest(tg, pending.take(), prio_cfg["digest_cards"])
+        items = pending.take()
+        pending.save()
+        try:
+            send_digest(tg, items, prio_cfg["digest_cards"])
+        except Exception as e:
+            log.exception("digest failed")
+            tg.send(f"⚠️ Итог дня не отправился: {html.escape(str(e))[:300]}")
     if failed:
         tg.send(f"⚠️ Sources failed this run: {', '.join(failed)}")
-
-    pending.save()
-    store.save()
     return 0
 
 
@@ -183,7 +190,7 @@ def send_digest(tg: Telegram, items: list, cards: int) -> None:
         for message in digest_lines(b[cards:]):
             tg.send(message)
     if c:
-        tg.send(f"<b>⬇️ Низкий приоритет — {len(c)}</b> (Python/JS без Java/C#, ставка < порога, без B2B, офис):")
+        tg.send(f"<b>⬇️ Низкий приоритет — {len(c)}</b> (Python/JS без Java/C#, ставка ниже порога, без B2B, офис):")
         for message in digest_lines(c):
             tg.send(message)
 

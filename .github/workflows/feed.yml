@@ -42,6 +42,7 @@ jobs:
         run: python -m jobfeed.main ${{ inputs.backlog && '--backlog' || '' }}
 
       - name: Save seen state
+        if: always()  # a Telegram error after the state was written must not lose it
         run: |
           git config user.name "job-feed-bot"
           git config user.email "job-feed-bot@users.noreply.github.com"

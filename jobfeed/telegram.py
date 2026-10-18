@@ -1,4 +1,5 @@
 import html
+import re
 import time
 
 import requests
@@ -78,6 +79,11 @@ class Telegram:
             r = requests.post(self.url, json=payload, timeout=30)
             if r.status_code == 429:  # rate limited, Telegram says how long to wait
                 time.sleep(r.json().get("parameters", {}).get("retry_after", 5) + 1)
+                continue
+            if r.status_code == 400 and "parse" in r.text and "parse_mode" in payload:
+                # broken HTML in some offer text: deliver it as plain text rather than lose it
+                payload.pop("parse_mode")
+                payload["text"] = html.unescape(re.sub(r"<[^>]+>", "", text))
                 continue
             r.raise_for_status()
             time.sleep(1.1)  # stay under ~1 msg/sec per chat
