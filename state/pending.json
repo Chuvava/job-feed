@@ -1,44 +1,5 @@
 {
-"last_digest": "2026-10-17",
-"last_batch": "2026-10-18 18",
-"items": [
-{
-"job": {
-"id": "justjoin:8d75ab6a-08bf-487a-8aba-36385187e831",
-"source": "justjoin",
-"title": "Mid QA Engineer",
-"company": "Green Minds sp.zo.o.",
-"url": "https://justjoin.it/job-offer/green-minds-sp-zo-o--mid-qa-engineer-warszawa-testing",
-"location": "Warszawa",
-"workplace": "remote",
-"salary": "170–175 PLN/h b2b",
-"seniority": "senior",
-"skills": [
-"Selenium",
-"Cucumber",
-"Java",
-"AI",
-"Agile",
-"BDD",
-"CI/CD",
-"Test Automation",
-"ISTQB",
-"Azure"
-],
-"contracts": [
-"b2b"
-],
-"published": "2026-10-02"
-},
-"priority": {
-"tier": "A",
-"score": 16,
-"rate": 175.0,
-"office_days": null,
-"why": "remote · ~175 PLN/ч · Java"
-},
-"shown": true,
-"notes": []
-}
-]
+"last_digest": "2026-10-18",
+"last_batch": "2026-10-18 21",
+"items": []
 }
