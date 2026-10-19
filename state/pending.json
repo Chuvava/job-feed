@@ -307,6 +307,206 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:5a614e40-dc9f-4164-b389-592d16f248b4",
+"source": "justjoin",
+"title": "ServiceNow QA Engineer",
+"company": "ASTEK Polska",
+"url": "https://justjoin.it/job-offer/astek-polska-servicenow-qa-engineer-warszawa-mazowieckie--testing",
+"location": "Warszawa (Mazowieckie)",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Testing",
+"Functional Testing",
+"End-to-end testing",
+"integration testing",
+"UAT"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "justjoin:19634aa4-2300-4d79-8d9f-5dc5d883618b",
+"source": "justjoin",
+"title": "Test Automation Engineer (K/M)",
+"company": "Lumicode Sp. z o.o. (Pentacomp Group)",
+"url": "https://justjoin.it/job-offer/lumicode-sp-z-o-o-pentacomp-group--test-automation-engineer-k-m--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "80–110 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Selenium WebDriver",
+"Java",
+"Postman",
+"SoapUI",
+"ISTQB"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8ad38181-d0ac-457b-ae3d-087f366b845a",
+"source": "justjoin",
+"title": "Tester Automatyzujący",
+"company": "Team Connect",
+"url": "https://justjoin.it/job-offer/team-connect-tester-automatyzujacy-warszawa-testing-ddcfe61c",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "110–120 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"TypeScript",
+"Selenium",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · Java/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4427904256",
+"source": "linkedin",
+"title": "Automation Test Engineer",
+"company": "Hitachi Energy",
+"url": "https://www.linkedin.com/jobs/view/4427904256",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4427914197",
+"source": "linkedin",
+"title": "Senior System Test Engineer",
+"company": "Hitachi Energy",
+"url": "https://www.linkedin.com/jobs/view/4427914197",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4472724060",
+"source": "linkedin",
+"title": "Windchill Quality Assurance Engineer",
+"company": "Rockwell Automation",
+"url": "https://www.linkedin.com/jobs/view/4472724060",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4462673856",
+"source": "linkedin",
+"title": "Software Tester (D365) with German (freelance)",
+"company": "PwC Polska",
+"url": "https://www.linkedin.com/jobs/view/4462673856",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
