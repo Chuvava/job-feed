@@ -181,7 +181,7 @@ def send_batch(tg: Telegram, batch: list, left: int) -> None:
     for job, pr, _, notes in batch:
         tg.send(format_job(job, card_notes(pr, notes)), CARD_BUTTONS)
     if batch or left:
-        tg.send(f"⏳ Ещё в очереди: {left}" if left else "✅ Очередь пуста")
+        tg.send(f"⏳ Ещё в очереди: {left}" if left else "✅ Это все новые на сейчас")
 
 
 def send_digest(tg: Telegram, items: list) -> None:
