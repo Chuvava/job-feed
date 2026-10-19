@@ -109,6 +109,42 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:6ab35b1b-082e-4253-8e8d-ca9b32e08022",
+"source": "justjoin",
+"title": "Tester oprogramowania",
+"company": "Detable",
+"url": "https://justjoin.it/job-offer/detable-tester-oprogramowania-warszawa-testing-21c60c1e",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "13 440–18 480 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Manual Testing",
+"SoapUI",
+"SQL",
+"API",
+"Git",
+"Postman",
+"JMeter",
+"ISTQB"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
