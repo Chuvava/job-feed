@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-18",
-"last_batch": "2026-10-19 12",
+"last_batch": "2026-10-19 15",
 "items": [
 {
 "job": {
@@ -143,7 +143,7 @@
 "office_days": null,
 "why": "remote · ~110 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -169,6 +169,106 @@
 "why": "формат ? · ставка не указана · JS/TS"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480983336",
+"source": "linkedin",
+"title": "Tester automatyzujący hybryda [K/M]",
+"company": "Mindview sp. z o.o.",
+"url": "https://www.linkedin.com/jobs/view/4480983336",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480205657",
+"source": "linkedin",
+"title": "Data QA Engineer",
+"company": "Jobgether",
+"url": "https://www.linkedin.com/jobs/view/4480205657",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4439013076",
+"source": "linkedin",
+"title": "API Quality Assurance Engineer (EMEA/KRK)",
+"company": "Aven Hospitality",
+"url": "https://www.linkedin.com/jobs/view/4439013076",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480977718",
+"source": "linkedin",
+"title": "Tester/ QA Automation Engineer",
+"company": "ithouse.co",
+"url": "https://www.linkedin.com/jobs/view/4480977718",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
