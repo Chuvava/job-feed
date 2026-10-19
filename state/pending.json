@@ -1,5 +1,89 @@
 {
 "last_digest": "2026-10-18",
 "last_batch": "2026-10-19 9",
-"items": []
+"items": [
+{
+"job": {
+"id": "justjoin:4daa8d97-1d57-4e88-b1ce-ec34b97c291c",
+"source": "justjoin",
+"title": "Testerka / Tester - IT Chapter Systemy Inwestycyjne",
+"company": "BNP Paribas Bank Polska",
+"url": "https://justjoin.it/job-offer/bnp-paribas-bank-polska-testerka-tester---it-chapter-systemy-inwestycyjne-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"SQL",
+"Jira",
+"Confluence",
+"GitLab",
+"CI/CD"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479982337",
+"source": "linkedin",
+"title": "Engineering Manager, Automation Intelligence",
+"company": "Jobgether",
+"url": "https://www.linkedin.com/jobs/view/4479982337",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480962124",
+"source": "linkedin",
+"title": "CTO & Co-founder (Robotics automation)",
+"company": "Red Sky",
+"url": "https://www.linkedin.com/jobs/view/4480962124",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
