@@ -145,6 +145,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480968087",
+"source": "linkedin",
+"title": "Test Automation Engineer",
+"company": "Connectis_",
+"url": "https://www.linkedin.com/jobs/view/4480968087",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
