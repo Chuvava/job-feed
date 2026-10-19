@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-18",
-"last_batch": "2026-10-19 15",
+"last_batch": "2026-10-19 18",
 "items": [
 {
 "job": {
@@ -305,7 +305,7 @@
 "office_days": null,
 "why": "remote · ~140 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -373,7 +373,7 @@
 "office_days": null,
 "why": "remote · ~110 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -405,7 +405,7 @@
 "office_days": null,
 "why": "remote · ~120 PLN/ч · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -504,6 +504,31 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4461853263",
+"source": "linkedin",
+"title": "Software Engineer, OS Automation Platform",
+"company": "CoreWeave",
+"url": "https://www.linkedin.com/jobs/view/4461853263",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
 "notes": []
