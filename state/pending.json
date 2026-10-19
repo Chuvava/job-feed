@@ -1,5 +1,38 @@
 {
 "last_digest": "2026-10-19",
 "last_batch": "2026-10-19 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "justjoin:b6767bba-8dc1-424c-aca8-cc2a720e8931",
+"source": "justjoin",
+"title": "Tester Automatyzujący",
+"company": "Envelo",
+"url": "https://justjoin.it/job-offer/envelo-tester-automatyzujacy-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Postman",
+"Jira",
+"SoapUI",
+"Selenium"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+}
+]
 }
