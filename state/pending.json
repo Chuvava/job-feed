@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-18",
-"last_batch": "2026-10-19 9",
+"last_batch": "2026-10-19 12",
 "items": [
 {
 "job": {
@@ -57,7 +57,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -82,7 +82,32 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479985131",
+"source": "linkedin",
+"title": "UAT Tester – Payment Application (Poland)",
+"company": "AppTestify",
+"url": "https://www.linkedin.com/jobs/view/4479985131",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
