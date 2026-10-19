@@ -43,7 +43,7 @@ sources:
   justjoin:
     enabled: true
     category: testing
-    max_pages: 15   # top pages are full of "bumped" old offers (publishedAt = refresh time); new ones sit lower          # 10 offers per page, newest first
+    max_pages: 15         # 10 per page; top pages are full of refreshed old offers, new ones sit lower
     backlog:              # overrides for --backlog (everything currently online)
       max_pages: 40
 
