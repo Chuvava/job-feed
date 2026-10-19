@@ -270,6 +270,43 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:db61c6bd-f336-40b9-8785-d9be3b362b77",
+"source": "justjoin",
+"title": "Senior Software QA Engineer",
+"company": "Tenarai",
+"url": "https://justjoin.it/job-offer/tenarai-senior-software-qa-engineer-krakow-testing",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "120–140 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Java",
+"TestNG",
+"RestAssured",
+"BDD",
+"Postman",
+"Bloom RPC",
+"Maven",
+"Bazel"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "A",
+"score": 19,
+"rate": 140.0,
+"office_days": null,
+"why": "remote · ~140 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
