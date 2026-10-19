@@ -607,6 +607,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4444377877",
+"source": "linkedin",
+"title": "AI & Automation Careers at EY GDS Poland - Power Platform, Copilot Studio and FDE",
+"company": "EY",
+"url": "https://www.linkedin.com/jobs/view/4444377877",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
