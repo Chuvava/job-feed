@@ -532,6 +532,81 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4454672252",
+"source": "linkedin",
+"title": "Senior QA Engineer - Remote",
+"company": "Kake",
+"url": "https://www.linkedin.com/jobs/view/4454672252",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "A",
+"score": 22,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/C#/Python/JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481211335",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer (JavaScript)",
+"company": "Intellias",
+"url": "https://www.linkedin.com/jobs/view/4481211335",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481206669",
+"source": "linkedin",
+"title": "Software Quality Assurance Tester",
+"company": "SPERTON - Where Great People Meet",
+"url": "https://www.linkedin.com/jobs/view/4481206669",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-19"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
