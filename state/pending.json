@@ -465,6 +465,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481588891",
+"source": "linkedin",
+"title": "🟠Senior Automation Java QA Engineer🟠",
+"company": "Luxoft Poland",
+"url": "https://www.linkedin.com/jobs/view/4481588891",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 19,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480477188",
+"source": "linkedin",
+"title": "Power Platform Specialist (Power Apps & Power Automate)",
+"company": "emagine",
+"url": "https://www.linkedin.com/jobs/view/4480477188",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
