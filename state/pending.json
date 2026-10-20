@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-19",
-"last_batch": "2026-10-19 21",
+"last_batch": "2026-10-20 9",
 "items": [
 {
 "job": {
@@ -32,6 +32,31 @@
 "why": "hybrid · ставка не указана · язык ? · без B2B"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481544202",
+"source": "linkedin",
+"title": "SCADA Engineer - PHARMA AUTOMATION - Lodz",
+"company": "NonStop Consulting",
+"url": "https://www.linkedin.com/jobs/view/4481544202",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python"
+},
+"shown": true,
 "notes": []
 }
 ]
