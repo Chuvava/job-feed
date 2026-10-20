@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-19",
-"last_batch": "2026-10-20 12",
+"last_batch": "2026-10-20 15",
 "items": [
 {
 "job": {
@@ -146,7 +146,7 @@
 "office_days": null,
 "why": "remote · ~150 PLN/ч · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -259,6 +259,159 @@
 "rate": 110.0,
 "office_days": 4.3,
 "why": "офис ~4 дн/мес · ~110 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:86d0a3db-7ee7-4c67-b7cb-cd52a4d03d0a",
+"source": "justjoin",
+"title": "Tester automatyczny",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-tester-automatyczny-warszawa-testing-63a2f1bb",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "80–100 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Selenium",
+"Java",
+"SQL",
+"Jira",
+"SoapUI",
+"Postman",
+"Jenkins",
+"Git",
+"Test Automation",
+"Maven"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:1d0ee363-6ca1-4732-8c68-b9e73ed4c692",
+"source": "justjoin",
+"title": "Tester Automatyczny ",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-tester-automatyczny--warsaw-testing",
+"location": "Warsaw",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Documentation",
+"C#",
+"Java",
+"Quality Assurance (QA)",
+"Banking Systems",
+"Testing",
+"Atlassian JIRA",
+"Atlassian Confluence",
+"ISTQB",
+"Selenium"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ставка не указана · Java/C#"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4462942572",
+"source": "linkedin",
+"title": "Senior Software Tester",
+"company": "Ericsson",
+"url": "https://www.linkedin.com/jobs/view/4462942572",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481567825",
+"source": "linkedin",
+"title": "DevOps Engineer - Development & Automation",
+"company": "Nordea",
+"url": "https://www.linkedin.com/jobs/view/4481567825",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#/Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Nordea (через emagine): «Senior Test Data Engineer / Test Data Management Specialist» · Контакт · строка 3"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4481568760",
+"source": "linkedin",
+"title": "Senior Infrastructure Automation Engineer",
+"company": "auticon Poland",
+"url": "https://www.linkedin.com/jobs/view/4481568760",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
