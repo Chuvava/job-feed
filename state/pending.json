@@ -113,6 +113,123 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:4614435d-3ef4-48d3-8dce-e6d9bc879d2d",
+"source": "justjoin",
+"title": "Automation Engineer",
+"company": "KUBO",
+"url": "https://justjoin.it/job-offer/kubo-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "130–150 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"TypeScript",
+"Selenium",
+"Cucumber",
+"Maven",
+"Playwright",
+"Jira"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "A",
+"score": 20,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · Java/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:network-test-automation-codilime-Remote",
+"source": "nofluff",
+"title": "Network Test Automation",
+"company": "CodiLime",
+"url": "https://nofluffjobs.com/pl/job/network-test-automation-codilime-remote",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "18 000–25 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python",
+"Test automation",
+"CD pipelines",
+"pytest"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-06"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 148.8095238095238,
+"office_days": null,
+"why": "remote · ~149 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481554646",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "Hitachi Energy",
+"url": "https://www.linkedin.com/jobs/view/4481554646",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481550882",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "SplitMetrics",
+"url": "https://www.linkedin.com/jobs/view/4481550882",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
