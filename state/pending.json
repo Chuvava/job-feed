@@ -58,6 +58,61 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:40f278c8-3d15-473a-8b7a-7efdf2bbaeba",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer",
+"company": "co.brick Talents",
+"url": "https://justjoin.it/job-offer/co-brick-talents-senior-qa-automation-engineer-gliwice-testing-74252dd6",
+"location": "Gliwice",
+"workplace": "remote",
+"salary": "90–95 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Azure DevOps"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 95.0,
+"office_days": null,
+"why": "remote · ~95 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478675214",
+"source": "linkedin",
+"title": "QA Automation Engineer (Consulting services)",
+"company": "Coherent Solutions",
+"url": "https://www.linkedin.com/jobs/view/4478675214",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
