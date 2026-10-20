@@ -415,6 +415,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4464369872",
+"source": "linkedin",
+"title": "AI Automation Engineer",
+"company": "Keepit",
+"url": "https://www.linkedin.com/jobs/view/4464369872",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478695380",
+"source": "linkedin",
+"title": "Quality Engineer",
+"company": "goCode",
+"url": "https://www.linkedin.com/jobs/view/4478695380",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/JS/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
