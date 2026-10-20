@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-19",
-"last_batch": "2026-10-20 15",
+"last_batch": "2026-10-20 18",
 "items": [
 {
 "job": {
@@ -386,7 +386,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#/Python"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Nordea (через emagine): «Senior Test Data Engineer / Test Data Management Specialist» · Контакт · строка 3"
 ]
@@ -463,7 +463,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/JS/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -488,7 +488,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/JS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
