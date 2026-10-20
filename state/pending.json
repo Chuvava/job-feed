@@ -230,6 +230,38 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:33d3210f-9749-482d-8879-f1adb64504e3",
+"source": "justjoin",
+"title": "Tester Automatyzujący (Bankowość / FinTech)",
+"company": "Experis Manpower Group",
+"url": "https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-bankowosc-fintech--krakow-testing",
+"location": "Kraków, Warszawa, Szczecin, Poznań, Gdańsk",
+"workplace": "hybrid",
+"salary": "75–110 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Selenium",
+"REST API",
+"Java",
+"Jira"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 110.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~110 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
