@@ -1,5 +1,81 @@
 {
 "last_digest": "2026-10-20",
 "last_batch": "2026-10-20 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4478911817",
+"source": "linkedin",
+"title": "Tester Automatyzujący Senior (k/m)",
+"company": "Orange",
+"url": "https://www.linkedin.com/jobs/view/4478911817",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481779303",
+"source": "linkedin",
+"title": "Tester Automatyzujący Senior (k/m)",
+"company": "Finture",
+"url": "https://www.linkedin.com/jobs/view/4481779303",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478916549",
+"source": "linkedin",
+"title": "Microsoft 365, Copilot & Automation Specialist",
+"company": "Orange",
+"url": "https://www.linkedin.com/jobs/view/4478916549",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-20"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
