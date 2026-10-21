@@ -335,6 +335,58 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482076506",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4482076506",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479402425",
+"source": "linkedin",
+"title": "Tester Automatyzujący -  K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4479402425",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
 }
 ]
 }
