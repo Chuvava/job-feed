@@ -101,6 +101,65 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:automation-tester-c--scalo-Remote",
+"source": "nofluff",
+"title": "Automation Tester/C#",
+"company": "Scalo",
+"url": "https://nofluffjobs.com/pl/job/automation-tester-c--scalo-remote",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "19 320–21 000 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Playwright",
+"Selenium",
+"C#",
+"TypeScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "A",
+"score": 18,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · C#/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4480769844",
+"source": "linkedin",
+"title": "Senior Automation QA (C#) Engineer",
+"company": "N-iX",
+"url": "https://www.linkedin.com/jobs/view/4480769844",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
