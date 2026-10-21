@@ -160,6 +160,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482065275",
+"source": "linkedin",
+"title": "Freelance LQA Games Tester - Warsaw  (English speaker)",
+"company": "TransPerfect",
+"url": "https://www.linkedin.com/jobs/view/4482065275",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
