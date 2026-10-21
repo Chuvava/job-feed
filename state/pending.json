@@ -55,6 +55,42 @@
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · строка 8"
 ]
+},
+{
+"job": {
+"id": "justjoin:55c81515-7005-4902-b180-c49201fb9b96",
+"source": "justjoin",
+"title": "Senior QA Automation Specialist with C#",
+"company": "Xebia",
+"url": "https://justjoin.it/job-offer/xebia-senior-qa-automation-specialist-with-c--wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "115–150 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"C#",
+"SDLC",
+"Selenium",
+"Playwright",
+"RestSharp",
+"CI/CD",
+"AI",
+"Test Automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "A",
+"score": 20,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · C#"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
