@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-20",
-"last_batch": "2026-10-21 12",
+"last_batch": "2026-10-21 15",
 "items": [
 {
 "job": {
@@ -383,9 +383,140 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#/TS"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4482091254",
+"source": "linkedin",
+"title": "Senior Agentic Automation Developer (UiPath)",
+"company": "Billennium",
+"url": "https://www.linkedin.com/jobs/view/4482091254",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4482076702",
+"source": "linkedin",
+"title": "Senior Test Engineer (PL)",
+"company": "CluePoints",
+"url": "https://www.linkedin.com/jobs/view/4482076702",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482080976",
+"source": "linkedin",
+"title": "Automation QA engineer - Post-Trade Delivery III",
+"company": "BEC Financial Technologies",
+"url": "https://www.linkedin.com/jobs/view/4482080976",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/TS"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482076803",
+"source": "linkedin",
+"title": "Tester",
+"company": "Scalo",
+"url": "https://www.linkedin.com/jobs/view/4482076803",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#"
+},
+"shown": true,
+"notes": [
+"⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4482097012",
+"source": "linkedin",
+"title": "Senior Intelligent Automation Business Analyst",
+"company": "Billennium",
+"url": "https://www.linkedin.com/jobs/view/4482097012",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
 ]
 }
 ]
