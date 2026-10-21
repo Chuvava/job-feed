@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-20",
-"last_batch": "2026-10-20 21",
+"last_batch": "2026-10-21 9",
 "items": [
 {
 "job": {
@@ -24,7 +24,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/C#/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -49,7 +49,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/C#/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -99,7 +99,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
