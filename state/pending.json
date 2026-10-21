@@ -518,6 +518,56 @@
 "notes": [
 "⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4482104100",
+"source": "linkedin",
+"title": "Senior UiPath Test Automation Developer",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4482104100",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481125052",
+"source": "linkedin",
+"title": "Middle Automation QA Engineer (Python)",
+"company": "Reppls (Techstars '24)",
+"url": "https://www.linkedin.com/jobs/view/4481125052",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
