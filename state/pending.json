@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-20",
-"last_batch": "2026-10-21 9",
+"last_batch": "2026-10-21 12",
 "items": [
 {
 "job": {
@@ -74,7 +74,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -131,7 +131,7 @@
 "office_days": null,
 "why": "remote · ~125 PLN/ч · C#/TS"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12"
 ]
@@ -158,7 +158,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -179,6 +179,56 @@
 "priority": {
 "tier": "B",
 "score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4454908574",
+"source": "linkedin",
+"title": "Performance QA Engineer",
+"company": "Veeam Software",
+"url": "https://www.linkedin.com/jobs/view/4454908574",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480794074",
+"source": "linkedin",
+"title": "We’re Hiring: Game Localization Senior QA Tester – English | Warsaw, Poland",
+"company": "TransPerfect",
+"url": "https://www.linkedin.com/jobs/view/4480794074",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 5,
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
