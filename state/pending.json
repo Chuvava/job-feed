@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-20",
-"last_batch": "2026-10-21 15",
+"last_batch": "2026-10-21 18",
 "items": [
 {
 "job": {
@@ -622,7 +622,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -671,6 +671,106 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4452261957",
+"source": "linkedin",
+"title": "IT Automation Engineer",
+"company": "project44",
+"url": "https://www.linkedin.com/jobs/view/4452261957",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4479417812",
+"source": "linkedin",
+"title": "Automation QA Engineer",
+"company": "DOU Polska",
+"url": "https://www.linkedin.com/jobs/view/4479417812",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python/TS"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4445995846",
+"source": "linkedin",
+"title": "Test Automation Engineer - Cards (Polish is Mandatory)",
+"company": "Capco",
+"url": "https://www.linkedin.com/jobs/view/4445995846",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478610463",
+"source": "linkedin",
+"title": "QA Automation Engineer",
+"company": "Productiv Team",
+"url": "https://www.linkedin.com/jobs/view/4478610463",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python/JS/TS"
 },
 "shown": false,
 "notes": []
