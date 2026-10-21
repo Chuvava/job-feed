@@ -235,6 +235,106 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482055812",
+"source": "linkedin",
+"title": "Senior ServiceNow Automation Developer",
+"company": "Us3 Consulting",
+"url": "https://www.linkedin.com/jobs/view/4482055812",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4454181725",
+"source": "linkedin",
+"title": "Specjalista ds. testów automatycznych",
+"company": "SEDIVIO",
+"url": "https://www.linkedin.com/jobs/view/4454181725",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480799034",
+"source": "linkedin",
+"title": "Rails Engineer -Test Automation (DRWN)",
+"company": "Darwin Recruitment",
+"url": "https://www.linkedin.com/jobs/view/4480799034",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4473504094",
+"source": "linkedin",
+"title": "Manager, Engineering Excellence & Quality Engineering",
+"company": "Fortrea",
+"url": "https://www.linkedin.com/jobs/view/4473504094",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
