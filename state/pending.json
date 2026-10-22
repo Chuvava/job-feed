@@ -273,6 +273,70 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:3f0ac0f1-3644-4dc0-82dc-1365ea36b924",
+"source": "justjoin",
+"title": "Senior QA Tester",
+"company": "Optiveum",
+"url": "https://justjoin.it/job-offer/optiveum-senior-qa-tester-warszawa-testing",
+"location": "Warszawa, Gdańsk, Gdynia",
+"workplace": "hybrid",
+"salary": "110–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"API Testing",
+"Postman",
+"Swagger",
+"browserstack",
+"Web and mobile testing",
+"QA",
+"Agile",
+"Quality Assurance",
+"ISTQB"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 110.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~110 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4472901468",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer with Python (f/m/x)",
+"company": "Sii Poland",
+"url": "https://www.linkedin.com/jobs/view/4472901468",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · строка 8"
+]
 }
 ]
 }
