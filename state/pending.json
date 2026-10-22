@@ -1,5 +1,69 @@
 {
 "last_digest": "2026-10-22",
 "last_batch": "2026-10-22 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "justjoin:cfdac859-db72-425a-bba1-c06a802d31c1",
+"source": "justjoin",
+"title": "Test Automation Engineer (Mobile & Web)",
+"company": "Antal Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/antal-sp-z-o-o--test-automation-engineer-mobile-web--krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Java",
+"Cucumber",
+"Selenium",
+"BDD",
+"GitHub",
+"Jira",
+"CI/CD",
+"Appium",
+"Automated Testing",
+"Automation Tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": 6.0,
+"why": "офис ~6 дн/мес · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480077383",
+"source": "linkedin",
+"title": "SENIOR TEST ENGINEER AUTOMATION (Tricentis Tosca)",
+"company": "Atos",
+"url": "https://www.linkedin.com/jobs/view/4480077383",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
