@@ -122,6 +122,157 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:d4b80187-f9af-44d6-9033-4b48135f6ccb",
+"source": "justjoin",
+"title": "Senior Python Test Engineer – Hardware & Test Automation",
+"company": "BRAVER IT / ITeamly",
+"url": "https://justjoin.it/job-offer/braver-it-iteamly-senior-python-test-engineer---hardware-test-automation-krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "25 000–32 000 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Python",
+"pytest",
+"Automated Testing",
+"NumPy",
+"SciPy",
+"Pandas",
+"matplotlib",
+"PyVISA"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 190.47619047619048,
+"office_days": null,
+"why": "hybrid · ~190 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-automation-engineer-itfs-Kraków",
+"source": "nofluff",
+"title": "Senior QA Automation Engineer ",
+"company": "ITFS Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-automation-engineer-itfs-krakow",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "16 800–21 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Agile",
+"Java",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": 125.0,
+"office_days": 17.2,
+"why": "офис ~17 дн/мес · ~125 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-test-engineer-makeitright-Gdynia",
+"source": "nofluff",
+"title": "Senior QA Test Engineer",
+"company": "Makeitright Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-test-engineer-makeitright-gdynia",
+"location": "Gdańsk, Gdynia, Warszawa",
+"workplace": "hybrid",
+"salary": "2 520–2 940 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"QA",
+"ISTQB",
+"Agile",
+"Scrum"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": 17.5,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~18 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Makeitright Sp. z o.o.: «Senior Test Automation Engineer Java» · Планирую отклик · строка 29"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4482448734",
+"source": "linkedin",
+"title": "Senior AQA Engineer (Java)",
+"company": "Intellias",
+"url": "https://www.linkedin.com/jobs/view/4482448734",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480005734",
+"source": "linkedin",
+"title": "Game Tester",
+"company": "Soul Atlas",
+"url": "https://www.linkedin.com/jobs/view/4480005734",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
