@@ -541,6 +541,56 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480053231",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "Extia",
+"url": "https://www.linkedin.com/jobs/view/4480053231",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480053227",
+"source": "linkedin",
+"title": "B2B Project: QA Automation Engineer",
+"company": "Hays",
+"url": "https://www.linkedin.com/jobs/view/4480053227",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
