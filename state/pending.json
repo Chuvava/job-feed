@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-21",
-"last_batch": "2026-10-22 12",
+"last_batch": "2026-10-22 15",
 "items": [
 {
 "job": {
@@ -407,7 +407,7 @@
 "office_days": null,
 "why": "hybrid · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -439,7 +439,7 @@
 "office_days": null,
 "why": "remote · ~170 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -539,7 +539,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
