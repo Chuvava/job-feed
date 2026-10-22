@@ -91,6 +91,37 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-python-test-engineer-hardware-test-automation-iteamly-Kraków",
+"source": "nofluff",
+"title": "Senior Python Test Engineer – Hardware & Test Automation",
+"company": "iTeamly SP. Z O.O.",
+"url": "https://nofluffjobs.com/pl/job/senior-python-test-engineer-hardware-test-automation-iteamly-krakow",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "25 000–32 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python",
+"Test automation",
+"pytest"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 190.47619047619048,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~190 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
