@@ -491,6 +491,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482457829",
+"source": "linkedin",
+"title": "Automation Developer",
+"company": "ISS A/S",
+"url": "https://www.linkedin.com/jobs/view/4482457829",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482475342",
+"source": "linkedin",
+"title": "Senior SDET",
+"company": "Forte Group",
+"url": "https://www.linkedin.com/jobs/view/4482475342",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#/Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
