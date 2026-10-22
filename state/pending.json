@@ -591,6 +591,94 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:06a537e8-e12f-4824-8d27-62b08a90c04c",
+"source": "justjoin",
+"title": "Tester automatyzujący Senior",
+"company": "Jit Team",
+"url": "https://justjoin.it/job-offer/jit-team-tester-automatyzujacy-senior-warszawa-testing-32a78b7e",
+"location": "Warszawa, Wrocław, Lublin, Szczecin, Białystok",
+"workplace": "hybrid",
+"salary": "900–1 100 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"TypeScript",
+"Playwright",
+"Selenium",
+"API",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "A",
+"score": 18,
+"rate": 137.5,
+"office_days": 4.0,
+"why": "офис ~4 дн/мес · ~138 PLN/ч · Java/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4472189678",
+"source": "linkedin",
+"title": "Senior Test Engineer (M/K) - Praca zdalna K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4472189678",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4472695900",
+"source": "linkedin",
+"title": "Test Automation Engineer (M/K) 1/2 etatu - Praca zdalna K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4472695900",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
 }
 ]
 }
