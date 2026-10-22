@@ -337,6 +337,160 @@
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · строка 8"
 ]
+},
+{
+"job": {
+"id": "justjoin:692f10b8-f90b-413d-a2cf-8d1f319370ad",
+"source": "justjoin",
+"title": "Test Automation Specialist (K/M)",
+"company": "Alior Bank SA",
+"url": "https://justjoin.it/job-offer/alior-bank-sa-test-automation-specialist-k-m--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Jenkins",
+"C#",
+"Selenium WebDriver",
+"Git",
+"RestSharp",
+"NUnit"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · C# · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:6b1d8c5d-8733-4bcb-9e27-29d3856f9eba",
+"source": "justjoin",
+"title": "QA Automation Engineer (m/f)",
+"company": "Medicover",
+"url": "https://justjoin.it/job-offer/medicover-qa-automation-engineer-m-f--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Test Automation",
+"Playwright",
+"Selenium",
+"API Testing",
+"UI testing",
+"Postman",
+"SQL",
+"REST API",
+"Docker",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-automation-engineer-java-j-labs-software-specialist-Remote-1",
+"source": "nofluff",
+"title": "Senior QA Automation Engineer (Java)",
+"company": "j-labs software specialist",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-automation-engineer-java-j-labs-software-specialist-remote-1",
+"location": "Cracow",
+"workplace": "remote",
+"salary": "23 520–28 560 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Java",
+"Test automation",
+"API testing",
+"Integration test"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": 170.0,
+"office_days": null,
+"why": "remote · ~170 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482457579",
+"source": "linkedin",
+"title": "Senior Intelligent Automation Developer",
+"company": "Empat",
+"url": "https://www.linkedin.com/jobs/view/4482457579",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4462783578",
+"source": "linkedin",
+"title": "Software Quality Engineer",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4462783578",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
