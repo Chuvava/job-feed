@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-21",
-"last_batch": "2026-10-21 21",
+"last_batch": "2026-10-22 9",
 "items": [
 {
 "job": {
@@ -51,7 +51,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · строка 8"
 ]
@@ -89,7 +89,7 @@
 "office_days": null,
 "why": "remote · ~150 PLN/ч · C#"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
