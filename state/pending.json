@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-21",
-"last_batch": "2026-10-22 15",
+"last_batch": "2026-10-22 18",
 "items": [
 {
 "job": {
@@ -589,7 +589,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -623,7 +623,7 @@
 "office_days": 4.0,
 "why": "офис ~4 дн/мес · ~138 PLN/ч · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -674,6 +674,98 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "justjoin:31a6a6a4-4450-41a3-9d3a-14af433a8e9b",
+"source": "justjoin",
+"title": "Mobile Test Automation Engineer",
+"company": "ITDS",
+"url": "https://justjoin.it/job-offer/itds-mobile-test-automation-engineer-krakow-testing",
+"location": "Krakow",
+"workplace": "hybrid",
+"salary": "27 300–32 760 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"Selenium",
+"Mobile test automation",
+"Cucumber",
+"BDD (Behavior Driven Development)",
+"Appium",
+"TestNG",
+"Maven",
+"Git",
+"CI/CD tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": 195.0,
+"office_days": null,
+"why": "hybrid · ~195 PLN/ч · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ ITDS (агентство) — клиент: Citibank: «Senior Test Automation Engineer – UI and API Frameworks» · Техническое · CV C# classic · строка 18"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4473901766",
+"source": "linkedin",
+"title": "Quality Assurance Manager –  Digital Customer Experience",
+"company": "Hitachi Energy",
+"url": "https://www.linkedin.com/jobs/view/4473901766",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4463439911",
+"source": "linkedin",
+"title": "Inżynier Automatyzacji Ansible / Devops Inżynier (Ansible) (K/M)   - Warszawa (Mazowieckie), Polska K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4463439911",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-22"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
 "notes": [
