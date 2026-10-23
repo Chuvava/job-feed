@@ -790,6 +790,158 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4474360066",
+"source": "linkedin",
+"title": "Python Software Engineer - Test Automation Framework (Embedded)",
+"company": "Sonova Group",
+"url": "https://www.linkedin.com/jobs/view/4474360066",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481906261",
+"source": "linkedin",
+"title": "PHP QA Engineer",
+"company": "act digital EMEA - Alter Solutions",
+"url": "https://www.linkedin.com/jobs/view/4481906261",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481693551",
+"source": "linkedin",
+"title": "Tester Automatyzujący (Java)",
+"company": "emagine",
+"url": "https://www.linkedin.com/jobs/view/4481693551",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4465622960",
+"source": "linkedin",
+"title": "Quality Engineering Lead",
+"company": "ECCO",
+"url": "https://www.linkedin.com/jobs/view/4465622960",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483107035",
+"source": "linkedin",
+"title": "🔎 Functional Tester with Fashion Industry Background🔎",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4483107035",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480666467",
+"source": "linkedin",
+"title": "Python Automation Tester (f/m/x)",
+"company": "Sii Poland",
+"url": "https://www.linkedin.com/jobs/view/4480666467",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
 }
 ]
 }
