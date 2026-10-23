@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-22",
-"last_batch": "2026-10-23 9",
+"last_batch": "2026-10-23 12",
 "items": [
 {
 "job": {
@@ -62,7 +62,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -220,7 +220,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -245,7 +245,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
