@@ -52,6 +52,13 @@ class Pending:
         picked = [(Job(**i["job"]), Priority(**i["priority"]), True, i["notes"]) for i in order[:n]]
         return picked, len(order) - len(picked)
 
+    def take_instant(self, tiers: list[str]) -> list[Item]:
+        """Unshown offers of these tiers, marked shown: they go out on the run that found them."""
+        picked = [i for i in self.items if not i["shown"] and i["priority"]["tier"] in tiers]
+        for i in picked:
+            i["shown"] = True
+        return [(Job(**i["job"]), Priority(**i["priority"]), True, i["notes"]) for i in picked]
+
     def digest_due(self, hour: int, now: datetime | None = None) -> bool:
         now = now or datetime.now(TZ)
         return now.hour >= hour and self.last_digest != now.date().isoformat()

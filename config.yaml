@@ -66,8 +66,8 @@ sources:
       - Test Automation Engineer
       - Playwright
 
-# Delivery (jobfeed/rank.py + digest.py): offers are collected hourly but never sent right away.
-# At each batch hour the best `batch_cards` waiting offers go out as cards; at digest_hour the
+# Delivery (jobfeed/rank.py + digest.py): offers are collected hourly; tier A (instant_tiers) goes out at once.
+# The rest waits: at each batch hour the best `batch_cards` of them go out as cards; at digest_hour the
 # day summary lists everything else (low priority at the bottom). Hours are Europe/Warsaw.
 priority:
   min_rate: 120          # PLN/h B2B; monthly /168, daily /8, EUR ×4.25; not stated counts as OK
@@ -76,3 +76,4 @@ priority:
   batch_hours: [9, 12, 15, 18, 21]
   batch_cards: 3
   digest_hour: 21        # right after the last batch
+  instant_tiers: [A]     # these go out as a card on the run that finds them, not at the next batch hour

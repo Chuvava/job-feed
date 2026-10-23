@@ -127,7 +127,7 @@ def main() -> int:
         store.add(f"src:{source}")
     log.info("new matching offers: %d (silently indexed sources: %s)", len(fresh), sorted(new_sources) or "-")
 
-    # No card goes out right away: everything queues up and leaves in batches (config → priority)
+    # Everything queues up; tier A leaves on this run, the rest in batches (config → priority)
     prio_cfg = {**rank.DEFAULTS, **cfg.get("priority", {})}
     tracker = Tracker.load() if fresh else Tracker([])
     pending = Pending(ROOT / "state" / "pending.json")
@@ -154,6 +154,11 @@ def main() -> int:
                 f"New ones will arrive here.")
     hours = prio_cfg["batch_hours"]
     try:
+        instant = pending.take_instant(prio_cfg["instant_tiers"])
+        if instant:  # top offers don't wait for a batch slot: being among the first applicants matters
+            pending.save()
+            for job, pr, _, notes in instant:
+                tg.send(format_job(job, card_notes(pr, notes)), CARD_BUTTONS)
         if pending.batch_due(hours):
             batch, left = pending.take_batch(prio_cfg["batch_cards"], hours)
             pending.save()
