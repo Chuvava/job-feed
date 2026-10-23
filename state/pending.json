@@ -626,6 +626,170 @@
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
+},
+{
+"job": {
+"id": "justjoin:ae7b0d7e-fad9-4c92-a934-51483114610e",
+"source": "justjoin",
+"title": "QA Automation Engineer (Cypress / Selenium)",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-qa-automation-engineer-cypress-selenium--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "90–110 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Cypress",
+"Selenium",
+"Agile/Scrum",
+"Testy regresyjne",
+"REST/API-first",
+"JavaScript",
+"TypeScript",
+"PHP"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · JS/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ P&P Solutions: «Tester automatyczny» · Откликнулся · строка 59"
+]
+},
+{
+"job": {
+"id": "justjoin:0460c2f0-f243-4363-bf6d-d2acc8df47d1",
+"source": "justjoin",
+"title": "Tester automatyzujący (k/m/n)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-tester-automatyzujacy-k-m-n--warszawa-testing",
+"location": "Warszawa, Kraków, Katowice",
+"workplace": "hybrid",
+"salary": "75–90 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Testy automatyczne w Javie",
+"Playwright",
+"TestNG",
+"Allure",
+"GitLab",
+"Maven",
+"Spring",
+"Jira",
+"Testowanie z Kafką",
+"Testowanie aplikacji płatności"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 90.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~90 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:4a68925c-f0bc-49f4-b43a-b48c97d8ad6e",
+"source": "justjoin",
+"title": "QA Automation Engineer (86/23)",
+"company": "Infolet",
+"url": "https://justjoin.it/job-offer/infolet-qa-automation-engineer-86-23--krakow-testing",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "18 400–21 800 PLN/mo b2b; 13 200–15 600 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"Java",
+"TypeScript",
+"Playwright",
+"API Testing",
+"CI/CD",
+"AWS",
+"Kubernetes"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "A",
+"score": 19,
+"rate": 129.76190476190476,
+"office_days": null,
+"why": "remote · ~130 PLN/ч · Java/TS"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480665500",
+"source": "linkedin",
+"title": "Test Automation Engineer – JavaScript (f/m/x)",
+"company": "Sii Poland",
+"url": "https://www.linkedin.com/jobs/view/4480665500",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4482884388",
+"source": "linkedin",
+"title": "QA Automation Engineer",
+"company": "Infolet",
+"url": "https://www.linkedin.com/jobs/view/4482884388",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
