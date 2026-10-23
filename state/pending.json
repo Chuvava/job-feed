@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-22",
-"last_batch": "2026-10-23 15",
+"last_batch": "2026-10-23 18",
 "items": [
 {
 "job": {
@@ -522,7 +522,7 @@
 "office_days": 8.6,
 "why": "офис ~9 дн/мес · ~120 PLN/ч · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -547,7 +547,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -788,7 +788,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -942,6 +942,42 @@
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
+},
+{
+"job": {
+"id": "justjoin:a5de2153-ca01-4305-9b08-e2a4623ce8e4",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Fudo Security Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/fudo-security-sp-z-o-o--qa-engineer-warszawa-testing-b4271899",
+"location": "Warszawa, Gdańsk, Wrocław, Poznań, Rzeszów",
+"workplace": "remote",
+"salary": "72–96 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Manual Testing",
+"SSH",
+"Automated Testing",
+"Python",
+"Selenium",
+"ISTQB Foundation",
+"test case design",
+"bug tracking"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": 96.0,
+"office_days": null,
+"why": "remote · ~96 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
