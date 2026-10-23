@@ -247,6 +247,140 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-automation-tester-darize-Warszawa",
+"source": "nofluff",
+"title": "Senior Automation Tester",
+"company": "Darize",
+"url": "https://nofluffjobs.com/pl/job/senior-automation-tester-darize-warszawa",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "23 520–26 880 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Jira",
+"Confluence",
+"Selenium",
+"Java"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": 160.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~160 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482861234",
+"source": "linkedin",
+"title": "Tester/Testerka Automatyzacji Testów",
+"company": "BlueSoft",
+"url": "https://www.linkedin.com/jobs/view/4482861234",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ BlueSoft (Orange Group) — клиент: крупный банк (Open Banking): «Senior Test Automation Engineer (JAVA)» · Откликнулся · CV Java classic (For ALTEN) · строка 42"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4437844137",
+"source": "linkedin",
+"title": "Senior Quality Engineer (Data)",
+"company": "Kingfisher plc",
+"url": "https://www.linkedin.com/jobs/view/4437844137",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4474083030",
+"source": "linkedin",
+"title": "Localization Quality Assurance Tester with Brazilian Portuguese",
+"company": "Lionbridge Games",
+"url": "https://www.linkedin.com/jobs/view/4474083030",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4419236348",
+"source": "linkedin",
+"title": "Localization Quality Assurance Game Tester with French",
+"company": "Lionbridge Games",
+"url": "https://www.linkedin.com/jobs/view/4419236348",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
