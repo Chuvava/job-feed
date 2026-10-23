@@ -381,6 +381,85 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482853641",
+"source": "linkedin",
+"title": "AI Tech Lead & Automation (.NET + Python)",
+"company": "RITS",
+"url": "https://www.linkedin.com/jobs/view/4482853641",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#/Python"
+},
+"shown": false,
+"notes": [
+"⚠️ RITS — клиент из банковской сферы: «Automation Tester» · Планирую отклик · строка 13"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4480648720",
+"source": "linkedin",
+"title": "Power Platform & Process Automation Specialist – Learning & Development",
+"company": "Hays",
+"url": "https://www.linkedin.com/jobs/view/4480648720",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482860607",
+"source": "linkedin",
+"title": "Tester Automatyzujący (Java)",
+"company": "Billennium",
+"url": "https://www.linkedin.com/jobs/view/4482860607",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
+]
 }
 ]
 }
