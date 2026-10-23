@@ -133,6 +133,120 @@
 "notes": [
 "⚠️ H2B Group (Euvic) — клиент: система контроля доступа к данным (ABAC), команда в UK: «QA Automation Engineer» · Откликнулся · CV C# classic · строка 56"
 ]
+},
+{
+"job": {
+"id": "justjoin:a0ef2c2b-390f-459f-8406-ad7278183da4",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "YourITeams",
+"url": "https://justjoin.it/job-offer/youriteams-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "11 200–16 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"API Testing",
+"AI",
+"Manual Testing",
+"Functional Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 95.23809523809524,
+"office_days": null,
+"why": "remote · ~95 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:f64d778f-3016-4da7-a087-e340a6c0c65b",
+"source": "justjoin",
+"title": "QA Engineer (Mid)",
+"company": "Scanye",
+"url": "https://justjoin.it/job-offer/scanye-qa-engineer-mid--warszawa-testing",
+"location": "Warszawa, Wrocław, Poznań, Katowice, Łódź",
+"workplace": "remote",
+"salary": "8 000–14 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Testy manualne",
+"Jira",
+"Testy Automatyczne",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 83.33333333333333,
+"office_days": null,
+"why": "remote · ~83 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482832463",
+"source": "linkedin",
+"title": "IT Business Analyst (AI/Automation)",
+"company": "Comarch",
+"url": "https://www.linkedin.com/jobs/view/4482832463",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4480039539",
+"source": "linkedin",
+"title": "Marketing Automation Specialist",
+"company": "ExpertSender",
+"url": "https://www.linkedin.com/jobs/view/4480039539",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
