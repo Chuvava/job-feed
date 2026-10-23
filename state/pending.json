@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-22",
-"last_batch": "2026-10-22 21",
+"last_batch": "2026-10-23 9",
 "items": [
 {
 "job": {
@@ -37,7 +37,7 @@
 "office_days": 6.0,
 "why": "офис ~6 дн/мес · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -94,9 +94,44 @@
 "office_days": null,
 "why": "remote · ставка не указана · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "📌 Уже в трекере · строка 9 · HR"
+]
+},
+{
+"job": {
+"id": "justjoin:886b2b54-b0d5-4ffa-aae5-67c27c0a622e",
+"source": "justjoin",
+"title": "Test Automation Engineer",
+"company": "H2B Group",
+"url": "https://justjoin.it/job-offer/h2b-group-test-automation-engineer-gdansk-testing",
+"location": "Gdańsk",
+"workplace": "remote",
+"salary": "90–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Kotlin",
+"Appium",
+"Android",
+"Flaky tests",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": [
+"⚠️ H2B Group (Euvic) — клиент: система контроля доступа к данным (ABAC), команда в UK: «QA Automation Engineer» · Откликнулся · CV C# classic · строка 56"
 ]
 }
 ]
