@@ -64,6 +64,40 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:fcbac0cc-0a59-46df-a5f6-92160ccacc77",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer",
+"company": "Red Global",
+"url": "https://justjoin.it/job-offer/red-global-senior-test-automation-engineer-warsaw-testing",
+"location": "warsaw",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"Java",
+"Selenium",
+"TypeScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "A",
+"score": 17,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/TS"
+},
+"shown": false,
+"notes": [
+"📌 Уже в трекере · строка 9 · HR"
+]
 }
 ]
 }
