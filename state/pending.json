@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-22",
-"last_batch": "2026-10-23 12",
+"last_batch": "2026-10-23 15",
 "items": [
 {
 "job": {
@@ -277,7 +277,7 @@
 "office_days": 4.3,
 "why": "офис ~4 дн/мес · ~160 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -459,6 +459,172 @@
 "shown": false,
 "notes": [
 "⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
+]
+},
+{
+"job": {
+"id": "justjoin:3e3d35fa-389b-412e-b6be-6720bdf296ec",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "co.brick Talents",
+"url": "https://justjoin.it/job-offer/co-brick-talents-qa-automation-engineer-gliwice-testing-f25d130a",
+"location": "Gliwice",
+"workplace": "remote",
+"salary": "80–100 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"QA",
+"Test Automation",
+"Cypress",
+"Selenium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8ad5497f-05f4-4995-a49b-d5ae72d31f34",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-qa-automation-engineer-warszawa-testing-9053528d",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "100–120 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"TypeScript",
+"Playwright",
+"Jira"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": 120.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~120 PLN/ч · Java/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4426416186",
+"source": "linkedin",
+"title": "Senior Quality Engineer (QA)",
+"company": "Frontiers",
+"url": "https://www.linkedin.com/jobs/view/4426416186",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482873468",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer (Java, Selenium, RestAssured)",
+"company": "Sanoma Learning",
+"url": "https://www.linkedin.com/jobs/view/4482873468",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482867800",
+"source": "linkedin",
+"title": "QA Automation / DevOps Engineer",
+"company": "eConsulting",
+"url": "https://www.linkedin.com/jobs/view/4482867800",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482859793",
+"source": "linkedin",
+"title": "Cloud Automation Engineer (DevOps / Kubernetes)",
+"company": "ALTEN",
+"url": "https://www.linkedin.com/jobs/view/4482859793",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-23"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
 }
 ]
