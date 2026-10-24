@@ -80,6 +80,31 @@
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4446878347",
+"source": "linkedin",
+"title": "Senior Electronics R&D Test Engineer",
+"company": "ICEYE",
+"url": "https://www.linkedin.com/jobs/view/4446878347",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-24"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
