@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-23",
-"last_batch": "2026-10-24 12",
+"last_batch": "2026-10-24 15",
 "items": [
 {
 "job": {
@@ -51,7 +51,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -76,7 +76,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
