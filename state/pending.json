@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-23",
-"last_batch": "2026-10-24 15",
+"last_batch": "2026-10-24 18",
 "items": [
 {
 "job": {
@@ -128,7 +128,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
