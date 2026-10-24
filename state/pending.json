@@ -132,6 +132,40 @@
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
+},
+{
+"job": {
+"id": "justjoin:062e0ce0-dd1c-4140-8116-0548b41ecaf3",
+"source": "justjoin",
+"title": "Tester Automatyzujący",
+"company": "ALGOTEQUE SERVICES",
+"url": "https://justjoin.it/job-offer/algoteque-services-tester-automatyzujacy-warszawa-testing",
+"location": "Warszawa, Katowice, Karków",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Java",
+"Playwright",
+"Kafka",
+"Spring"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-24"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ALGOTEQUE SERVICES: «Test Automation Engineer» · Планирую отклик · строка 26"
+]
 }
 ]
 }
