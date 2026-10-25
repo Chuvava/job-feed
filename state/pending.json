@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-10-24",
 "last_batch": "2026-10-25 15",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4419071268",
+"source": "linkedin",
+"title": "QA Automation Engineer",
+"company": "Creatio",
+"url": "https://www.linkedin.com/jobs/view/4419071268",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-25"
+},
+"priority": {
+"tier": "C",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+}
+]
 }
