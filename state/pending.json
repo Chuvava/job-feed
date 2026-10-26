@@ -287,6 +287,131 @@
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4483581428",
+"source": "linkedin",
+"title": "Quality Assurance Automation Engineer",
+"company": "Response Informatics",
+"url": "https://www.linkedin.com/jobs/view/4483581428",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481452955",
+"source": "linkedin",
+"title": "Senior Quality Engineer",
+"company": "Tenarai Europe",
+"url": "https://www.linkedin.com/jobs/view/4481452955",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483569785",
+"source": "linkedin",
+"title": "QA Automation Architect",
+"company": "Response Informatics",
+"url": "https://www.linkedin.com/jobs/view/4483569785",
+"location": "Krakowski, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4468779242",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer – Java (emagine’s Talent Community)",
+"company": "emagine",
+"url": "https://www.linkedin.com/jobs/view/4468779242",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483209352",
+"source": "linkedin",
+"title": "Power Automate Engineer",
+"company": "Knowit",
+"url": "https://www.linkedin.com/jobs/view/4483209352",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
