@@ -110,6 +110,39 @@
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
+},
+{
+"job": {
+"id": "justjoin:000a3fab-a00b-4793-8005-84f3f0feb5b9",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-qa-engineer-lodz-testing",
+"location": "Łódź, Warszawa, Gdańsk, Gdynia",
+"workplace": "hybrid",
+"salary": "120–140 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"REST",
+"Bamboo",
+"JMeter",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 140.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~140 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
