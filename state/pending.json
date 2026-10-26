@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-25",
-"last_batch": "2026-10-26 12",
+"last_batch": "2026-10-26 15",
 "items": [
 {
 "job": {
@@ -166,7 +166,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -191,7 +191,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -216,8 +216,77 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:8efe81a2-759f-4676-80dc-35c57d217bf4",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "RITS",
+"url": "https://justjoin.it/job-offer/rits-qa-automation-engineer-warszawa-testing-07ada61f",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "70–100 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Cypress",
+"Selenium",
+"API",
+"JavaScript",
+"PHP"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · JS"
+},
+"shown": false,
+"notes": [
+"⚠️ RITS — клиент из банковской сферы: «Automation Tester» · Планирую отклик · строка 13"
+]
+},
+{
+"job": {
+"id": "nofluff:senior-tester-manulny-bankowosc-k-m-astek-polska-Warszawa",
+"source": "nofluff",
+"title": "Senior Tester Manulny (bankowość) (K/M)",
+"company": "ASTEK Polska",
+"url": "https://nofluffjobs.com/pl/job/senior-tester-manulny-bankowosc-k-m-astek-polska-warszawa",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "12 180–14 490 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Jira",
+"Confluence",
+"SoapUI",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": 86.25,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~86 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
 }
 ]
 }
