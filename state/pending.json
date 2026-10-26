@@ -1,5 +1,38 @@
 {
 "last_digest": "2026-10-25",
 "last_batch": "2026-10-25 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "nofluff:backend-tester-devire-Remote",
+"source": "nofluff",
+"title": "Backend Tester",
+"company": "Devire",
+"url": "https://nofluffjobs.com/pl/job/backend-tester-devire-remote",
+"location": "",
+"workplace": "remote",
+"salary": "15 120–16 800 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Kafka",
+"Jira",
+"MS Excel",
+"MS SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
