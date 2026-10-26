@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-25",
-"last_batch": "2026-10-26 9",
+"last_batch": "2026-10-26 12",
 "items": [
 {
 "job": {
@@ -106,7 +106,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
@@ -141,7 +141,7 @@
 "office_days": 12.899999999999999,
 "why": "офис ~13 дн/мес · ~140 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
