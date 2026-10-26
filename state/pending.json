@@ -143,6 +143,56 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481443311",
+"source": "linkedin",
+"title": "AI & Automation Lead",
+"company": "Mindioo",
+"url": "https://www.linkedin.com/jobs/view/4481443311",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4474691678",
+"source": "linkedin",
+"title": "Marketing Manager, Poland (NGS, Multi-Omics and Automation)",
+"company": "MGI",
+"url": "https://www.linkedin.com/jobs/view/4474691678",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
