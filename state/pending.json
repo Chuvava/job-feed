@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-25",
-"last_batch": "2026-10-26 15",
+"last_batch": "2026-10-26 18",
 "items": [
 {
 "job": {
@@ -335,7 +335,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -409,6 +409,106 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483209582",
+"source": "linkedin",
+"title": "TL QC Engineer with Playwright",
+"company": "SoftServe",
+"url": "https://www.linkedin.com/jobs/view/4483209582",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483583926",
+"source": "linkedin",
+"title": "CATT Tester , Remote Poland or Spain",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4483583926",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481472224",
+"source": "linkedin",
+"title": "Tester with Tosca",
+"company": "Atos",
+"url": "https://www.linkedin.com/jobs/view/4481472224",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483581963",
+"source": "linkedin",
+"title": "Automation QA Engineer | Senior | Apps Team",
+"company": "Nord Security",
+"url": "https://www.linkedin.com/jobs/view/4483581963",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "PLN 20,700.00/mo - PLN 26,800.00/mo",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-26"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS"
 },
 "shown": false,
 "notes": []
