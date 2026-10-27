@@ -51,6 +51,85 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4473674754",
+"source": "linkedin",
+"title": "Test Automation with Java (f/m/x)",
+"company": "Sii Poland",
+"url": "https://www.linkedin.com/jobs/view/4473674754",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4483628131",
+"source": "linkedin",
+"title": "Senior Automation Test Quality Control Engineer",
+"company": "SoftServe",
+"url": "https://www.linkedin.com/jobs/view/4483628131",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 21,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484034171",
+"source": "linkedin",
+"title": "Tester oprogramowania",
+"company": "ALTEN",
+"url": "https://www.linkedin.com/jobs/view/4484034171",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
+]
 }
 ]
 }
