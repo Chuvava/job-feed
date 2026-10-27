@@ -90,7 +90,27 @@ async function onButton(cb, env) {
     return tg(env, "answerCallbackQuery", { callback_query_id: cb.id, text: `Ошибка таблицы: ${res.error}`, show_alert: true });
   }
   await tg(env, "editMessageReplyMarkup", { chat_id: msg.chat.id, message_id: msg.message_id, reply_markup: buttons });
+  if (data === "target" && job.company) await send(env, referralLinks(job.company));
   return tg(env, "answerCallbackQuery", { callback_query_id: cb.id, text: toast });
+}
+
+// 🎯 step 1: people to ask for a referral, 1st/2nd connections first. Searches only, nothing is sent.
+function referralLinks(company) {
+  const name = company
+    .replace(/\b(sp\.? ?z ?o\.? ?o\.?|s\.a\.|sp\.k\.|polska|poland)/gi, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  const search = (q) =>
+    "https://www.linkedin.com/search/results/people/?keywords=" + encodeURIComponent(q) +
+    "&network=" + encodeURIComponent('["F","S"]');
+  const link = (label, q) => `<a href="${search(q)}">${escapeHtml(label)}</a>`;
+  return [
+    `🔎 <b>Реферал в ${escapeHtml(name)}</b> — сначала 1-й и 2-й круг:`,
+    `• ${link("QA / SDET", `${name} QA`)} · ${link("Test Automation", `${name} test automation`)}`,
+    `• ${link("QA Lead / Engineering Manager", `${name} QA lead`)}`,
+    `• ${link("Рекрутеры / TA", `${name} recruiter`)}`,
+    `Нашёл человека — скажи мне в чате, напишу заметку (до 200 знаков).`,
+  ].join("\n");
 }
 
 function savedButtons(row) {
