@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-26",
-"last_batch": "2026-10-27 12",
+"last_batch": "2026-10-27 15",
 "items": [
 {
 "job": {
@@ -220,7 +220,7 @@
 "office_days": null,
 "why": "remote · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
@@ -246,6 +246,183 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8519a594-16c3-41c0-9d8c-c3e19015d03a",
+"source": "justjoin",
+"title": "Automation QA Engineer",
+"company": "Procter & Gamble",
+"url": "https://justjoin.it/job-offer/procter-gamble-automation-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Robot Framework",
+"Python",
+"Selenium",
+"Automated Test Engineer",
+"Test Automation"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:f1386127-da44-4920-9f53-fd19e7dcedd2",
+"source": "justjoin",
+"title": "Test Automation Engineer",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-test-automation-engineer-warszawa-testing-de98b82a",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "100–120 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Appium",
+"Android",
+"Kotlin",
+"Test Automation",
+"CI/CD",
+"Jenkins",
+"Git",
+"API Testing",
+"Manual Testing",
+"Agile"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": [
+"⚠️ P&P Solutions: «Tester automatyczny» · Откликнулся · строка 59"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4484058334",
+"source": "linkedin",
+"title": "Automation QA engineer – Payments",
+"company": "BEC Financial Technologies",
+"url": "https://www.linkedin.com/jobs/view/4484058334",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ BEC Financial Technologies (→ Nykredit Financial Technologies, Дания): «Automation QA engineer - Post-Trade Delivery III» · Откликнулся · CV C# classic · строка 66"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4439162204",
+"source": "linkedin",
+"title": "Test Automation Engineer (M/F/D)",
+"company": "DSV - Global Transport and Logistics",
+"url": "https://www.linkedin.com/jobs/view/4439162204",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 20,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python/JS/TS"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4458576884",
+"source": "linkedin",
+"title": "Regular Software QA Engineer",
+"company": "Inetum",
+"url": "https://www.linkedin.com/jobs/view/4458576884",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Inetum Polska — клиент: банк (область Cards): «Senior Software QA Engineer» · Откликнулся · CV Java classic · строка 43"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4484062897",
+"source": "linkedin",
+"title": "Mainframe System Automation Engineer (REXX)",
+"company": "Randstad",
+"url": "https://www.linkedin.com/jobs/view/4484062897",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
