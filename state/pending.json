@@ -188,6 +188,67 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:fec4cb17-bcb4-4a2d-8f86-4775ea5cf778",
+"source": "justjoin",
+"title": "Murex Test Automation Expert (f/m/x)",
+"company": "Sii",
+"url": "https://justjoin.it/job-offer/sii-murex-test-automation-expert-f-m-x--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Murex",
+"Jira",
+"SQL",
+"GitHub",
+"GitHub Actions",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4481879632",
+"source": "linkedin",
+"title": "INŻYNIER RPA I AUTOMATYZACJI",
+"company": "Poczta Polska S. A.",
+"url": "https://www.linkedin.com/jobs/view/4481879632",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
