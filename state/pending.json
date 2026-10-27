@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-10-27",
 "last_batch": "2026-10-27 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4483693025",
+"source": "linkedin",
+"title": "AI & Automation Analyst Europe W&D",
+"company": "Haleon",
+"url": "https://www.linkedin.com/jobs/view/4483693025",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
