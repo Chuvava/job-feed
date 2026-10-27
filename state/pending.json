@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-26",
-"last_batch": "2026-10-27 9",
+"last_batch": "2026-10-27 12",
 "items": [
 {
 "job": {
@@ -74,7 +74,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
@@ -101,7 +101,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -126,10 +126,35 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4483625263",
+"source": "linkedin",
+"title": "Regular Python Tester",
+"company": "act digital EMEA - Alter Solutions",
+"url": "https://www.linkedin.com/jobs/view/4483625263",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
