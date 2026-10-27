@@ -26,6 +26,69 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:c9f96242-c27c-4858-944a-158fa4672ef0",
+"source": "justjoin",
+"title": "IT Automation Tester [he/she]",
+"company": "ASTEK Polska",
+"url": "https://justjoin.it/job-offer/astek-polska-it-automation-tester-he-she--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "880–1 080 PLN/day b2b",
+"seniority": "mid",
+"skills": [
+"Testing",
+"C#",
+".Net",
+"NUnit",
+"CI/CD",
+"Git",
+"Bitbucket",
+"Bamboo"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "A",
+"score": 15,
+"rate": 135.0,
+"office_days": null,
+"why": "remote · ~135 PLN/ч · C#"
+},
+"shown": true,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4483509643",
+"source": "linkedin",
+"title": "Specjalista ds. automatyki biurowej",
+"company": "SOLID.Jobs",
+"url": "https://www.linkedin.com/jobs/view/4483509643",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
