@@ -453,6 +453,88 @@
 "notes": [
 "⚠️ BlueSoft (Orange Group) — клиент: крупный банк (Open Banking): «Senior Test Automation Engineer (JAVA)» · Откликнулся · CV Java classic (For ALTEN) · строка 42"
 ]
+},
+{
+"job": {
+"id": "nofluff:senior-qa-engineer-kruko-Łódź",
+"source": "nofluff",
+"title": " Senior QA Engineer",
+"company": "Kruko Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-engineer-kruko-lodz",
+"location": "Białystok, Rzeszów, Łódź",
+"workplace": "office",
+"salary": "?–? None/mo b2b",
+"seniority": "Senior",
+"skills": [
+"QA",
+"Testing",
+"Analytical skills",
+"REST API"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-21"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "office · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4439168011",
+"source": "linkedin",
+"title": "IT Test Engineer (M/F/D)",
+"company": "DSV - Global Transport and Logistics",
+"url": "https://www.linkedin.com/jobs/view/4439168011",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484079438",
+"source": "linkedin",
+"title": "Senior Fullstack Engineer, Automate",
+"company": "Box",
+"url": "https://www.linkedin.com/jobs/view/4484079438",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
