@@ -426,6 +426,33 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484068814",
+"source": "linkedin",
+"title": "Test Automation Engineer (Banking)",
+"company": "BlueSoft",
+"url": "https://www.linkedin.com/jobs/view/4484068814",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-27"
+},
+"priority": {
+"tier": "B",
+"score": 18,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/JS"
+},
+"shown": false,
+"notes": [
+"⚠️ BlueSoft (Orange Group) — клиент: крупный банк (Open Banking): «Senior Test Automation Engineer (JAVA)» · Откликнулся · CV Java classic (For ALTEN) · строка 42"
+]
 }
 ]
 }
