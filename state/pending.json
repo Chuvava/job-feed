@@ -923,6 +923,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484106411",
+"source": "linkedin",
+"title": "Robotic Process Automation Business Analyst (M/F/D)",
+"company": "DSV - Global Transport and Logistics",
+"url": "https://www.linkedin.com/jobs/view/4484106411",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
