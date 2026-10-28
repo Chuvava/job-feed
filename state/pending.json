@@ -192,6 +192,75 @@
 "notes": [
 "⚠️ Tenarai: «Senior Software QA Engineer» · Откликнулся · CV Java classic (копия For Mindbox) · строка 44"
 ]
+},
+{
+"job": {
+"id": "justjoin:fd106dc5-de36-47f7-95d1-59996602a879",
+"source": "justjoin",
+"title": "Tester systemów rachunkowości podatkowej",
+"company": "Billennium",
+"url": "https://justjoin.it/job-offer/billennium-tester-systemow-rachunkowosci-podatkowej-lublin-testing",
+"location": "Lublin",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Oracle",
+"Java",
+"Angular",
+"SoapUI",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "A",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
+]
+},
+{
+"job": {
+"id": "justjoin:95a60283-2c00-4995-83fe-5bdc67a5ce9c",
+"source": "justjoin",
+"title": "Starszy Tester Automatyzujący (Java + Selenium)",
+"company": "Billennium",
+"url": "https://justjoin.it/job-offer/billennium-starszy-tester-automatyzujacy-java-selenium--lublin-testing",
+"location": "Lublin",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Java",
+"Selenium WebDriver",
+"REST API",
+"SoapUI"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "A",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
+]
 }
 ]
 }
