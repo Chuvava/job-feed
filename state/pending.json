@@ -446,6 +446,85 @@
 "notes": [
 "⚠️ Nordea (через emagine): «Senior Test Data Engineer / Test Data Management Specialist» · Контакт · строка 3"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4484464229",
+"source": "linkedin",
+"title": "QA Engineer (CAE, MES/FEM/FEA)",
+"company": "ALTEN",
+"url": "https://www.linkedin.com/jobs/view/4484464229",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4484464301",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer (Mobile)",
+"company": "Software Mind",
+"url": "https://www.linkedin.com/jobs/view/4484464301",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4474075561",
+"source": "linkedin",
+"title": "Analityk Systemowy / Tester Aplikacji (K/M)",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4474075561",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
 }
 ]
 }
