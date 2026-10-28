@@ -116,6 +116,46 @@
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
+},
+{
+"job": {
+"id": "justjoin:7aa4d808-e51d-462c-93c3-436453a07dd7",
+"source": "justjoin",
+"title": "Senior Automation and Quality Engineer – Java API & Performance Testing",
+"company": "ITDS",
+"url": "https://justjoin.it/job-offer/itds-senior-automation-and-quality-engineer---java-api-performance-testing-krakow-testing-43974498",
+"location": "Krakow",
+"workplace": "hybrid",
+"salary": "27 300–32 760 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"REST Assured",
+"Performance testing",
+"API Testing",
+"Test automation frameworks",
+"JMeter",
+"CI/CD (Jenkins)",
+"Git",
+"Manual Testing",
+"Agile/Scrum"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": 195.0,
+"office_days": null,
+"why": "hybrid · ~195 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ITDS (агентство) — клиент: Citibank: «Senior Test Automation Engineer – UI and API Frameworks» · Техническое · CV C# classic · строка 18"
+]
 }
 ]
 }
