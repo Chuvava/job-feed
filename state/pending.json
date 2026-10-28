@@ -413,6 +413,39 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:2ef5223b-b075-4292-9870-f17b29dc353f",
+"source": "justjoin",
+"title": "Strategic Quality Assurance Lead - Core Technology",
+"company": "Nordea",
+"url": "https://justjoin.it/job-offer/nordea-strategic-quality-assurance-lead---core-technology-gdansk-testing",
+"location": "Gdańsk, Warszawa, Łódź, Gdynia",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "manager",
+"skills": [
+"QA",
+"Testing",
+"Leadership"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ? · без B2B"
+},
+"shown": false,
+"notes": [
+"⚠️ Nordea (через emagine): «Senior Test Data Engineer / Test Data Management Specialist» · Контакт · строка 3"
+]
 }
 ]
 }
