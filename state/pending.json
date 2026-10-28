@@ -626,6 +626,158 @@
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
+},
+{
+"job": {
+"id": "justjoin:fc03f85b-ac05-42cc-850e-7b2726649788",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer – AI & Test Automation",
+"company": "act digital",
+"url": "https://justjoin.it/job-offer/act-digital-senior-qa-automation-engineer---ai-test-automation-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "120–140 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"React",
+"TypeScript",
+"AI",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "A",
+"score": 17,
+"rate": 140.0,
+"office_days": null,
+"why": "remote · ~140 PLN/ч · Java/TS"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:python-qa-automation-spyrosoft-Remote",
+"source": "nofluff",
+"title": "Python QA Automation",
+"company": "Spyrosoft",
+"url": "https://nofluffjobs.com/pl/job/python-qa-automation-spyrosoft-remote",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "11 760–18 480 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python",
+"Test automation",
+"Testing",
+"REST API"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:product-owner-bpm-process-automation-scalo-Warszawa",
+"source": "nofluff",
+"title": "Product Owner (BPM/Process Automation)",
+"company": "Scalo",
+"url": "https://nofluffjobs.com/pl/job/product-owner-bpm-process-automation-scalo-warszawa",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "25 200–26 880 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"BPM",
+"BPMN",
+"Camunda",
+"Appian"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 160.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~160 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
+"⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4465576417",
+"source": "linkedin",
+"title": "QA Engineer (Java, Selenium) (K/M) -  K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4465576417",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4483870876",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer – AI & Test Automation",
+"company": "act digital EMEA - Alter Solutions",
+"url": "https://www.linkedin.com/jobs/view/4483870876",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
