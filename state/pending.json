@@ -261,6 +261,70 @@
 "notes": [
 "⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
 ]
+},
+{
+"job": {
+"id": "justjoin:fd368be4-7c64-4730-85f0-9e8523242852",
+"source": "justjoin",
+"title": "QA Engineer – Embedded & Audio Quality",
+"company": "Altimi",
+"url": "https://justjoin.it/job-offer/altimi-qa-engineer---embedded-audio-quality-wroclaw-testing",
+"location": "Wrocław, Warszawa, Kraków, Poznań, Katowice",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Embedded Systems",
+"Manual Testing",
+"Test Automation",
+"QA"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:e0609c15-4013-4d85-8738-f1f6b3e99cd4",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "YourITeams",
+"url": "https://justjoin.it/job-offer/youriteams-qa-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "11 200–16 800 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Cypress",
+"Selenium",
+"TypeScript",
+"QA"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 100.0,
+"office_days": null,
+"why": "remote · ~100 PLN/ч · TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
