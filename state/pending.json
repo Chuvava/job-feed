@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-27",
-"last_batch": "2026-10-28 12",
+"last_batch": "2026-10-28 15",
 "items": [
 {
 "job": {
@@ -521,9 +521,110 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "justjoin:5eea87ec-1c23-4cd1-aa79-c59359ca0cc2",
+"source": "justjoin",
+"title": "QA Automation Engineer (Java / API Testing) (f/m)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-qa-automation-engineer-java-api-testing-f-m--warszawa-testing",
+"location": "Warszawa, Gdańsk, Gdynia",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Java",
+"backend testing",
+"API Testing",
+"REST API",
+"SOAP / WSDL",
+"REST Assured",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:5bca299e-cd5f-4b59-9491-285737e0d601",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer (K/M)",
+"company": "Alior Bank SA",
+"url": "https://justjoin.it/job-offer/alior-bank-sa-senior-test-automation-engineer-k-m--krakow-testing",
+"location": "Kraków, Warszawa, Gdańsk",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"JSON",
+"XML",
+"SQL",
+"Postman",
+"SoapUI",
+"REST",
+"Robot Framework",
+"RestSharp",
+"Selenium",
+"C#"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "C",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · C# · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484482097",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer",
+"company": "ALTEN",
+"url": "https://www.linkedin.com/jobs/view/4484482097",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 19,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
 }
 ]
