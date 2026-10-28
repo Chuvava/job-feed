@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-27",
-"last_batch": "2026-10-27 21",
+"last_batch": "2026-10-28 9",
 "items": [
 {
 "job": {
@@ -24,7 +24,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -112,7 +112,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
@@ -152,9 +152,45 @@
 "office_days": null,
 "why": "hybrid · ~195 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ITDS (агентство) — клиент: Citibank: «Senior Test Automation Engineer – UI and API Frameworks» · Техническое · CV C# classic · строка 18"
+]
+},
+{
+"job": {
+"id": "justjoin:4a10cd06-977d-45e1-8b1b-38572e3a02e9",
+"source": "justjoin",
+"title": "Senior QA Engineer",
+"company": "Tenarai",
+"url": "https://justjoin.it/job-offer/tenarai-senior-qa-engineer-krakow-testing-d6e640a2",
+"location": "Kraków, Warszawa, Wrocław, Poznań, Gdańsk",
+"workplace": "remote",
+"salary": "120–140 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Testing",
+"Java",
+"Cucumber",
+"Selenium",
+"JMeter",
+"SoapUI"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "A",
+"score": 15,
+"rate": 140.0,
+"office_days": null,
+"why": "remote · ~140 PLN/ч · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Tenarai: «Senior Software QA Engineer» · Откликнулся · CV Java classic (копия For Mindbox) · строка 44"
 ]
 }
 ]
