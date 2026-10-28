@@ -778,6 +778,101 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:17803a3b-1d95-4052-86ef-b224a1434036",
+"source": "justjoin",
+"title": "Tester Automatyzujący I Java, Selenium, Playwright (k/m)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-tester-automatyzujacy-i-java-selenium-playwright-k-m--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "80–115 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"Selenium WebDriver",
+"Playwright",
+"JavaScript",
+"SQL",
+"RestAssured",
+"Cypress",
+"JMeter"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 115.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~115 PLN/ч · Java/JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:qa-engineer-square-one-resources-Remote",
+"source": "nofluff",
+"title": "QA Engineer",
+"company": "Square One Resources",
+"url": "https://nofluffjobs.com/pl/job/qa-engineer-square-one-resources-remote",
+"location": "Cracow, Gdynia, Poznan, Warsaw, Wrocław",
+"workplace": "remote",
+"salary": "16 800–20 160 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Python",
+"REST API",
+"CI/CD",
+"Git"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Square One Resources — клиент: Canal+ (подтверждено через Team Connect): «Test Automation Engineer (Java, TypeScript, Selenium & Playwright)» · Откликнулся · CV Java classic · строка 35"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4483888749",
+"source": "linkedin",
+"title": "Process Operations Manager (AI Automation)",
+"company": "Revolut",
+"url": "https://www.linkedin.com/jobs/view/4483888749",
+"location": "Poland",
+"workplace": "",
+"salary": "PLN 12,800.00/mo - PLN 26,600.00/mo",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
