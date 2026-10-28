@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-27",
-"last_batch": "2026-10-28 15",
+"last_batch": "2026-10-28 18",
 "items": [
 {
 "job": {
@@ -749,7 +749,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
@@ -776,7 +776,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -812,7 +812,7 @@
 "office_days": 4.3,
 "why": "офис ~4 дн/мес · ~115 PLN/ч · Java/JS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -870,6 +870,31 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482530622",
+"source": "linkedin",
+"title": "Programmatic Sales Analyst – Revenue Automation",
+"company": "TechTree",
+"url": "https://www.linkedin.com/jobs/view/4482530622",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-28"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
 "notes": []
