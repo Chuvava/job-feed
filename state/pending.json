@@ -381,6 +381,94 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:python-test-automation-engineer-with-aws-f-m-x-sii-polska-Gdańsk",
+"source": "nofluff",
+"title": "Python Test Automation Engineer with AWS (f/m/x)",
+"company": "Sii Polska",
+"url": "https://nofluffjobs.com/pl/job/python-test-automation-engineer-with-aws-f-m-x-sii-polska-gdansk",
+"location": "Białystok, Bydgoszcz, Gdańsk, Katowice, Kraków, Lublin, Piła, Poznań, Rzeszów, S",
+"workplace": "hybrid",
+"salary": "18 900–25 200 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 150.0,
+"office_days": null,
+"why": "hybrid · ~150 PLN/ч · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Контакт · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
+},
+{
+"job": {
+"id": "nofluff:qa-engineer-with-networking-and-ui-automation-codilime-Remote",
+"source": "nofluff",
+"title": "QA Engineer with Networking and UI automation",
+"company": "CodiLime",
+"url": "https://nofluffjobs.com/pl/job/qa-engineer-with-networking-and-ui-automation-codilime-remote",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "12 500–20 000 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"QA Engineer",
+"Networking",
+"UI",
+"Python"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 119.04761904761905,
+"office_days": null,
+"why": "remote · ~119 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484955963",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "VOKI Games",
+"url": "https://www.linkedin.com/jobs/view/4484955963",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
