@@ -331,6 +331,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4413048820",
+"source": "linkedin",
+"title": "Workflow Developer & Tester",
+"company": "Webbing",
+"url": "https://www.linkedin.com/jobs/view/4413048820",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
