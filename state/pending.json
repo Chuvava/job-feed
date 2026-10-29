@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-28",
-"last_batch": "2026-10-29 9",
+"last_batch": "2026-10-29 12",
 "items": [
 {
 "job": {
@@ -74,7 +74,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -100,6 +100,120 @@
 "why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-engineer-embedded-audio-quality-cshark-Remote",
+"source": "nofluff",
+"title": "Senior QA Engineer – Embedded & Audio Quality ",
+"company": "CSHARK Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-engineer-embedded-audio-quality-cshark-remote",
+"location": "",
+"workplace": "remote",
+"salary": "18 480–25 200 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"QA Engineer",
+"QA",
+"SDK",
+"Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-engineer-embedded-software-quality-cshark-Remote",
+"source": "nofluff",
+"title": "Senior QA Engineer – Embedded Software Quality",
+"company": "CSHARK Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-engineer-embedded-software-quality-cshark-remote",
+"location": "",
+"workplace": "remote",
+"salary": "18 480–25 200 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python",
+"C++",
+"C",
+"NPU"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4459361491",
+"source": "linkedin",
+"title": "Quality Assurance Engineer (Financial Sector)",
+"company": "Comarch",
+"url": "https://www.linkedin.com/jobs/view/4459361491",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4459360411",
+"source": "linkedin",
+"title": "QA Engineer (ML & Agentic AI)",
+"company": "Comarch",
+"url": "https://www.linkedin.com/jobs/view/4459360411",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": true,
 "notes": []
 }
 ]
