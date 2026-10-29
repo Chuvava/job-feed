@@ -8,6 +8,7 @@ import html
 import logging
 import os
 import sys
+from datetime import datetime
 from pathlib import Path
 
 import yaml
@@ -16,7 +17,7 @@ from jobfeed import filters
 from jobfeed.models import Job
 from jobfeed.sources import justjoin, linkedin, nofluff
 from jobfeed import rank
-from jobfeed.digest import Pending, lines as digest_lines
+from jobfeed.digest import TZ, Pending, lines as digest_lines
 from jobfeed.store import SeenStore
 from jobfeed.tracker import Tracker, cross_source_key, legacy_key
 from jobfeed.telegram import CARD_BUTTONS, ICONS, Telegram, format_digest, format_job
@@ -162,7 +163,8 @@ def main() -> int:
         if pending.batch_due(hours):
             batch, left = pending.take_batch(prio_cfg["batch_cards"], hours)
             pending.save()
-            send_batch(tg, batch, left)
+            low = sum(1 for i in pending.items if i["priority"]["tier"] == "C")
+            send_batch(tg, batch, left, low)
         if pending.digest_due(prio_cfg["digest_hour"]):
             items = pending.take_all()
             pending.save()
@@ -182,11 +184,15 @@ def card_notes(pr: rank.Priority, notes: list[str]) -> list[str]:
     return [f"{TIER[pr.tier]} {pr.score} · {pr.why}", *notes]
 
 
-def send_batch(tg: Telegram, batch: list, left: int) -> None:
+def send_batch(tg: Telegram, batch: list, left: int, low: int = 0) -> None:
     for job, pr, _, notes in batch:
         tg.send(format_job(job, card_notes(pr, notes)), CARD_BUTTONS)
-    if batch or left:
+    if batch:
         tg.send(f"⏳ Ещё в очереди: {left}" if left else "✅ Это все новые на сейчас")
+    else:  # an empty slot still says so, otherwise silence looks like a broken bot
+        now = datetime.now(TZ)
+        tg.send(f"🕘 {now:%H}:00 — новых подходящих нет"
+                + (f" (низкий приоритет: {low}, будут в итоге дня)" if low else ""))
 
 
 def send_digest(tg: Telegram, items: list) -> None:
