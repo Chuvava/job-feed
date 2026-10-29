@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-10-28",
 "last_batch": "2026-10-28 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4484794940",
+"source": "linkedin",
+"title": "Software Test Engineer",
+"company": "BAPON Technologies",
+"url": "https://www.linkedin.com/jobs/view/4484794940",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS"
+},
+"shown": false,
+"notes": []
+}
+]
 }
