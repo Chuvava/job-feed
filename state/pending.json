@@ -215,6 +215,72 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:531d1ec0-6719-49a2-aeec-d5ccac4aa554",
+"source": "justjoin",
+"title": "Analityk Biznesowo-Systemowy / Tester – Płatności Kartowe",
+"company": "Upvanta sp. z o.o.",
+"url": "https://justjoin.it/job-offer/upvanta-sp-z-o-o--analityk-biznesowo-systemowy-tester---platnosci-kartowe-wroclaw-testing",
+"location": "Wrocław, Warszawa, Kraków, Poznań, Gdańsk",
+"workplace": "remote",
+"salary": "175–175 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Analytics",
+"Testing",
+"MTI",
+"PC"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 175.0,
+"office_days": null,
+"why": "remote · ~175 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Upvanta — клиент не назван: «Senior QA Automation Engineer (Java | Web | Mobile | API)» · Откликнулся · CV Java classic · строка 37"
+]
+},
+{
+"job": {
+"id": "nofluff:senior-quality-engineer-tpconnects-technologies-Warsaw",
+"source": "nofluff",
+"title": "Senior Quality Engineer",
+"company": "TPConnects Technologies",
+"url": "https://nofluffjobs.com/pl/job/senior-quality-engineer-tpconnects-technologies-warsaw",
+"location": "Warsaw",
+"workplace": "hybrid",
+"salary": "15 000–20 000 PLN/mo permanent",
+"seniority": "Senior",
+"skills": [
+"Java",
+"Manual Testing",
+"Testing",
+"MySQL"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 119.04761904761905,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~119 PLN/ч · Java · без B2B"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
