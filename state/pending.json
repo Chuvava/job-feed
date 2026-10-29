@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-28",
-"last_batch": "2026-10-29 12",
+"last_batch": "2026-10-29 15",
 "items": [
 {
 "job": {
@@ -245,7 +245,7 @@
 "office_days": null,
 "why": "remote · ~175 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Upvanta — клиент не назван: «Senior QA Automation Engineer (Java | Web | Mobile | API)» · Откликнулся · CV Java classic · строка 37"
 ]
@@ -304,7 +304,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -353,6 +353,31 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484956956",
+"source": "linkedin",
+"title": "LQA Game Tester with Spanish (LATAM)",
+"company": "Testronic",
+"url": "https://www.linkedin.com/jobs/view/4484956956",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
