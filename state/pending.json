@@ -26,6 +26,81 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4468383501",
+"source": "linkedin",
+"title": "Software Quality Engineering Manager",
+"company": "Aptiv",
+"url": "https://www.linkedin.com/jobs/view/4468383501",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 2,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4475718791",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "Veeam Software",
+"url": "https://www.linkedin.com/jobs/view/4475718791",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484929529",
+"source": "linkedin",
+"title": "Senior Software&Test Engineer (automotive/aero)",
+"company": "Randstad Polska",
+"url": "https://www.linkedin.com/jobs/view/4484929529",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
