@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-28",
-"last_batch": "2026-10-29 15",
+"last_batch": "2026-10-29 18",
 "items": [
 {
 "job": {
@@ -329,7 +329,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -498,7 +498,82 @@
 "office_days": null,
 "why": "remote · ~101 PLN/ч · язык ?"
 },
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484973420",
+"source": "linkedin",
+"title": "Senior QA engineer",
+"company": "JR Automation",
+"url": "https://www.linkedin.com/jobs/view/4484973420",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484966882",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "JR Automation",
+"url": "https://www.linkedin.com/jobs/view/4484966882",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484990683",
+"source": "linkedin",
+"title": "Senior QA Engineer",
+"company": "Grid Dynamics",
+"url": "https://www.linkedin.com/jobs/view/4484990683",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
