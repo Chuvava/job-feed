@@ -469,6 +469,37 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:bc3ff480-21cc-4b99-914b-b7de3cbde5ad",
+"source": "justjoin",
+"title": "Mid/Senior QA Automation Engineer (Playwright, AI) | LegalTech / Kancelaria Prawna",
+"company": "RODZINA BEZ DŁUGÓW",
+"url": "https://justjoin.it/job-offer/rodzina-bez-dlugow-mid-senior-qa-automation-engineer-playwright-ai-legaltech-kancelaria-prawna-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "13 000–17 000 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"REST API",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-29"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 101.19047619047619,
+"office_days": null,
+"why": "remote · ~101 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
