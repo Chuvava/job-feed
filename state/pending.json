@@ -386,6 +386,141 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:6dbd0001-9377-468c-b915-048201fd237a",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-qa-automation-engineer-warszawa-testing-9935f426",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "90–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"Test Automation",
+"QA",
+"REST API",
+"HTTP",
+"AI",
+"Robot Framework",
+"SOAP",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ P&P Solutions: «Tester automatyczny» · Откликнулся · строка 59"
+]
+},
+{
+"job": {
+"id": "justjoin:3c0d6475-e8af-46fd-9862-7878ed63709b",
+"source": "justjoin",
+"title": "Senior QA Engineer / Software V&V (Medical Software)",
+"company": "HigoSense",
+"url": "https://justjoin.it/job-offer/higosense-senior-qa-engineer-software-v-v-medical-software--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "16 000–24 000 PLN/mo b2b; 13 000–20 000 PLN/mo permanent",
+"seniority": "senior",
+"skills": [
+"Manual Testing",
+"Automated Testing",
+"Test planning",
+"Writing Test Scenarios",
+"Regulatory compliance",
+"Documentation management",
+"Mobile App Testing",
+"Usability Testing",
+"Web Application Testing",
+"API Testing"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 142.85714285714286,
+"office_days": null,
+"why": "hybrid · ~143 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:qa-engineer-osoba-na-stanowisku-qa-engineera-strix-Remote-1",
+"source": "nofluff",
+"title": "QA Engineer (osoba na stanowisku QA Engineera)",
+"company": "Strix",
+"url": "https://nofluffjobs.com/pl/job/qa-engineer-osoba-na-stanowisku-qa-engineera-strix-remote-1",
+"location": "Gdańsk, Kraków, Poznań, Warszawa, Wrocław",
+"workplace": "remote",
+"salary": "9 000–14 000 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Postman",
+"Test automation",
+"Manual tests",
+"DBeaver"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 83.33333333333333,
+"office_days": null,
+"why": "remote · ~83 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485347254",
+"source": "linkedin",
+"title": "Mid Fullstack Engineer, Automate",
+"company": "Box",
+"url": "https://www.linkedin.com/jobs/view/4485347254",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
