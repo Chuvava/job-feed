@@ -744,6 +744,186 @@
 "notes": [
 "⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4"
 ]
+},
+{
+"job": {
+"id": "justjoin:cb7012f6-f3f8-4e59-91be-8f2b9bcc6b43",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "Marska",
+"url": "https://justjoin.it/job-offer/marska-qa-automation-engineer-krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "90–120 PLN/h permanent",
+"seniority": "mid",
+"skills": [
+"Functional Testing",
+"Exploratory testing",
+"integration testing",
+"Automated Testing",
+"Test automation frameworks",
+"REST APIs",
+"SQL",
+"Git",
+"Cucumber",
+"Maven"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": 120.0,
+"office_days": null,
+"why": "hybrid · ~120 PLN/ч · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:610b596e-2eac-4afe-9072-29efae4fa4d5",
+"source": "justjoin",
+"title": "Senior Automation Tester in Java",
+"company": "EPAM Systems",
+"url": "https://justjoin.it/job-offer/epam-systems-senior-automation-tester-in-java-krakow-testing",
+"location": "Krakow",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Java",
+"Simcorp Dimension",
+"Python",
+"pytest",
+"Selenium",
+"API Testing",
+"BDD",
+"Cucumber",
+"GitLab"
+],
+"contracts": [
+"any"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4468601028",
+"source": "linkedin",
+"title": "Automation Test Engineer (Automotive) IRC304664",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4468601028",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4484890166",
+"source": "linkedin",
+"title": "SAP Test Automation Expert (Tosca)",
+"company": "Stefanini EMEA",
+"url": "https://www.linkedin.com/jobs/view/4484890166",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485394743",
+"source": "linkedin",
+"title": "Digital Quality Assurance",
+"company": "HSBC",
+"url": "https://www.linkedin.com/jobs/view/4485394743",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4476803757",
+"source": "linkedin",
+"title": "Test Automation Engineer (Telco3) IRC306259",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4476803757",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4"
+]
 }
 ]
 }
