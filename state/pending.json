@@ -615,6 +615,83 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484866321",
+"source": "linkedin",
+"title": "Tester Systemowy",
+"company": "Ness Solution",
+"url": "https://www.linkedin.com/jobs/view/4484866321",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Ness Solution — клиент из eCommerce: «Test Automation Engineer (Java, Selenium, Playwright, REST Assured)» · Откликнулся · CV Java classic (For Ness) · строка 17"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4474870091",
+"source": "linkedin",
+"title": "Developer Aplikacji Biznesowych i Automatyzacji (k/m)",
+"company": "Polkomtel",
+"url": "https://www.linkedin.com/jobs/view/4474870091",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483475315",
+"source": "linkedin",
+"title": "CRM & Marketing Automation Specialist",
+"company": "Travelist.pl",
+"url": "https://www.linkedin.com/jobs/view/4483475315",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
