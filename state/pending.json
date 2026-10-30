@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-10-29",
 "last_batch": "2026-10-29 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4483422416",
+"source": "linkedin",
+"title": "Quality Assurance Automation Engineer",
+"company": "Andersen Lab",
+"url": "https://www.linkedin.com/jobs/view/4483422416",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#/Python/TS"
+},
+"shown": false,
+"notes": []
+}
+]
 }
