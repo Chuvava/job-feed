@@ -583,6 +583,38 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:tester-systemowy-qa-engineer-pragmile-Remote",
+"source": "nofluff",
+"title": "Tester Systemowy / QA Engineer",
+"company": "Pragmile",
+"url": "https://nofluffjobs.com/pl/job/tester-systemowy-qa-engineer-pragmile-remote-1",
+"location": "Warsaw",
+"workplace": "remote",
+"salary": "18 480–20 160 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"SQL",
+"QA Engineer",
+"CA",
+"K"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
