@@ -189,6 +189,203 @@
 "⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
 "⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64"
 ]
+},
+{
+"job": {
+"id": "justjoin:24a88dc7-a44d-4dd3-870f-e8874622cd83",
+"source": "justjoin",
+"title": "QA Engineer – Embedded & Audio Quality",
+"company": "CSHARK",
+"url": "https://justjoin.it/job-offer/cshark-qa-engineer---embedded-audio-quality-wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "110–150 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"QA for embedded software",
+"Speech/audio quality metrics",
+"Organising listening tests",
+"Acoustic measurement setups",
+"Attention to detail",
+"Background in audio engineering",
+"Experience with on-device profiling",
+"Testing speech enhancement",
+"Testing voice conversion",
+"Testing TTS systems"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:211ab631-02d0-4d47-9949-cab9dd454a8f",
+"source": "justjoin",
+"title": "QA Engineer – Embedded Software Quality",
+"company": "CSHARK",
+"url": "https://justjoin.it/job-offer/cshark-qa-engineer---embedded-software-quality-wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "110–150 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Embedded Systems",
+"Python",
+"C",
+"C++",
+"Test Automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:7d7eea32-643a-40bf-a28c-17de50312126",
+"source": "justjoin",
+"title": "Tester Systemowy / System QA Engineer",
+"company": "Ness Solution",
+"url": "https://justjoin.it/job-offer/ness-solution-tester-systemowy-system-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Postman, SoapUI, Swagger/OpenAPI",
+"REST API",
+"SOAP UI",
+"SQL",
+"PostgreSQL",
+"SDLC",
+"Jenkins/Gitlab",
+"Oracle",
+"ISTQB"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Ness Solution — клиент из eCommerce: «Test Automation Engineer (Java, Selenium, Playwright, REST Assured)» · Откликнулся · CV Java classic (For Ness) · строка 17"
+]
+},
+{
+"job": {
+"id": "justjoin:d7cf48ec-75be-44ef-9785-75f7556def1f",
+"source": "justjoin",
+"title": "Mid Tester/-ka Automatyzujący/-a - Prepaid Tribe",
+"company": "T-Mobile",
+"url": "https://justjoin.it/job-offer/t-mobile-mid-tester--ka-automatyzujacy--a---prepaid-tribe-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Git",
+"Java",
+"CI/CD",
+"Selenium",
+"REST Assured",
+"Docker",
+"JMeter",
+"BDD",
+"Test Automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4474824236",
+"source": "linkedin",
+"title": "Test Automation Engineer with German",
+"company": "Atos",
+"url": "https://www.linkedin.com/jobs/view/4474824236",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485343003",
+"source": "linkedin",
+"title": "AI Quality and Automation Specialist",
+"company": "Patrianna",
+"url": "https://www.linkedin.com/jobs/view/4485343003",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
