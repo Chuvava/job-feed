@@ -26,6 +26,70 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:9d3d76af-8599-419a-8ccc-e03321698892",
+"source": "justjoin",
+"title": "Test Automation",
+"company": "Exatel S.A.",
+"url": "https://justjoin.it/job-offer/exatel-s-a--test-automation-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Automatyzacja testów",
+"Linux",
+"Python",
+"Testowanie",
+"CI/CD",
+"Jenkins",
+"Docker",
+"Terraform",
+"Wireshark"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485309375",
+"source": "linkedin",
+"title": "Automation Test Engineer – Java / REST API",
+"company": "ALTEN",
+"url": "https://www.linkedin.com/jobs/view/4485309375",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
+]
 }
 ]
 }
