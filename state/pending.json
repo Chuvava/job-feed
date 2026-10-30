@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-29",
-"last_batch": "2026-10-30 15",
+"last_batch": "2026-10-30 18",
 "items": [
 {
 "job": {
@@ -184,7 +184,7 @@
 "office_days": null,
 "why": "remote · ~110 PLN/ч · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
 "⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64"
@@ -225,7 +225,7 @@
 "office_days": null,
 "why": "remote · ~150 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -295,7 +295,7 @@
 "office_days": null,
 "why": "remote · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Ness Solution — клиент из eCommerce: «Test Automation Engineer (Java, Selenium, Playwright, REST Assured)» · Откликнулся · CV Java classic (For Ness) · строка 17"
 ]
@@ -686,6 +686,31 @@
 "priority": {
 "tier": "B",
 "score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477427189",
+"source": "linkedin",
+"title": "Senior Infrastructure Automation Engineer (Ansible)",
+"company": "Software Mind",
+"url": "https://www.linkedin.com/jobs/view/4477427189",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 8,
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
