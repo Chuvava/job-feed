@@ -717,6 +717,33 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4476204598",
+"source": "linkedin",
+"title": "Test Automation Engineer (Telco5) IRC306261",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4476204598",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4"
+]
 }
 ]
 }
