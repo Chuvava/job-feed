@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-29",
-"last_batch": "2026-10-29 21",
+"last_batch": "2026-10-30 9",
 "items": [
 {
 "job": {
@@ -24,7 +24,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#/Python/TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
