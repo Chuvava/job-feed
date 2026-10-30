@@ -155,6 +155,40 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:75b05cd4-9908-4665-8f12-3c8da4b89724",
+"source": "justjoin",
+"title": "QA/Automation Tester (Java)",
+"company": "SCALO",
+"url": "https://justjoin.it/job-offer/scalo-qa-automation-tester-java--poznan-testing-035b52b4",
+"location": "Poznań",
+"workplace": "remote",
+"salary": "15 200–18 480 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"QA",
+"Test Automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
+"⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64"
+]
 }
 ]
 }
