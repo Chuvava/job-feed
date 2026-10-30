@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-29",
-"last_batch": "2026-10-30 9",
+"last_batch": "2026-10-30 12",
 "items": [
 {
 "job": {
@@ -86,7 +86,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
@@ -121,7 +121,39 @@
 "office_days": null,
 "why": "remote · ~131 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:remote-qa-engineer-mid-senior-thomas-kraits-poland-Remote",
+"source": "nofluff",
+"title": "Remote QA Engineer (Mid / Senior)",
+"company": "Thomas Kraits Poland",
+"url": "https://nofluffjobs.com/pl/job/remote-qa-engineer-mid-senior-thomas-kraits-poland",
+"location": "Katowice",
+"workplace": "remote",
+"salary": "12 000–20 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Manual tests",
+"Test automation",
+"Git",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": 119.04761904761905,
+"office_days": null,
+"why": "remote · ~119 PLN/ч · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
