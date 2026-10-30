@@ -90,6 +90,39 @@
 "notes": [
 "⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
 ]
+},
+{
+"job": {
+"id": "justjoin:e01b54d9-5c8d-47b6-891f-9fafacd34db2",
+"source": "justjoin",
+"title": "Senior QA Engineer / Test Manager (m/f/d)",
+"company": "Limango",
+"url": "https://justjoin.it/job-offer/limango-senior-qa-engineer-test-manager-m-f-d--wroclaw-testing",
+"location": "Wrocław, Kraków, Warszawa, Rzeszów, Poznań",
+"workplace": "remote",
+"salary": "800–1 050 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Test Management",
+"System Testing",
+"integration testing",
+"Defect Management",
+"business-analysis mindset"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": 131.25,
+"office_days": null,
+"why": "remote · ~131 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
