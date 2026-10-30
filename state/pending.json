@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-29",
-"last_batch": "2026-10-30 12",
+"last_batch": "2026-10-30 15",
 "items": [
 {
 "job": {
@@ -334,7 +334,7 @@
 "office_days": null,
 "why": "hybrid · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -359,7 +359,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -421,7 +421,7 @@
 "office_days": null,
 "why": "remote · ~110 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ P&P Solutions: «Tester automatyczny» · Откликнулся · строка 59"
 ]
@@ -518,6 +518,68 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:1dab1b54-8dd1-4612-8700-69156eb286ca",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Strix",
+"url": "https://justjoin.it/job-offer/strix-qa-engineer-krakow-testing",
+"location": "Kraków, Warszawa, Wrocław, Gdańsk, Poznań",
+"workplace": "remote",
+"salary": "9 000–14 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"DevTools",
+"Postman",
+"browserstack",
+"Git",
+"Grafana",
+"DBeaver",
+"Jira",
+"Confluence",
+"GTmetrix"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 83.33333333333333,
+"office_days": null,
+"why": "remote · ~83 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483449482",
+"source": "linkedin",
+"title": "Senior AI Product Analyst - Automation team",
+"company": "MEDvidi",
+"url": "https://www.linkedin.com/jobs/view/4483449482",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-30"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
 "notes": []
