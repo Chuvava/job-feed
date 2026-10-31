@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-10-30",
-"last_batch": "2026-10-31 15",
+"last_batch": "2026-10-31 18",
 "items": [
 {
 "job": {
@@ -49,7 +49,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/C#/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -74,7 +74,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "📌 Уже в трекере · строка 23 · Откликнулся"
 ]
@@ -101,7 +101,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/JS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
