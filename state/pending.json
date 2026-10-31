@@ -26,6 +26,83 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4477833583",
+"source": "linkedin",
+"title": "Quality Assurance and Testing Engineer",
+"company": "Verisk",
+"url": "https://www.linkedin.com/jobs/view/4477833583",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "PLN 144,000.00/yr - PLN 180,000.00/yr",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-31"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4475229782",
+"source": "linkedin",
+"title": "QA Inżynier (Java & Selenium | API Testing)",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4475229782",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-31"
+},
+"priority": {
+"tier": "B",
+"score": 20,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"📌 Уже в трекере · строка 23 · Откликнулся"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4404073882",
+"source": "linkedin",
+"title": "Software Engineer - Device Automation",
+"company": "Cisco",
+"url": "https://www.linkedin.com/jobs/view/4404073882",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-10-31"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/JS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
