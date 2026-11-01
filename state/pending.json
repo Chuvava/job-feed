@@ -33,6 +33,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4438414614",
+"source": "linkedin",
+"title": "Marketing Automation Technical Consultant (Salesforce Marketing Cloud)",
+"company": "Deloitte",
+"url": "https://www.linkedin.com/jobs/view/4438414614",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-01"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
