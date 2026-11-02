@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-01",
-"last_batch": "2026-11-02 15",
+"last_batch": "2026-11-02 18",
 "items": [
 {
 "job": {
@@ -210,7 +210,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -349,7 +349,7 @@
 "office_days": null,
 "why": "hybrid · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -403,6 +403,33 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485740684",
+"source": "linkedin",
+"title": "QA/AQA Middle Engineer (Java) IRC306262",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4485740684",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4"
+]
 }
 ]
 }
