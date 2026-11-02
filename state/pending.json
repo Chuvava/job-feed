@@ -103,6 +103,65 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:3b7daa2a-efe8-4c62-952b-1762fb253e4e",
+"source": "justjoin",
+"title": "Automation Test Engineer",
+"company": "TaxCalc | Engager",
+"url": "https://justjoin.it/job-offer/taxcalc-engager-automation-test-engineer-warszawa-testing",
+"location": "Warszawa, Gdańsk, Kraków, Poznań, Wrocław, Szczecin, Lublin, Bydgoszcz, Łódź, Olsztyn",
+"workplace": "remote",
+"salary": "2 500–2 800 GBP/mo b2b",
+"seniority": "mid",
+"skills": [
+"testing SaaS",
+"JavaScript",
+"TypeScript",
+"Playwright",
+"Computer science",
+"ISEB/ISTQB"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 81.66666666666667,
+"office_days": null,
+"why": "remote · ~82 PLN/ч · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4395229664",
+"source": "linkedin",
+"title": "QA Automation Engineer - Python - Krakow",
+"company": "Ubiquiti Inc.",
+"url": "https://www.linkedin.com/jobs/view/4395229664",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
