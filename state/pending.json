@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-01",
-"last_batch": "2026-11-02 9",
+"last_batch": "2026-11-02 12",
 "items": [
 {
 "job": {
@@ -24,7 +24,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/Python"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Nordea (через emagine): «Senior Test Data Engineer / Test Data Management Specialist» · Контакт · CV Java classic · строка 3"
 ]
@@ -52,6 +52,56 @@
 "why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484348319",
+"source": "linkedin",
+"title": "Automation Test Analyst",
+"company": "Williams Lea",
+"url": "https://www.linkedin.com/jobs/view/4484348319",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484348149",
+"source": "linkedin",
+"title": "Senior AI & Automation Engineer",
+"company": "Inter Cars S.A.",
+"url": "https://www.linkedin.com/jobs/view/4484348149",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
