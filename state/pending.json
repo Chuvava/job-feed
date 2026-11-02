@@ -1,5 +1,58 @@
 {
 "last_digest": "2026-11-01",
 "last_batch": "2026-11-02 9",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4486137576",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer - Cards Technology",
+"company": "Nordea",
+"url": "https://www.linkedin.com/jobs/view/4486137576",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Nordea (через emagine): «Senior Test Data Engineer / Test Data Management Specialist» · Контакт · CV Java classic · строка 3"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4486136570",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer (Python)",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4486136570",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+}
+]
 }
