@@ -162,6 +162,81 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4427533922",
+"source": "linkedin",
+"title": "Senior RPA Developer (UiPath & Intelligent Automation)",
+"company": "Proxify",
+"url": "https://www.linkedin.com/jobs/view/4427533922",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4439640117",
+"source": "linkedin",
+"title": "Head of Marketing Technology & Automation (Independent Contractor)",
+"company": "AI Acquisition",
+"url": "https://www.linkedin.com/jobs/view/4439640117",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486165604",
+"source": "linkedin",
+"title": "LQA Game Tester with Dutch",
+"company": "Testronic",
+"url": "https://www.linkedin.com/jobs/view/4486165604",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
