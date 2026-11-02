@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-01",
-"last_batch": "2026-11-02 12",
+"last_batch": "2026-11-02 15",
 "items": [
 {
 "job": {
@@ -160,7 +160,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -185,7 +185,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -237,6 +237,33 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4450710719",
+"source": "linkedin",
+"title": "Tester Automatyzujący / Testerka Automatyzująca",
+"company": "NATEK",
+"url": "https://www.linkedin.com/jobs/view/4450710719",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 19,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#"
+},
+"shown": true,
+"notes": [
+"⚠️ NATEK — maritime & technology: «QA Automation Engineer (.NET/C#)» · Пауза · строка 7"
+]
 }
 ]
 }
