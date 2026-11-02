@@ -264,6 +264,63 @@
 "notes": [
 "⚠️ NATEK — maritime & technology: «QA Automation Engineer (.NET/C#)» · Пауза · строка 7"
 ]
+},
+{
+"job": {
+"id": "nofluff:automation-tester-cognitran-Remote-2",
+"source": "nofluff",
+"title": "Automation Tester",
+"company": "Cognitran Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/automation-tester-cognitran-remote-2",
+"location": "Poznań, Szczecin",
+"workplace": "remote",
+"salary": "10 080–15 120 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Selenium",
+"JMeter",
+"REST API",
+"Jira"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 90.0,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484372230",
+"source": "linkedin",
+"title": "Senior Software Engineer - Billing Automation - 12 Month FTC",
+"company": "Wireless Logic",
+"url": "https://www.linkedin.com/jobs/view/4484372230",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
