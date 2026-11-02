@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-11-02",
 "last_batch": "2026-11-02 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4485769992",
+"source": "linkedin",
+"title": "Automation QA Engineer - Senior",
+"company": "SOFTSWISS",
+"url": "https://www.linkedin.com/jobs/view/4485769992",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-02"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+}
+]
 }
