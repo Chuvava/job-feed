@@ -227,6 +227,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486868040",
+"source": "linkedin",
+"title": "Analityko-Tester Systemowy / Analityko-Testerka Systemowa",
+"company": "Nationale-Nederlanden",
+"url": "https://www.linkedin.com/jobs/view/4486868040",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486034619",
+"source": "linkedin",
+"title": "Telco Network Quality & AI Automation Manager",
+"company": "Holafly",
+"url": "https://www.linkedin.com/jobs/view/4486034619",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
