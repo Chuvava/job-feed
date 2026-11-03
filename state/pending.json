@@ -136,6 +136,64 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:b19877b1-38f0-494b-9186-55d4eba47f56",
+"source": "justjoin",
+"title": "Quality Assurance Engineer",
+"company": "OTCF S.A.",
+"url": "https://justjoin.it/job-offer/otcf-s-a--quality-assurance-engineer-krakow-testing",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Testy API",
+"Playwright",
+"Postman"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486825806",
+"source": "linkedin",
+"title": "Test Engineer",
+"company": "ALTEN",
+"url": "https://www.linkedin.com/jobs/view/4486825806",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ ALTEN Polska — клиент: крупный банк в Польше: «Senior Test Automation Engineer (Java)» · Закрыто · CV Java — For ALTEN · строка 30"
+]
 }
 ]
 }
