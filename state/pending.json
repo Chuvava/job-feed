@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-02",
-"last_batch": "2026-11-03 12",
+"last_batch": "2026-11-03 15",
 "items": [
 {
 "job": {
@@ -250,7 +250,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -300,7 +300,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -326,6 +326,58 @@
 "why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4205303216",
+"source": "linkedin",
+"title": "Senior Software QA Engineer / CEL",
+"company": "Inetum",
+"url": "https://www.linkedin.com/jobs/view/4205303216",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Inetum Polska — клиент: банк (область Cards): «Senior Software QA Engineer» · Откликнулся · CV Java classic · строка 43"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4484675545",
+"source": "linkedin",
+"title": "Staff Software Engineer in Test - mobile (m/f/n)",
+"company": "InPost",
+"url": "https://www.linkedin.com/jobs/view/4484675545",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
