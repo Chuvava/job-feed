@@ -1,5 +1,39 @@
 {
 "last_digest": "2026-11-03",
 "last_batch": "2026-11-03 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "justjoin:1580e089-d307-407f-8b00-8418eed1de96",
+"source": "justjoin",
+"title": "Quality Assurance Engineer",
+"company": "Transition Technologies PSC",
+"url": "https://justjoin.it/job-offer/transition-technologies-psc-quality-assurance-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"API",
+"HTML",
+"ISTQB",
+"Jira",
+"Postman"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
