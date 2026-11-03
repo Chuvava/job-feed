@@ -277,6 +277,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486852956",
+"source": "linkedin",
+"title": "🔎Senior QA Automation Engineer (Java)🔎",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4486852956",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486043744",
+"source": "linkedin",
+"title": "AI Automation Architect",
+"company": "IQVIA",
+"url": "https://www.linkedin.com/jobs/view/4486043744",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
