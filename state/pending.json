@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-02",
-"last_batch": "2026-11-03 15",
+"last_batch": "2026-11-03 18",
 "items": [
 {
 "job": {
@@ -442,7 +442,7 @@
 "office_days": null,
 "why": "remote · ~131 PLN/ч · TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -467,7 +467,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · C#"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
 ]
@@ -519,7 +519,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -568,6 +568,81 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486072321",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer",
+"company": "Epiq",
+"url": "https://www.linkedin.com/jobs/view/4486072321",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487003435",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "5Blue Software",
+"url": "https://www.linkedin.com/jobs/view/4487003435",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486882956",
+"source": "linkedin",
+"title": "QA Engineer (F/M)",
+"company": "AICON X-RAY GmbH",
+"url": "https://www.linkedin.com/jobs/view/4486882956",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
