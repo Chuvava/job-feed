@@ -444,6 +444,133 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486877818",
+"source": "linkedin",
+"title": "Senior UiPath Test Automation Architect",
+"company": "Billennium",
+"url": "https://www.linkedin.com/jobs/view/4486877818",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#"
+},
+"shown": false,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4486887055",
+"source": "linkedin",
+"title": "Senior Quality Assurance Engineer",
+"company": "Forte Group",
+"url": "https://www.linkedin.com/jobs/view/4486887055",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486898214",
+"source": "linkedin",
+"title": "QA Automation Engineer",
+"company": "Scaleworks",
+"url": "https://www.linkedin.com/jobs/view/4486898214",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484675755",
+"source": "linkedin",
+"title": "Solutions Automation Engineer",
+"company": "Transcenda",
+"url": "https://www.linkedin.com/jobs/view/4484675755",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4484054240",
+"source": "linkedin",
+"title": "(Freelance) HR Automation & AI Engineer",
+"company": "HRIT People",
+"url": "https://www.linkedin.com/jobs/view/4484054240",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
