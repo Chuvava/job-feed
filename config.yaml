@@ -15,6 +15,9 @@ filters:
     - testing engineer
     - playwright
     - selenium
+    - qa specialist
+    - in test        # Software Development Engineer in Test, Engineer in Test
+    - for qa         # AI Engineer for QA
   # A title containing any of these is dropped
   title_exclude:
     - manual
