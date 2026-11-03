@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-02",
-"last_batch": "2026-11-02 21",
+"last_batch": "2026-11-03 9",
 "items": [
 {
 "job": {
@@ -24,7 +24,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -48,6 +48,91 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:d639ddc1-c0cc-44c3-a8cf-488cb70dcbb5",
+"source": "justjoin",
+"title": "Full Stack QA Engineer (Java/Kotlin)",
+"company": "Andersen",
+"url": "https://justjoin.it/job-offer/andersen-full-stack-qa-engineer-java-kotlin--warszawa-testing",
+"location": "Warszawa, Kraków, Budapest, Sofia",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"QA",
+"AQA",
+"Java",
+"Kotlin",
+"Appium",
+"Selenide",
+"Selenium"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "A",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4444131251",
+"source": "linkedin",
+"title": "Localization Quality Assurance Game Tester with German",
+"company": "Lionbridge Games",
+"url": "https://www.linkedin.com/jobs/view/4444131251",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4467372918",
+"source": "linkedin",
+"title": "Localization Quality Assurance Game Tester with Traditional Chinese",
+"company": "Lionbridge Games",
+"url": "https://www.linkedin.com/jobs/view/4467372918",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
