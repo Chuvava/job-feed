@@ -379,6 +379,71 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:8beceb0b-eec0-4174-9c35-02092947a399",
+"source": "justjoin",
+"title": "Tester Oprogramowania (k/m) w Wydziale Testów",
+"company": "Centrum e-Zdrowia",
+"url": "https://justjoin.it/job-offer/centrum-e-zdrowia-tester-oprogramowania-k-m-w-wydziale-testow-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "10 000–12 600 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"Testing",
+"Jira",
+"REST",
+"SOAP",
+"JSON",
+"XML",
+"Databases",
+"ISTQB"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": 75.0,
+"office_days": null,
+"why": "hybrid · ~75 PLN/ч · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:qa-automation-engineer-eskil-Remote",
+"source": "nofluff",
+"title": "QA Automation Engineer ",
+"company": "eSkil",
+"url": "https://nofluffjobs.com/pl/job/qa-automation-engineer-eskil-remote",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "18 000–22 000 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"TypeScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-03"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 130.95238095238096,
+"office_days": null,
+"why": "remote · ~131 PLN/ч · TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
