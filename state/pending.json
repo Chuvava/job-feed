@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-03",
-"last_batch": "2026-11-04 12",
+"last_batch": "2026-11-04 15",
 "items": [
 {
 "job": {
@@ -449,7 +449,7 @@
 "office_days": null,
 "why": "hybrid · ~125 PLN/ч · C#"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -549,6 +549,95 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:f7e2f8ea-6331-4c5d-8dc6-e1f80a95f92b",
+"source": "justjoin",
+"title": "Senior QA Engineer",
+"company": "SNI",
+"url": "https://justjoin.it/job-offer/sni-senior-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "150–170 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"QA",
+"Appium",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 170.0,
+"office_days": null,
+"why": "remote · ~170 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:d6b247a9-7678-4bac-9efc-c3adf6890b2c",
+"source": "justjoin",
+"title": "Senior QA Engineer (German-Speaking)",
+"company": "Codepole",
+"url": "https://justjoin.it/job-offer/codepole-senior-qa-engineer-german-speaking--warszawa-testing",
+"location": "Warszawa, Wrocław, Kraków, Gdańsk, Katowice",
+"workplace": "remote",
+"salary": "17 000–25 000 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"QA",
+"Playwright",
+"Test Automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 148.8095238095238,
+"office_days": null,
+"why": "remote · ~149 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487244887",
+"source": "linkedin",
+"title": "Senior QA automation for Server side",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4487244887",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/JS"
+},
+"shown": true,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
 }
 ]
 }
