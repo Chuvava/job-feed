@@ -419,6 +419,136 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:1e2b4eb6-c849-41eb-9e3f-84b580e03fbf",
+"source": "justjoin",
+"title": "Automation Tester (C#/.NET)",
+"company": "Clurgo",
+"url": "https://justjoin.it/job-offer/clurgo-automation-tester-c-net--warszawa-testing",
+"location": "Warszawa, Gdynia, Gdańsk",
+"workplace": "hybrid",
+"salary": "115–125 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+".Net",
+"C#",
+"SQL",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 125.0,
+"office_days": null,
+"why": "hybrid · ~125 PLN/ч · C#"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:b76115c8-f767-46fa-b1bb-f806ef08e43e",
+"source": "justjoin",
+"title": "Automation Tester Senior (C#, .Net, Playwright) (k/m/x)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-automation-tester-senior-c-net-playwright-k-m-x--gdynia-testing",
+"location": "Gdynia, Gdańsk, Warszawa",
+"workplace": "hybrid",
+"salary": "100–120 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"C#",
+".Net 8",
+"SQL",
+"Git",
+"NUnit",
+"CI/CD",
+"Bitbucket",
+"Bamboo",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "C",
+"score": 17,
+"rate": 120.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~120 PLN/ч · C#"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8f58ccaa-97dd-430a-809b-8c3e7b155378",
+"source": "justjoin",
+"title": "Senior Salesforce Tester",
+"company": "EPAM Systems",
+"url": "https://justjoin.it/job-offer/epam-systems-senior-salesforce-tester-gdansk-testing-642f4ac0",
+"location": "Gdansk",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Salesforce",
+"Manual Testing",
+"regression testing",
+"Functional Testing",
+"integration testing",
+"User Acceptance testing",
+"Test planning",
+"Defect Tracking"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487256734",
+"source": "linkedin",
+"title": "QA Automation Team Lead",
+"company": "PAPAYA",
+"url": "https://www.linkedin.com/jobs/view/4487256734",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
