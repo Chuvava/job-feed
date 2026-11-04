@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-03",
-"last_batch": "2026-11-03 21",
+"last_batch": "2026-11-04 9",
 "items": [
 {
 "job": {
@@ -57,7 +57,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -82,7 +82,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -132,7 +132,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
