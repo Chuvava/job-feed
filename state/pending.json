@@ -871,6 +871,31 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486520305",
+"source": "linkedin",
+"title": "Automation Engineer",
+"company": "5V Tech",
+"url": "https://www.linkedin.com/jobs/view/4486520305",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
