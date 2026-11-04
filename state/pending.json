@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-11-04",
 "last_batch": "2026-11-04 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4486517758",
+"source": "linkedin",
+"title": "Inżynier ds. Cyfryzacji i Automatyzacji Produkcji",
+"company": "Axos Group",
+"url": "https://www.linkedin.com/jobs/view/4486517758",
+"location": "Kutno, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
