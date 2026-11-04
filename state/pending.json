@@ -751,6 +751,41 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:7579e3bd-e39f-41c9-862f-1420f699534d",
+"source": "justjoin",
+"title": "Tester Automatyzujący (Java + Selenium)",
+"company": "P&P Solutions",
+"url": "https://justjoin.it/job-offer/p-p-solutions-tester-automatyzujacy-java-selenium--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "60–90 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"SQL",
+"Selenium",
+"JMeter",
+"Jira",
+"Java"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 90.0,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ P&P Solutions: «Tester automatyczny» · Откликнулся · строка 59"
+]
 }
 ]
 }
