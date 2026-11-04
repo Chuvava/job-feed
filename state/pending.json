@@ -109,6 +109,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486332548",
+"source": "linkedin",
+"title": "Software Developer in Test",
+"company": "Grand Parade",
+"url": "https://www.linkedin.com/jobs/view/4486332548",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
