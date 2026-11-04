@@ -352,6 +352,73 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:e9feda1a-5e19-406e-b609-40e9c9f0eb7d",
+"source": "justjoin",
+"title": "Tester/ Testerka IT",
+"company": "Isolution",
+"url": "https://justjoin.it/job-offer/isolution-tester-testerka-it-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "15 120–19 320 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Testing",
+"Java",
+"Selenium",
+"Postman",
+"SQL",
+"Jira",
+"Confluence",
+"UiPath"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 115.0,
+"office_days": null,
+"why": "hybrid · ~115 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:181d0d37-79a8-4a7e-a6aa-9fd2a4f4079b",
+"source": "justjoin",
+"title": "Data QA Engineer",
+"company": "SNI",
+"url": "https://justjoin.it/job-offer/sni-data-qa-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "160–170 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"pytest",
+"GXP",
+"QA"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 170.0,
+"office_days": null,
+"why": "remote · ~170 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
