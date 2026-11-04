@@ -134,6 +134,38 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:software-automation-tester-java-m-f-arche-solutions-Remote",
+"source": "nofluff",
+"title": "Software Automation Tester (Java) [M/F]",
+"company": "Arche Solutions",
+"url": "https://nofluffjobs.com/pl/job/software-automation-tester-java-m-f-arche-solutions-remote",
+"location": "",
+"workplace": "remote",
+"salary": "11 760–15 120 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Java",
+"SQL",
+"SoapUI",
+"JMeter"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 90.0,
+"office_days": null,
+"why": "remote · ~90 PLN/ч · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
