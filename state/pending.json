@@ -638,6 +638,119 @@
 "notes": [
 "⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
 ]
+},
+{
+"job": {
+"id": "nofluff:quality-assurance-engineer-darize-Warszawa",
+"source": "nofluff",
+"title": "Quality Assurance Engineer",
+"company": "Darize",
+"url": "https://nofluffjobs.com/pl/job/quality-assurance-engineer-darize-warszawa",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "18 480–21 840 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Testing",
+"Test case",
+"Data management",
+"Analytical skills"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": 130.0,
+"office_days": null,
+"why": "hybrid · ~130 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Darize (бывш. 7N, агентство) — клиент: один из крупнейших банков PL (API-интеграции с бизнес-движками): «Senior Automation Tester» · Откликнулся · CV Java classic · строка 78"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4487283395",
+"source": "linkedin",
+"title": "Senior Software Development Engineer in Test(Backend)",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4487283395",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4487273986",
+"source": "linkedin",
+"title": "Senior Software Development Engineer in Test(UI)",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4487273986",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4487279605",
+"source": "linkedin",
+"title": "QA Tester",
+"company": "SIX",
+"url": "https://www.linkedin.com/jobs/view/4487279605",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-04"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
