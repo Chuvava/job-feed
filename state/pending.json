@@ -51,6 +51,187 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:59b13fa9-f338-40b7-97c2-cf6ec0e4933d",
+"source": "justjoin",
+"title": "Tester with Romanian Language",
+"company": "Samsung R&D Intitute Poland",
+"url": "https://justjoin.it/job-offer/samsung-r-d-intitute-poland-tester-with-romanian-language-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Android",
+"Testing",
+"QA",
+"Python",
+"AI"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:2fcc8260-0ccc-4ad8-926e-0117601041d3",
+"source": "justjoin",
+"title": "Tester with Dutch Language",
+"company": "Samsung R&D Intitute Poland",
+"url": "https://justjoin.it/job-offer/samsung-r-d-intitute-poland-tester-with-dutch-language-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Android",
+"Testing",
+"QA",
+"AI",
+"Python"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:43a7fbad-6585-4c90-b44d-221b7e220064",
+"source": "justjoin",
+"title": "Tester with French Language",
+"company": "Samsung R&D Intitute Poland",
+"url": "https://justjoin.it/job-offer/samsung-r-d-intitute-poland-tester-with-french-language-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Android",
+"Testing",
+"QA",
+"Python"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:0f0c4663-0a44-43e3-8c64-5230158e03f0",
+"source": "justjoin",
+"title": "Tester with Czech Language",
+"company": "Samsung R&D Intitute Poland",
+"url": "https://justjoin.it/job-offer/samsung-r-d-intitute-poland-tester-with-czech-language-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Android",
+"Testing",
+"QA",
+"Python",
+"AI"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486599152",
+"source": "linkedin",
+"title": "Lead Test Automation Engineer",
+"company": "SoftNice",
+"url": "https://www.linkedin.com/jobs/view/4486599152",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486599209",
+"source": "linkedin",
+"title": "Lead Test Automation Engineer",
+"company": "Adroit People Limited (UK)",
+"url": "https://www.linkedin.com/jobs/view/4486599209",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
