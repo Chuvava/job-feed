@@ -495,6 +495,102 @@
 "notes": [
 "⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
 ]
+},
+{
+"job": {
+"id": "justjoin:17b2ad31-f48a-4d5a-8fda-013c122953e5",
+"source": "justjoin",
+"title": "Senior Automation Tester (Playwright) | Branża Bankowa",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-senior-automation-tester-playwright-branza-bankowa-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"Testing",
+"Selenium",
+"Java",
+"REST API",
+"CI/CD",
+"TypeScript",
+"JavaScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": null,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ставка не указана · Java/JS/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "nofluff:qa-engineer-virtusa-Warsaw-2",
+"source": "nofluff",
+"title": "QA Engineer",
+"company": "Virtusa",
+"url": "https://nofluffjobs.com/pl/job/qa-engineer-virtusa-warsaw-3",
+"location": "Warsaw",
+"workplace": "hybrid",
+"salary": "14 280–15 960 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Jira",
+"QA",
+"Mobile testing",
+"Hardware testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": 95.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~95 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487740606",
+"source": "linkedin",
+"title": "Senior Automation QA Engineer",
+"company": "Ciklum",
+"url": "https://www.linkedin.com/jobs/view/4487740606",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
