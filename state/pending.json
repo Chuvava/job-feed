@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-04",
-"last_batch": "2026-11-05 9",
+"last_batch": "2026-11-05 12",
 "items": [
 {
 "job": {
@@ -230,7 +230,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -339,6 +339,162 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:b671e22a-d01d-42a3-900e-d4103c2b8df0",
+"source": "justjoin",
+"title": "Tester / Testerka aplikacji",
+"company": "AUTENTI S.A.",
+"url": "https://justjoin.it/job-offer/autenti-s-a--tester-testerka-aplikacji-krakow-testing",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "7 000–12 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Postman",
+"Swagger",
+"HTTP",
+"Test Cases",
+"TEST SCENARIOS",
+"Functional Testing",
+"SQL",
+"Agile",
+"AI",
+"Selenium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 71.42857142857143,
+"office_days": null,
+"why": "remote · ~71 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:d4075114-66ba-45ce-be7c-87b5144600a9",
+"source": "justjoin",
+"title": "Senior QA Engineer (German Speaking)",
+"company": "Kyotu Technology",
+"url": "https://justjoin.it/job-offer/kyotu-technology-senior-qa-engineer-german-speaking--wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "20 160–22 400 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"QA",
+"Test Automation",
+"Automated Testing",
+"Manual Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 133.33333333333334,
+"office_days": null,
+"why": "remote · ~133 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-automation-qa-engineer-for-darize-team-darize-Remote",
+"source": "nofluff",
+"title": "Senior Automation QA Engineer for Darize team",
+"company": "Darize",
+"url": "https://nofluffjobs.com/pl/job/senior-automation-qa-engineer-for-darize-team-darize-remote",
+"location": "",
+"workplace": "remote",
+"salary": "20 160–26 880 PLN/mo b2b",
+"seniority": "Expert",
+"skills": [
+"JavaScript",
+"Playwright",
+"Cypress",
+"REST"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 13,
+"rate": 160.0,
+"office_days": null,
+"why": "remote · ~160 PLN/ч · JS"
+},
+"shown": false,
+"notes": [
+"⚠️ Darize (бывш. 7N, агентство) — клиент: один из крупнейших банков PL (API-интеграции с бизнес-движками): «Senior Automation Tester» · Откликнулся · CV Java classic · строка 78"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4485800837",
+"source": "linkedin",
+"title": "Lead Test Automation Engineer",
+"company": "SoftNice UG",
+"url": "https://www.linkedin.com/jobs/view/4485800837",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487740515",
+"source": "linkedin",
+"title": "QA Engineer - 3D & Computational Algorithms (Python)",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4487740515",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
 }
 ]
 }
