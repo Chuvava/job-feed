@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-04",
-"last_batch": "2026-11-05 15",
+"last_batch": "2026-11-05 18",
 "items": [
 {
 "job": {
@@ -671,7 +671,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -697,6 +697,31 @@
 "why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485847103",
+"source": "linkedin",
+"title": "Automation QA Lead (.NET)",
+"company": "Meniga",
+"url": "https://www.linkedin.com/jobs/view/4485847103",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#"
+},
+"shown": true,
 "notes": []
 }
 ]
