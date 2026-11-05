@@ -232,6 +232,113 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:qa-tester-mobile-devices-virtusa-Warsaw",
+"source": "nofluff",
+"title": "QA Tester (Mobile & Devices)",
+"company": "Virtusa",
+"url": "https://nofluffjobs.com/pl/job/qa-tester-mobile-devices-virtusa-warsaw",
+"location": "Warsaw",
+"workplace": "hybrid",
+"salary": "9 240–10 920 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Jira",
+"QA",
+"Mobile testing",
+"Hardware testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": 65.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~65 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487734313",
+"source": "linkedin",
+"title": "Embedded Linux QA Automation Engineer",
+"company": "Engenious",
+"url": "https://www.linkedin.com/jobs/view/4487734313",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4486590609",
+"source": "linkedin",
+"title": "Lead Test Automation Engineer",
+"company": "Falcon Smart IT (FalconSmartIT)",
+"url": "https://www.linkedin.com/jobs/view/4486590609",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487735312",
+"source": "linkedin",
+"title": "Lead Test Automation Engineer",
+"company": "N Consulting Global",
+"url": "https://www.linkedin.com/jobs/view/4487735312",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
