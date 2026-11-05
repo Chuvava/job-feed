@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-11-05",
 "last_batch": "2026-11-05 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4487799639",
+"source": "linkedin",
+"title": "Automation and CAPEX Lead, HUB EUC",
+"company": "Hitachi Energy",
+"url": "https://www.linkedin.com/jobs/view/4487799639",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
