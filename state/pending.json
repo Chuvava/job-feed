@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-04",
-"last_batch": "2026-11-04 21",
+"last_batch": "2026-11-05 9",
 "items": [
 {
 "job": {
@@ -24,7 +24,32 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4485596345",
+"source": "linkedin",
+"title": "Mobile Quality Assurance Engineer (QA)",
+"company": "Tickmill",
+"url": "https://www.linkedin.com/jobs/view/4485596345",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
