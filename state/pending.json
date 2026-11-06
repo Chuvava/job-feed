@@ -292,6 +292,31 @@
 "⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64",
 "⚠️ Scalo — клиент из корпоративного банкинга: «QA / Automation Tester (Java, API)» · Откликнулся · CV C# classic · строка 94"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4488145728",
+"source": "linkedin",
+"title": "Senior Backend QA Specialist",
+"company": "Eagle Eye Staffing Solutions",
+"url": "https://www.linkedin.com/jobs/view/4488145728",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "B",
+"score": 18,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
