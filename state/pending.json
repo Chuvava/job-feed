@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-05",
-"last_batch": "2026-11-06 12",
+"last_batch": "2026-11-06 15",
 "items": [
 {
 "job": {
@@ -286,7 +286,7 @@
 "office_days": 2.0,
 "why": "офис ~2 дн/мес · ~105 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
 "⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64",
@@ -315,8 +315,39 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:48c7c688-fe86-40d9-9d39-0b762dfc4cdf",
+"source": "justjoin",
+"title": "Azure Test Automation Engineer (f/m/x)",
+"company": "Sii",
+"url": "https://justjoin.it/job-offer/sii-azure-test-automation-engineer-f-m-x--wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Microsoft Azure"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Пауза · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
 }
 ]
 }
