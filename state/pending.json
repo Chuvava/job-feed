@@ -1,5 +1,41 @@
 {
 "last_digest": "2026-11-06",
 "last_batch": "2026-11-06 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "justjoin:04bd6aef-2061-45bc-bfb4-4b03be0026cb",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer",
+"company": "Kyotu Technology",
+"url": "https://justjoin.it/job-offer/kyotu-technology-senior-qa-automation-engineer-wroclaw-testing",
+"location": "Wrocław, Warszawa, Poznań, Gdańsk, Kraków",
+"workplace": "remote",
+"salary": "16 800–20 160 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Test Automation",
+"Playwright, Cypress, Selenium, or similar tools",
+"API Testing",
+"CI/CD",
+"Test Strategy",
+"regression testing",
+"integration testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
