@@ -557,6 +557,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4488189548",
+"source": "linkedin",
+"title": "Senior QA Engineer",
+"company": "SimCorp",
+"url": "https://www.linkedin.com/jobs/view/4488189548",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · C#"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487325290",
+"source": "linkedin",
+"title": "Quality Assurance Engineer",
+"company": "Cantor Fitzgerald",
+"url": "https://www.linkedin.com/jobs/view/4487325290",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
