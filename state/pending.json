@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-05",
-"last_batch": "2026-11-06 9",
+"last_batch": "2026-11-06 12",
 "items": [
 {
 "job": {
@@ -178,7 +178,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -228,7 +228,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -253,8 +253,45 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:8f98d397-5957-473b-af9c-2faa67b081f8",
+"source": "justjoin",
+"title": "Ferryt Tester",
+"company": "SCALO",
+"url": "https://justjoin.it/job-offer/scalo-ferryt-tester-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "14 400–17 600 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Manual Testing",
+"ISTQB",
+"Jira",
+"Confluence",
+"Ferryt"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": 104.76190476190476,
+"office_days": 2.0,
+"why": "офис ~2 дн/мес · ~105 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
+"⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64",
+"⚠️ Scalo — клиент из корпоративного банкинга: «QA / Automation Tester (Java, API)» · Откликнулся · CV C# classic · строка 94"
+]
 }
 ]
 }
