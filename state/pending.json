@@ -607,6 +607,34 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4460657393",
+"source": "linkedin",
+"title": "Middle/Senior Test Engineer IRC303587",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4460657393",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-06"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4",
+"⚠️ GlobalLogic — клиент: канадский телеком (IoT / Smart Home, E2E-автоматизация): «QA/AQA Middle Engineer (Java) IRC306262» · Откликнулся · CV Java classic · строка 88"
+]
 }
 ]
 }
