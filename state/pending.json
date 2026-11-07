@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-06",
-"last_batch": "2026-11-06 21",
+"last_batch": "2026-11-07 9",
 "items": [
 {
 "job": {
@@ -34,7 +34,7 @@
 "office_days": null,
 "why": "remote · ~120 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -84,7 +84,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -109,7 +109,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 }
 ]
