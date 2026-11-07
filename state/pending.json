@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-06",
-"last_batch": "2026-11-07 15",
+"last_batch": "2026-11-07 18",
 "items": [
 {
 "job": {
@@ -135,6 +135,31 @@
 "why": "формат ? · ставка не указана · язык ?"
 },
 "shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4478161276",
+"source": "linkedin",
+"title": "Revenue Operations Manager - Systems & Automation (m/f/d)",
+"company": "Buynomics",
+"url": "https://www.linkedin.com/jobs/view/4478161276",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-07"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
 "notes": []
 }
 ]
