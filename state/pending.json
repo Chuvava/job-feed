@@ -1,5 +1,39 @@
 {
 "last_digest": "2026-11-08",
 "last_batch": "2026-11-08 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "justjoin:93dbc198-3f6c-4766-8ba4-68cd7ab10df3",
+"source": "justjoin",
+"title": "Senior QA Engineer - Digital Business Solutions",
+"company": "Incubly",
+"url": "https://justjoin.it/job-offer/incubly-senior-qa-engineer---digital-business-solutions-lodz-testing",
+"location": "Łódź",
+"workplace": "hybrid",
+"salary": "1 000–1 200 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"Allure",
+"TypeScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-08"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 150.0,
+"office_days": null,
+"why": "hybrid · ~150 PLN/ч · TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Incubly (агентство) — клиент: европейский провайдер digital identity и платежей: «Senior QA Engineer - Secure Digital Services» · Откликнулся · CV Java classic · строка 19"
+]
+}
+]
 }
