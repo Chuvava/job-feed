@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-11-09",
 "last_batch": "2026-11-09 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4489142565",
+"source": "linkedin",
+"title": "Senior II Software Development Engineer in Test - Remote Poland",
+"company": "Akamai Technologies",
+"url": "https://www.linkedin.com/jobs/view/4489142565",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/Python"
+},
+"shown": true,
+"notes": []
+}
+]
 }
