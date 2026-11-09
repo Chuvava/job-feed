@@ -122,6 +122,44 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:25606f70-0c4b-4b68-8575-8a9650cf4542",
+"source": "justjoin",
+"title": "Senior QA Engineer - Freelance",
+"company": "Netguru",
+"url": "https://justjoin.it/job-offer/netguru-senior-qa-engineer---freelance-warszawa-testing",
+"location": "Warszawa, Wrocław, Kraków, Poznań, Gdańsk",
+"workplace": "remote",
+"salary": "35–35 EUR/h b2b",
+"seniority": "senior",
+"skills": [
+"JavaScript",
+"TypeScript",
+"Selenium",
+"WebdriverIO",
+"Playwright",
+"REST API",
+"API Testing",
+"Docker",
+"GitHub",
+"AWS"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "C",
+"score": 16,
+"rate": 148.75,
+"office_days": null,
+"why": "remote · ~149 PLN/ч · JS/TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
