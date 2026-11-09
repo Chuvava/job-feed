@@ -441,6 +441,31 @@
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4489123177",
+"source": "linkedin",
+"title": "Senior QA Automation Engineer",
+"company": "Software Mind",
+"url": "https://www.linkedin.com/jobs/view/4489123177",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
