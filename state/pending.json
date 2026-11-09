@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-08",
-"last_batch": "2026-11-09 9",
+"last_batch": "2026-11-09 12",
 "items": [
 {
 "job": {
@@ -69,6 +69,56 @@
 "rate": null,
 "office_days": null,
 "why": "remote · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487682758",
+"source": "linkedin",
+"title": "Tester automatyzujący (Playwright)",
+"company": "emagine",
+"url": "https://www.linkedin.com/jobs/view/4487682758",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487693649",
+"source": "linkedin",
+"title": "Sr Test Engineer",
+"company": "Cognizant",
+"url": "https://www.linkedin.com/jobs/view/4487693649",
+"location": "Cracow Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
 "notes": []
