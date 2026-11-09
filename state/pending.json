@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-08",
-"last_batch": "2026-11-08 21",
+"last_batch": "2026-11-09 9",
 "items": [
 {
 "job": {
@@ -30,10 +30,48 @@
 "office_days": null,
 "why": "hybrid · ~150 PLN/ч · TS"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Incubly (агентство) — клиент: европейский провайдер digital identity и платежей: «Senior QA Engineer - Secure Digital Services» · Откликнулся · CV Java classic · строка 19"
 ]
+},
+{
+"job": {
+"id": "justjoin:36090838-cc20-4751-a9e8-9d745dfeb95d",
+"source": "justjoin",
+"title": "Tester Automatyczny (M/K)",
+"company": "General Logistics Systems",
+"url": "https://justjoin.it/job-offer/general-logistics-systems-tester-automatyczny-m-k--komorniki-testing",
+"location": "Komorniki",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Test Automation",
+"API",
+"UI",
+"Python",
+"Selenium",
+"Docker",
+"Git",
+"Jira",
+"TestRail",
+"Agile/Scrum"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
