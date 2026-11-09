@@ -160,6 +160,92 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:66e6a7ca-c870-43fa-bc56-b923c5a215e3",
+"source": "justjoin",
+"title": "Test Automation Engineer (k/m/x)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-test-automation-engineer-k-m-x--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "90–110 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"Selenium",
+"Maven",
+"TestNG",
+"REST-Assured",
+"AssertJ"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 110.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~110 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ B2Bnetwork (агентство) — клиент из банковского сектора (⚠️ возможно, тот же банк, что у Optiveum/Clurgo/Jit, строки 95/99/100): «IT Automation Tester (KYC) — C#/.NET, Playwright, SQL» · Контакт · строка 102"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4488872397",
+"source": "linkedin",
+"title": "Tester Automatyzujący / Testerka Automatyzująca",
+"company": "Bank Millennium",
+"url": "https://www.linkedin.com/jobs/view/4488872397",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487908540",
+"source": "linkedin",
+"title": "Automotive Test Engineer with Chinese – EU Projects (freelance)",
+"company": "ThunderSoft",
+"url": "https://www.linkedin.com/jobs/view/4487908540",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-09"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
