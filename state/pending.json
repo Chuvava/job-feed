@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-09",
-"last_batch": "2026-11-10 9",
+"last_batch": "2026-11-10 12",
 "items": [
 {
 "job": {
@@ -121,10 +121,136 @@
 "office_days": null,
 "why": "remote · ~125 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ DCG (агентство) — клиент: Canal+ (подтверждено через Team Connect): «Tester/ka Automatyzujący/a» · Откликнулся · CV Java classic · строка 31"
 ]
+},
+{
+"job": {
+"id": "justjoin:4cb6bf12-c0c3-4f37-bedd-327b9abe0cc5",
+"source": "justjoin",
+"title": "Tester Manulany",
+"company": "ITFS",
+"url": "https://justjoin.it/job-offer/itfs-tester-manulany-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "70–98 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Testowanie oprogramowania",
+"Doświadczenie w branży bankowej",
+"procesy testowe",
+"Cykl SDLC",
+"Testowanie aplikacji webowych",
+"Testowanie API",
+"Jira",
+"Postman",
+"Automatyzacja testów",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": 98.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~98 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ITFS (агентство) — клиент не назван: «Senior QA Automation Engineer» · Откликнулся · CV Java classic · строка 74"
+]
+},
+{
+"job": {
+"id": "justjoin:bf66537a-4246-46c3-9453-b0849e372d96",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer (Networking specialist)| Branża Energetyczna ",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-senior-test-automation-engineer-networking-specialist-branza-energetyczna--krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"BGP",
+"mpls",
+"Netconf",
+"Test Automation",
+"Python"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": null,
+"office_days": 5.0,
+"why": "офис ~5 дн/мес · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4488316377",
+"source": "linkedin",
+"title": "Lead Test Automation Engineer",
+"company": "Intuition IT Solutions",
+"url": "https://www.linkedin.com/jobs/view/4488316377",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487471309",
+"source": "linkedin",
+"title": "Automation SME",
+"company": "Solve IT Consultant",
+"url": "https://www.linkedin.com/jobs/view/4487471309",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
 }
 ]
 }
