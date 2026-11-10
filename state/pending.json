@@ -94,6 +94,37 @@
 "notes": [
 "⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
 ]
+},
+{
+"job": {
+"id": "justjoin:7093cd25-e527-4834-bb5d-4fc039e235e6",
+"source": "justjoin",
+"title": "Automation QA",
+"company": "DCG",
+"url": "https://justjoin.it/job-offer/dcg-automation-qa-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "100–125 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Automated Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ DCG (агентство) — клиент: Canal+ (подтверждено через Team Connect): «Tester/ka Automatyzujący/a» · Откликнулся · CV Java classic · строка 31"
+]
 }
 ]
 }
