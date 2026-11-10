@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-09",
-"last_batch": "2026-11-10 15",
+"last_batch": "2026-11-10 18",
 "items": [
 {
 "job": {
@@ -349,7 +349,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/Python"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -526,7 +526,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -552,6 +552,87 @@
 "why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:457720c0-b056-492a-8f50-33c2bf29e3db",
+"source": "justjoin",
+"title": "Automation QA Engineer",
+"company": "ITFS",
+"url": "https://justjoin.it/job-offer/itfs-automation-qa-engineer-wroclaw-testing",
+"location": "Wrocław, Kraków",
+"workplace": "hybrid",
+"salary": "140–160 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Databricks"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": 160.0,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ~160 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ITFS (агентство) — клиент не назван: «Senior QA Automation Engineer» · Откликнулся · CV Java classic · строка 74"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4487802441",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer",
+"company": "EY",
+"url": "https://www.linkedin.com/jobs/view/4487802441",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 15,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/Python"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489499465",
+"source": "linkedin",
+"title": "Senior Software Development Engineer in Test - Remote Poland",
+"company": "Akamai Technologies",
+"url": "https://www.linkedin.com/jobs/view/4489499465",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/Python"
+},
+"shown": true,
 "notes": []
 }
 ]
