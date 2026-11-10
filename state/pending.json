@@ -251,6 +251,156 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489447777",
+"source": "linkedin",
+"title": "QA Automation Engineer (short-term)",
+"company": "Forte Group",
+"url": "https://www.linkedin.com/jobs/view/4489447777",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/C#/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487471772",
+"source": "linkedin",
+"title": "Mid Tester Oprogramowania / Mid Testerka Oprogramowania",
+"company": "Betacom S.A.",
+"url": "https://www.linkedin.com/jobs/view/4487471772",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489467164",
+"source": "linkedin",
+"title": "DevOps & Automation Engineer (with French)",
+"company": "Capgemini",
+"url": "https://www.linkedin.com/jobs/view/4489467164",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489441988",
+"source": "linkedin",
+"title": "Workload Automation Consultant",
+"company": "Infinite Services",
+"url": "https://www.linkedin.com/jobs/view/4489441988",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482712688",
+"source": "linkedin",
+"title": "Quality Engineer (Data)",
+"company": "Kingfisher plc",
+"url": "https://www.linkedin.com/jobs/view/4482712688",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4482726361",
+"source": "linkedin",
+"title": "Lead Quality Engineer (Data)",
+"company": "Kingfisher plc",
+"url": "https://www.linkedin.com/jobs/view/4482726361",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
