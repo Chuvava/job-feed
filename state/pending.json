@@ -453,6 +453,106 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4487494424",
+"source": "linkedin",
+"title": "AI-Assisted QA Engineer",
+"company": "Hotel Treats",
+"url": "https://www.linkedin.com/jobs/view/4487494424",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489487484",
+"source": "linkedin",
+"title": "Python Tooling & Automation Engineer",
+"company": "Hays",
+"url": "https://www.linkedin.com/jobs/view/4489487484",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489483483",
+"source": "linkedin",
+"title": "AI Quality Engineering Lead",
+"company": "Locon Sp. z o.o.",
+"url": "https://www.linkedin.com/jobs/view/4489483483",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489487359",
+"source": "linkedin",
+"title": "Operations and Automatisation Lead",
+"company": "JustMarkets",
+"url": "https://www.linkedin.com/jobs/view/4489487359",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
