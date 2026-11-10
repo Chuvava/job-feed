@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-09",
-"last_batch": "2026-11-09 21",
+"last_batch": "2026-11-10 9",
 "items": [
 {
 "job": {
@@ -26,6 +26,74 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:c63463e9-3c8b-449f-a0f8-5461bc6b26cd",
+"source": "justjoin",
+"title": "Test Engineer - Security Validation / Resilience (m/f/n)",
+"company": "Shimi Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/shimi-sp-z-o-o--test-engineer---security-validation-resilience-m-f-n--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Validation Testing",
+"Resilience testing",
+"Python",
+"Linux",
+"Cybersecurity"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:847bb773-51b8-4e34-90f3-c5cec67e1d85",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer",
+"company": "ASTEK Polska",
+"url": "https://justjoin.it/job-offer/astek-polska-senior-test-automation-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "550–680 PLN/day b2b",
+"seniority": "senior",
+"skills": [
+"REST API",
+"Playwright",
+"GitHub",
+"GitLab",
+"OpenAI"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-10"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": 85.0,
+"office_days": null,
+"why": "remote · ~85 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
 }
 ]
 }
