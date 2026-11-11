@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-10",
-"last_batch": "2026-11-11 15",
+"last_batch": "2026-11-11 18",
 "items": [
 {
 "job": {
@@ -177,6 +177,84 @@
 "why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489008655",
+"source": "linkedin",
+"title": "Middle/Senior Automation Test Engineer IRC308328",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4489008655",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-11"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4",
+"⚠️ GlobalLogic — клиент: канадский телеком (IoT / Smart Home, E2E-автоматизация): «QA/AQA Middle Engineer (Java) IRC306262» · Откликнулся · CV Java classic · строка 88"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4489970593",
+"source": "linkedin",
+"title": "Automation Anywhere Engineer – Tieto Tech Consulting (m/f/d)",
+"company": "Tieto",
+"url": "https://www.linkedin.com/jobs/view/4489970593",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-11"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489964702",
+"source": "linkedin",
+"title": "Automation Anywhere Solution Architect – Tieto Tech Consulting (m/f/d)",
+"company": "Tieto",
+"url": "https://www.linkedin.com/jobs/view/4489964702",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-11"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
