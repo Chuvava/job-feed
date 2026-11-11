@@ -76,6 +76,31 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4488208181",
+"source": "linkedin",
+"title": "Salesforce E2E Tester",
+"company": "TECHOHANA",
+"url": "https://www.linkedin.com/jobs/view/4488208181",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-11"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
