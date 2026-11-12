@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-11-11",
 "last_batch": "2026-11-11 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4489061420",
+"source": "linkedin",
+"title": "We're Hiring: Game Localization QA Testers (EN>PTPT) | Warsaw, Poland",
+"company": "TransPerfect",
+"url": "https://www.linkedin.com/jobs/view/4489061420",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+}
+]
 }
