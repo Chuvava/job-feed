@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-11",
-"last_batch": "2026-11-12 9",
+"last_batch": "2026-11-12 12",
 "items": [
 {
 "job": {
@@ -177,6 +177,140 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-engineer-ai-native-braver-it-Remote",
+"source": "nofluff",
+"title": "Senior QA Engineer (AI-Native)",
+"company": "Braver IT S.A.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-engineer-ai-native-braver-it-remote",
+"location": "Gdańsk, Katowice, Kraków, Warszawa, Wrocław",
+"workplace": "remote",
+"salary": "20 000–30 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Testing",
+"QA",
+"Python",
+"Test automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 178.57142857142858,
+"office_days": null,
+"why": "remote · ~179 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4488507607",
+"source": "linkedin",
+"title": "Senior Software Development Engineer in Test",
+"company": "Priority Pass",
+"url": "https://www.linkedin.com/jobs/view/4488507607",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4488508349",
+"source": "linkedin",
+"title": "UFT One QA Engineer",
+"company": "TECHOHANA",
+"url": "https://www.linkedin.com/jobs/view/4488508349",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4489211017",
+"source": "linkedin",
+"title": "Specjalista / Specjalistka ds. SharePoint Online i Automatyzacji Procesów (Power Automate)",
+"company": "Integrated Solutions Polska",
+"url": "https://www.linkedin.com/jobs/view/4489211017",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4488510263",
+"source": "linkedin",
+"title": "Test Automation Engineer (f/m/x)",
+"company": "Sii Poland",
+"url": "https://www.linkedin.com/jobs/view/4488510263",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Пауза · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
 }
 ]
 }
