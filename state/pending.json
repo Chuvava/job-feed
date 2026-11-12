@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-11",
-"last_batch": "2026-11-12 12",
+"last_batch": "2026-11-12 15",
 "items": [
 {
 "job": {
@@ -282,7 +282,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -504,7 +504,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ BEC Financial Technologies (→ Nykredit Financial Technologies, Дания): «Automation QA engineer - Post-Trade Delivery III» · Откликнулся · CV C# classic · строка 66",
 "⚠️ BEC Financial Technologies: «Automation QA engineer – Payments» · Планирую отклик · строка 82"
@@ -539,7 +539,7 @@
 "office_days": null,
 "why": "remote · ~122 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Upvanta — клиент не назван: «Senior QA Automation Engineer (Java | Web | Mobile | API)» · Закрыто · CV Java classic · строка 37"
 ]
