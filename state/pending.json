@@ -51,6 +51,107 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:69802bea-c45a-4c7a-ab08-715432529b97",
+"source": "justjoin",
+"title": "Tester automatyczny (k/m/x)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-tester-automatyczny-k-m-x--warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "60–70 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"SoapUI",
+"Java",
+"Selenium",
+"SQL",
+"Jira",
+"Xray",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": 70.0,
+"office_days": null,
+"why": "remote · ~70 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ B2Bnetwork (агентство) — клиент из банковского сектора (⚠️ возможно, тот же банк, что у Optiveum/Clurgo/Jit, строки 95/99/100): «IT Automation Tester (KYC) — C#/.NET, Playwright, SQL» · Контакт · строка 102"
+]
+},
+{
+"job": {
+"id": "justjoin:62ff2ba3-0172-4afa-a3a5-85eb28e21e0a",
+"source": "justjoin",
+"title": "Senior QA Engineer (AI & Automation)",
+"company": "BRAVER IT / ITeamly",
+"url": "https://justjoin.it/job-offer/braver-it-iteamly-senior-qa-engineer-ai-automation--krakow-testing",
+"location": "Kraków, Warszawa, Gdańsk, Wrocław, Poznań",
+"workplace": "remote",
+"salary": "25 000–32 000 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Python",
+"Playwright",
+"Selenium",
+"AI Tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": 190.47619047619048,
+"office_days": null,
+"why": "remote · ~190 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-engineer-ai-automation-braver-it-Remote",
+"source": "nofluff",
+"title": "Senior QA Engineer (AI & Automation)",
+"company": "Braver IT S.A.",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-engineer-ai-automation-braver-it-remote",
+"location": "Gdańsk, Katowice, Kraków, Warszawa, Wrocław",
+"workplace": "remote",
+"salary": "25 000–32 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python",
+"QA Engineer",
+"Playwright",
+"Selenium"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": 190.47619047619048,
+"office_days": null,
+"why": "remote · ~190 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
