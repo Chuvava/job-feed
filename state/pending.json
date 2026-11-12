@@ -311,6 +311,204 @@
 "notes": [
 "⚠️ Sii — Erste / другие проекты: «» · Пауза · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
 ]
+},
+{
+"job": {
+"id": "justjoin:e2b1e0ea-69d6-4276-8cc9-b0dfa4444b5c",
+"source": "justjoin",
+"title": "Quality Engineer",
+"company": "Kingfisher",
+"url": "https://justjoin.it/job-offer/kingfisher-quality-engineer-krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "12 000–22 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"CI/CD",
+"API",
+"RESTful",
+"Cucumber",
+"Kotlin",
+"Java"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": 130.95238095238096,
+"office_days": null,
+"why": "hybrid · ~131 PLN/ч · Java · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:85e728b2-0d9c-44d4-9fb4-8aff8dbb31c9",
+"source": "justjoin",
+"title": "Senior Quality Engineer (Data)",
+"company": "Kingfisher",
+"url": "https://justjoin.it/job-offer/kingfisher-senior-quality-engineer-data--krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "19 000–26 000 PLN/mo permanent",
+"seniority": "senior",
+"skills": [
+"CI/CD",
+"PySpark",
+"Databricks",
+"Python",
+"SQL",
+"ETL/ELT",
+"Big Data",
+"Data Engineering",
+"Quality Engineering"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": 154.76190476190476,
+"office_days": null,
+"why": "hybrid · ~155 PLN/ч · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:dbae801f-ffce-41a9-ba53-2ff5028bf237",
+"source": "justjoin",
+"title": "Quality Engineer (Data)",
+"company": "Kingfisher",
+"url": "https://justjoin.it/job-offer/kingfisher-quality-engineer-data--krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "12 000–22 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"CI/CD",
+"PySpark",
+"Databricks",
+"Python",
+"SQL",
+"ETL/ELT",
+"Big Data",
+"Data Engineering",
+"Quality Engineering"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 130.95238095238096,
+"office_days": null,
+"why": "hybrid · ~131 PLN/ч · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:a8a97ab8-bdca-4282-ad17-367083d2b062",
+"source": "justjoin",
+"title": "Lead Quality Engineer (Data)",
+"company": "Kingfisher",
+"url": "https://justjoin.it/job-offer/kingfisher-lead-quality-engineer-data--krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "23 000–30 000 PLN/mo permanent",
+"seniority": "manager",
+"skills": [
+"CI/CD",
+"Databricks",
+"PySpark",
+"Python",
+"ETL/ELT",
+"SQL",
+"Big Data",
+"Data Engineering",
+"Quality Engineering"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": 178.57142857142858,
+"office_days": null,
+"why": "hybrid · ~179 PLN/ч · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4490330423",
+"source": "linkedin",
+"title": "Network Automation Engineer",
+"company": "Gcore",
+"url": "https://www.linkedin.com/jobs/view/4490330423",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4490319912",
+"source": "linkedin",
+"title": "QA engineer- Investment & Markets",
+"company": "BEC Financial Technologies",
+"url": "https://www.linkedin.com/jobs/view/4490319912",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ BEC Financial Technologies (→ Nykredit Financial Technologies, Дания): «Automation QA engineer - Post-Trade Delivery III» · Откликнулся · CV C# classic · строка 66",
+"⚠️ BEC Financial Technologies: «Automation QA engineer – Payments» · Планирую отклик · строка 82"
+]
 }
 ]
 }
