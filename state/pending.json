@@ -568,6 +568,75 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:91bcedbd-cc89-4627-ba0b-a36b0ee35c72",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer",
+"company": "Transition Technologies MS",
+"url": "https://justjoin.it/job-offer/transition-technologies-ms-senior-test-automation-engineer-poland-testing",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Python",
+"TypeScript",
+"Playwright",
+"pytest",
+"REST API",
+"OpenAPI",
+"Gitlab CI",
+"Docker"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-test-automation-engineer-embedded-systems-agentic-ai-spyrosoft-Remote",
+"source": "nofluff",
+"title": "Senior Test Automation Engineer – Embedded Systems & Agentic AI",
+"company": "Spyrosoft",
+"url": "https://nofluffjobs.com/pl/job/senior-test-automation-engineer-embedded-systems-agentic-ai-spyrosoft-remote",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "15 960–22 680 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Robot Framework",
+"Python",
+"API",
+"Qt"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 135.0,
+"office_days": null,
+"why": "remote · ~135 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
