@@ -664,6 +664,43 @@
 "notes": [
 "⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
 ]
+},
+{
+"job": {
+"id": "justjoin:f35e113f-6071-4bde-9648-edb485e39e72",
+"source": "justjoin",
+"title": "Tester automatyzujący Senior z doświadczeniem w Bankowości",
+"company": "Jit Team",
+"url": "https://justjoin.it/job-offer/jit-team-tester-automatyzujacy-senior-z-doswiadczeniem-w-bankowosci-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Java",
+"Selenium",
+"Playwright",
+"TypeScript",
+"SQL",
+"API"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "A",
+"score": 16,
+"rate": null,
+"office_days": 4.0,
+"why": "офис ~4 дн/мес · ставка не указана · Java/TS"
+},
+"shown": true,
+"notes": [
+"⚠️ Jit Team — клиент: один из крупнейших банков PL (по описанию: первая кредитка в Польше, конто по селфи — вероятно Bank Pekao, как у Experis строка 62): «Tester automatyzujący Senior» · Откликнулся · CV Java classic · строка 69",
+"⚠️ Jit Team — клиент: крупнейший норвежский финансовый провайдер (Jit — premier partner в PL, вероятно DNB) · ⚠️ похоже, тот же проект, что у Optiveum (95) и Clurgo (99): «Senior Automation Tester C# (.NET 8)» · Откликнулся · CV C# classic · строка 100"
+]
 }
 ]
 }
