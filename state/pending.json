@@ -509,6 +509,65 @@
 "⚠️ BEC Financial Technologies (→ Nykredit Financial Technologies, Дания): «Automation QA engineer - Post-Trade Delivery III» · Откликнулся · CV C# classic · строка 66",
 "⚠️ BEC Financial Technologies: «Automation QA engineer – Payments» · Планирую отклик · строка 82"
 ]
+},
+{
+"job": {
+"id": "nofluff:senior-tosca-automation-qa-upvanta-Remote",
+"source": "nofluff",
+"title": "Senior Tosca Automation QA",
+"company": "Upvanta",
+"url": "https://nofluffjobs.com/pl/job/senior-tosca-automation-qa-upvanta-remote",
+"location": "",
+"workplace": "remote",
+"salary": "18 480–20 580 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Tricentis Tosca",
+"API",
+"UI",
+"qTest"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 122.5,
+"office_days": null,
+"why": "remote · ~122 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Upvanta — клиент не назван: «Senior QA Automation Engineer (Java | Web | Mobile | API)» · Закрыто · CV Java classic · строка 37"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4490316731",
+"source": "linkedin",
+"title": "CATT Tester | Calypso | Remote Poland",
+"company": "DXC Technology",
+"url": "https://www.linkedin.com/jobs/view/4490316731",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
