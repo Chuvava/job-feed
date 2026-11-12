@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-11",
-"last_batch": "2026-11-12 15",
+"last_batch": "2026-11-12 18",
 "items": [
 {
 "job": {
@@ -175,7 +175,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -660,7 +660,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · Java/Python/TS"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
 ]
@@ -701,6 +701,31 @@
 "⚠️ Jit Team — клиент: один из крупнейших банков PL (по описанию: первая кредитка в Польше, конто по селфи — вероятно Bank Pekao, как у Experis строка 62): «Tester automatyzujący Senior» · Откликнулся · CV Java classic · строка 69",
 "⚠️ Jit Team — клиент: крупнейший норвежский финансовый провайдер (Jit — premier partner в PL, вероятно DNB) · ⚠️ похоже, тот же проект, что у Optiveum (95) и Clurgo (99): «Senior Automation Tester C# (.NET 8)» · Откликнулся · CV C# classic · строка 100"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4490348928",
+"source": "linkedin",
+"title": "Tester / QA Team Lead",
+"company": "ithouse.co",
+"url": "https://www.linkedin.com/jobs/view/4490348928",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
 }
 ]
 }
