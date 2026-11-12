@@ -637,6 +637,33 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4490336788",
+"source": "linkedin",
+"title": "QA Automation  Engineer",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4490336788",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
 }
 ]
 }
