@@ -1,5 +1,31 @@
 {
 "last_digest": "2026-11-12",
 "last_batch": "2026-11-12 21",
-"items": []
+"items": [
+{
+"job": {
+"id": "linkedin:li-4490548047",
+"source": "linkedin",
+"title": "Software Development Engineer in Test II, NavNative",
+"company": "Mapbox",
+"url": "https://www.linkedin.com/jobs/view/4490548047",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-12"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+}
+]
 }
