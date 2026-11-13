@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-12",
-"last_batch": "2026-11-12 21",
+"last_batch": "2026-11-13 12",
 "items": [
 {
 "job": {
@@ -25,6 +25,98 @@
 "why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:bb7ddc65-f3fe-450e-a56d-8f4f0f05cf63",
+"source": "justjoin",
+"title": "Senior Tosca Automation QA",
+"company": "Link Group",
+"url": "https://justjoin.it/job-offer/link-group-senior-tosca-automation-qa-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "140–150 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"QA",
+"Tosca",
+"Test Automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-13"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": [
+"⚠️ Link Group (агентство) — клиент из финансов / фондовой биржи: «Senior Test Automation Engineer» · Откликнулся · CV C# classic (For Link Group) · строка 38"
+]
+},
+{
+"job": {
+"id": "justjoin:6d741ea0-df38-4cbc-a6b5-fb47f981fcff",
+"source": "justjoin",
+"title": "Senior QA Engineer – Platform",
+"company": "Hard Rock Digital",
+"url": "https://justjoin.it/job-offer/hard-rock-digital-senior-qa-engineer---platform-gdansk-testing",
+"location": "Gdańsk",
+"workplace": "remote",
+"salary": "15 000–17 000 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Testing",
+"Proxymas",
+"Proxyman",
+"Charles",
+"Postman",
+"SDLC"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-13"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": 101.19047619047619,
+"office_days": null,
+"why": "remote · ~101 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4481308939",
+"source": "linkedin",
+"title": "Finance Operations & Automation Analyst (Billing)",
+"company": "Swap",
+"url": "https://www.linkedin.com/jobs/view/4481308939",
+"location": "Krakowski, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-13"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
