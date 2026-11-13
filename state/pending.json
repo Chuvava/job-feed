@@ -118,6 +118,65 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:tester-ka-automatyczny-a-avenga-agencja-pracy-nr-kraz-8448-Warszawa-1",
+"source": "nofluff",
+"title": "Tester/ka Automatyczny/a ",
+"company": "AVENGA (Agencja Pracy, nr KRAZ: 8448)",
+"url": "https://nofluffjobs.com/pl/job/tester-ka-automatyczny-a-avenga-agencja-pracy-nr-kraz-8448-warszawa-1",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "20 160–24 360 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"JavaScript",
+"API",
+"Visual Studio",
+"Git"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-13"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 145.0,
+"office_days": null,
+"why": "hybrid · ~145 PLN/ч · JS"
+},
+"shown": false,
+"notes": [
+"⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4485805848",
+"source": "linkedin",
+"title": "Business Analyst, Marketing Automation",
+"company": "British Council",
+"url": "https://www.linkedin.com/jobs/view/4485805848",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-13"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
