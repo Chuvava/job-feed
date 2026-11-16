@@ -127,6 +127,217 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:aff3e8a9-40e8-4f89-9b29-a581b79b88e9",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Kyotu Technology",
+"url": "https://justjoin.it/job-offer/kyotu-technology-qa-engineer-wroclaw-testing-56780a68",
+"location": "Wrocław, Warszawa, Poznań, Kraków, Gdańsk",
+"workplace": "remote",
+"salary": "70–120 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Selenium",
+"JMeter",
+"API Testing",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:faef6206-012d-4c59-9725-55a9af107d52",
+"source": "justjoin",
+"title": "Senior QA Engineer",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-senior-qa-engineer-lisbon-testing-2fb730fb",
+"location": "Lisbon",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Geographical Information System (GIS)",
+"Security",
+"JavaScript",
+"SQL",
+"API (Application Programming Interface)",
+"risk assessment",
+"Python",
+"Quality Assurance (QA)",
+"Operations",
+"Test Cases"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python/JS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:2ac982c2-f95d-40df-9005-282111d44865",
+"source": "justjoin",
+"title": "Senior QA / Senior Tester – Consumer Finance (k/m/x)",
+"company": "B2Bnetwork",
+"url": "https://justjoin.it/job-offer/b2bnetwork-senior-qa-senior-tester---consumer-finance-k-m-x--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Quality Assurance",
+"regression testing",
+"End-to-end testing",
+"API Testing",
+"Postman",
+"Swagger",
+"browserstack",
+"Confluence",
+"Jira"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ B2Bnetwork (агентство) — клиент: Nordea Bank (KYC) · ⚠️ стек как у Optiveum/Clurgo/Jit (95/99/100) — возможно, тот же проект: «IT Automation Tester (KYC) — C#/.NET 8, NUnit, Playwright, SQL» · Закрыто · CV C# (копия For B2Bnetwork) · строка 102"
+]
+},
+{
+"job": {
+"id": "justjoin:620e9d05-4c31-4e3b-8f57-7c4b662aeafc",
+"source": "justjoin",
+"title": "Senior Tester Automatyzujący",
+"company": "RITS",
+"url": "https://justjoin.it/job-offer/rits-senior-tester-automatyzujacy-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "110–120 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Java",
+"Python",
+"JavaScript",
+"Selenium",
+"Playwright",
+"REST Assured",
+"Jenkins"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 120.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~120 PLN/ч · Java/Python/JS"
+},
+"shown": false,
+"notes": [
+"⚠️ RITS — клиент из банковской сферы: «Automation Tester» · Планирую отклик · строка 13"
+]
+},
+{
+"job": {
+"id": "justjoin:a6450d89-4776-4516-a4cc-659b32e4ffc4",
+"source": "justjoin",
+"title": "Senior Test Automation Engineer",
+"company": "BlueSoft",
+"url": "https://justjoin.it/job-offer/bluesoft-senior-test-automation-engineer-warszawa-testing-b1121e40",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Java",
+"Python",
+"JavaScript",
+"Unit Testing",
+"API Testing",
+"Selenium",
+"Cypress",
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "A",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java/Python/JS"
+},
+"shown": true,
+"notes": [
+"⚠️ BlueSoft (Orange Group) — клиент: крупный банк (Open Banking): «Senior Test Automation Engineer (JAVA)» · Откликнулся · CV Java classic (For ALTEN) · строка 42"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4490941387",
+"source": "linkedin",
+"title": "Lead Data Test Automation Engineer",
+"company": "SoftServe",
+"url": "https://www.linkedin.com/jobs/view/4490941387",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ SoftServe — клиент: европейский госсектор (системы управления грантами и экспертами): «Senior Automation Test Quality Control Engineer» · Закрыто · CV Java classic · строка 81"
+]
 }
 ]
 }
