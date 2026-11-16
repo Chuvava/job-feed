@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-14",
-"last_batch": "2026-11-15 18",
+"last_batch": "2026-11-16 12",
 "items": [
 {
 "job": {
@@ -24,7 +24,108 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8927a7a8-f784-423a-aaf0-acf8e85c254e",
+"source": "justjoin",
+"title": "Senior Tester Automatyzujący",
+"company": "Nexio Management Sp. z o. o.",
+"url": "https://justjoin.it/job-offer/nexio-management-sp-z-o-o--senior-tester-automatyzujacy-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Java",
+"Python",
+"Test Automation",
+"JavaScript",
+"Selenium",
+"Cypress"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · Java/Python/JS"
+},
+"shown": true,
+"notes": [
+"⚠️ Nexio Management — клиент из энергетики: «Test Automation Engineer – SAP IS-U / Tricentis Tosca» · Откликнулся · CV Java classic · строка 33"
+]
+},
+{
+"job": {
+"id": "nofluff:senior-automation-qa-engineer-avenga-agencja-pracy-nr-kraz-8448-Remote",
+"source": "nofluff",
+"title": "Senior Automation QA Engineer",
+"company": "AVENGA (Agencja Pracy, nr KRAZ: 8448)",
+"url": "https://nofluffjobs.com/pl/job/senior-automation-qa-engineer-avenga-agencja-pracy-nr-kraz-8448-remote",
+"location": "",
+"workplace": "remote",
+"salary": "20 160–21 840 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Python",
+"TypeScript",
+"Playwright",
+"React"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": 130.0,
+"office_days": null,
+"why": "remote · ~130 PLN/ч · Python/TS"
+},
 "shown": false,
+"notes": [
+"⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
+]
+},
+{
+"job": {
+"id": "nofluff:senior-tester-automatyzujacy-rits-center-Warszawa",
+"source": "nofluff",
+"title": "Senior Tester Automatyzujący",
+"company": "Rits Center",
+"url": "https://nofluffjobs.com/pl/job/senior-tester-automatyzujacy-rits-center-warszawa",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "20 160–20 160 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Selenium",
+"Test automation"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-16"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 120.0,
+"office_days": null,
+"why": "hybrid · ~120 PLN/ч · язык ?"
+},
+"shown": true,
 "notes": []
 }
 ]
