@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-14",
-"last_batch": "2026-11-16 12",
+"last_batch": "2026-11-17 15",
 "items": [
 {
 "job": {
@@ -338,6 +338,509 @@
 "notes": [
 "⚠️ SoftServe — клиент: европейский госсектор (системы управления грантами и экспертами): «Senior Automation Test Quality Control Engineer» · Закрыто · CV Java classic · строка 81"
 ]
+},
+{
+"job": {
+"id": "justjoin:3f97ee17-5d68-4a10-9aff-24f605044868",
+"source": "justjoin",
+"title": "Test Engineer (K/M)",
+"company": "Alior Bank SA",
+"url": "https://justjoin.it/job-offer/alior-bank-sa-test-engineer-k-m--warszawa-testing",
+"location": "Warszawa, Kraków, Gdańsk",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"software testing",
+"Low-Code Testing",
+"EXIMEE",
+"API Testing",
+"SQL",
+"JSON",
+"XML",
+"Application Log Analysis",
+"Jira",
+"Confluence"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:3272354d-7399-4c9f-a689-c784269e6110",
+"source": "justjoin",
+"title": "Regular Test Automation Engineer",
+"company": "FINANTEQ",
+"url": "https://justjoin.it/job-offer/finanteq-regular-test-automation-engineer-lublin-testing",
+"location": "Lublin",
+"workplace": "remote",
+"salary": "6 600–10 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"Appium",
+"Cucumber",
+"TeamCity",
+"TestNG"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 59.523809523809526,
+"office_days": null,
+"why": "remote · ~60 PLN/ч · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:5ceca5b3-688b-49fa-8207-5cef1e518a59",
+"source": "justjoin",
+"title": "Tester Automatyzujący",
+"company": "ITFS",
+"url": "https://justjoin.it/job-offer/itfs-tester-automatyzujacy-warszawa-testing-9eec59dd",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "110–130 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"Playwright",
+"Gherkin",
+"Cucumber",
+"REST",
+"Jenkins",
+"Test Automation",
+"Jira",
+"Confluence"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "A",
+"score": 18,
+"rate": 130.0,
+"office_days": null,
+"why": "remote · ~130 PLN/ч · Java"
+},
+"shown": true,
+"notes": [
+"📌 Уже в трекере · строка 109 · Откликнулся",
+"⚠️ ITFS (агентство) — клиент не назван: «Senior QA Automation Engineer» · Откликнулся · CV Java classic · строка 74"
+]
+},
+{
+"job": {
+"id": "justjoin:099c1145-9f0b-4a0a-87b2-9c55f836c38f",
+"source": "justjoin",
+"title": "Senior QA Engineer | branża bankowa",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-senior-qa-engineer-branza-bankowa-warszawa-testing-9693e587",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"ETL/ELT",
+"pytest",
+"Data reconciliation",
+"SQL",
+"Python"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": null,
+"office_days": 8.0,
+"why": "офис ~8 дн/мес · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "justjoin:99693d54-51d7-418a-b9ee-7a9c10b9c4cf",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Media4U",
+"url": "https://justjoin.it/job-offer/media4u-qa-engineer-lodz-testing",
+"location": "Łódź",
+"workplace": "remote",
+"salary": "7 400–9 600 PLN/mo b2b; 6 200–8 000 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"Cypress",
+"Postman"
+],
+"contracts": [
+"b2b",
+"permanent"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": 57.142857142857146,
+"office_days": null,
+"why": "remote · ~57 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:bd40fff2-87af-4b81-b0a3-ac9e71d9144a",
+"source": "justjoin",
+"title": "Senior QA Engineer",
+"company": "INFOPLUS TECHNOLOGIES",
+"url": "https://justjoin.it/job-offer/infoplus-technologies-senior-qa-engineer-krakow-testing",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Playwright",
+"Python",
+"TypeScript",
+"Java",
+"Test Automation",
+"Automated Testing",
+"API Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Java/Python/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ INFOPLUS TECHNOLOGIES: «Senior Automation Test Engineer» · Планирую отклик · строка 27"
+]
+},
+{
+"job": {
+"id": "nofluff:tester-ka-automatyzujacy-a-avenga-agencja-pracy-nr-kraz-8448-Warszawa-1",
+"source": "nofluff",
+"title": "Tester/ka automatyzujący/a",
+"company": "AVENGA (Agencja Pracy, nr KRAZ: 8448)",
+"url": "https://nofluffjobs.com/pl/job/tester-ka-automatyzujacy-a-avenga-agencja-pracy-nr-kraz-8448-warszawa-1",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "21 840–24 360 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Java",
+"Selenium",
+"Gherkin",
+"BDD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 145.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~145 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4490461178",
+"source": "linkedin",
+"title": "Senior Software QA Engineer",
+"company": "Tenarai Europe",
+"url": "https://www.linkedin.com/jobs/view/4490461178",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 17,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4490420877",
+"source": "linkedin",
+"title": "Python QA Automation Engineer IRC308654",
+"company": "GlobalLogic",
+"url": "https://www.linkedin.com/jobs/view/4490420877",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ GlobalLogic: «Lead AQA Engineer (.NET, Azure — nice to have)» · Контакт · строка 4",
+"⚠️ GlobalLogic — клиент: канадский телеком (IoT / Smart Home, E2E-автоматизация): «QA/AQA Middle Engineer (Java) IRC306262» · Откликнулся · CV Java classic · строка 88"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4491561760",
+"source": "linkedin",
+"title": "Lead QA Engineer",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4491561760",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4491558790",
+"source": "linkedin",
+"title": "Senior Quality Assurance Engineer",
+"company": "Infoplus Technologies UK Limited",
+"url": "https://www.linkedin.com/jobs/view/4491558790",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python/TS"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491560150",
+"source": "linkedin",
+"title": "Automation QA Lead",
+"company": "Trinetix",
+"url": "https://www.linkedin.com/jobs/view/4491560150",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491156363",
+"source": "linkedin",
+"title": "Network Automation Expert",
+"company": "Orange Polska",
+"url": "https://www.linkedin.com/jobs/view/4491156363",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4490431967",
+"source": "linkedin",
+"title": "Tester Automatyczny PHP/duże systemy",
+"company": "Stellarity",
+"url": "https://www.linkedin.com/jobs/view/4490431967",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4490447120",
+"source": "linkedin",
+"title": "Automation QA Engineer",
+"company": "Transcenda",
+"url": "https://www.linkedin.com/jobs/view/4490447120",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491174011",
+"source": "linkedin",
+"title": "Data Quality Engineer",
+"company": "Standard Chartered",
+"url": "https://www.linkedin.com/jobs/view/4491174011",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491151209",
+"source": "linkedin",
+"title": "Quality Engineering Solution Architect",
+"company": "EY",
+"url": "https://www.linkedin.com/jobs/view/4491151209",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-17"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
