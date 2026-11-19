@@ -1,5 +1,236 @@
 {
 "last_digest": "2026-11-18",
-"last_batch": "2026-11-18 21",
-"items": []
+"last_batch": "2026-11-19 15",
+"items": [
+{
+"job": {
+"id": "justjoin:8df2c1af-4f93-4f30-ae72-9dda02da127e",
+"source": "justjoin",
+"title": "Senior Automation Test Engineer ( QA Java)",
+"company": "j-labs",
+"url": "https://justjoin.it/job-offer/j-labs-senior-automation-test-engineer-qa-java--krakow-testing",
+"location": "Kraków",
+"workplace": "remote",
+"salary": "140–170 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Java",
+"REST API",
+"Okhttp",
+"REST Assured",
+"K6",
+"Mikroserwisy",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "A",
+"score": 18,
+"rate": 170.0,
+"office_days": null,
+"why": "remote · ~170 PLN/ч · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ j-labs: «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic (For j-labs) · строка 21"
+]
+},
+{
+"job": {
+"id": "nofluff:test-automation-engineer-pharma-100-remote-darize-Remote",
+"source": "nofluff",
+"title": "Test Automation Engineer (pharma; 100% remote)",
+"company": "Darize Sp. z o.o.",
+"url": "https://nofluffjobs.com/pl/job/test-automation-engineer-pharma-100-remote-darize",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "21 840–24 360 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Test strategy",
+"Test automation",
+"Python",
+"TypeScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 145.0,
+"office_days": null,
+"why": "remote · ~145 PLN/ч · Python/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ Darize (бывш. 7N, агентство) — клиент: один из крупнейших банков PL (API-интеграции с бизнес-движками): «Senior Automation Tester» · Откликнулся · CV Java classic · строка 78"
+]
+},
+{
+"job": {
+"id": "nofluff:tech-lead-qa-engineer-mobile-gft-poland-Warszawa",
+"source": "nofluff",
+"title": "Tech Lead QA Engineer (Mobile)",
+"company": "GFT Poland",
+"url": "https://nofluffjobs.com/pl/job/tech-lead-qa-engineer-mobile-gft-poland-warszawa",
+"location": "Kraków, Poznań, Warszawa, Wrocław, Łódź",
+"workplace": "hybrid",
+"salary": "15 200–23 300 PLN/mo permanent",
+"seniority": "Expert",
+"skills": [
+"Java",
+"Appium",
+"Xcode",
+"API"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "C",
+"score": 11,
+"rate": 138.6904761904762,
+"office_days": 1,
+"why": "офис ~1 дн/мес · ~139 PLN/ч · Java · без B2B"
+},
+"shown": false,
+"notes": [
+"⚠️ GFT Poland — бывший работодатель (UniCredit mobile banking, 08.2025–04.2026): «Senior QA Consultant (Łódź/Poznań) — подаюсь только сюда; .NET (Kraków) не берём» · Откликнулся · CV CV For GFT (с GFT в опыте) + cover letter (универсальный, без даты) · строка 80"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4491605769",
+"source": "linkedin",
+"title": "Senior Mobile QA Engineer",
+"company": "GFT Technologies Poland",
+"url": "https://www.linkedin.com/jobs/view/4491605769",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491601875",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "Deloitte",
+"url": "https://www.linkedin.com/jobs/view/4491601875",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "C",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491605709",
+"source": "linkedin",
+"title": "Mobile QA Engineer",
+"company": "GFT Technologies Poland",
+"url": "https://www.linkedin.com/jobs/view/4491605709",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491393362",
+"source": "linkedin",
+"title": "AI & Automation Engineer",
+"company": "RZFT Solutions LLC",
+"url": "https://www.linkedin.com/jobs/view/4491393362",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4492436162",
+"source": "linkedin",
+"title": "Automation & Business Application Specialist (m/f/d)",
+"company": "Numa",
+"url": "https://www.linkedin.com/jobs/view/4492436162",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-19"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS"
+},
+"shown": false,
+"notes": []
+}
+]
 }
