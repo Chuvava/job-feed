@@ -1,31 +1,5 @@
 {
-"last_digest": "2026-11-21",
-"last_batch": "2026-11-22 12",
-"items": [
-{
-"job": {
-"id": "linkedin:li-4476847387",
-"source": "linkedin",
-"title": "Digital Product Owner - Home Automation & IoT",
-"company": "Nagarro",
-"url": "https://www.linkedin.com/jobs/view/4476847387",
-"location": "Poland",
-"workplace": "",
-"salary": "",
-"seniority": "",
-"skills": [],
-"contracts": [],
-"published": "2026-11-22"
-},
-"priority": {
-"tier": "B",
-"score": 5,
-"rate": null,
-"office_days": null,
-"why": "формат ? · ставка не указана · язык ?"
-},
-"shown": true,
-"notes": []
-}
-]
+"last_digest": "2026-11-22",
+"last_batch": "2026-11-22 21",
+"items": []
 }
