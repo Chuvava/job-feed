@@ -1,5 +1,414 @@
 {
 "last_digest": "2026-11-22",
-"last_batch": "2026-11-22 21",
-"items": []
+"last_batch": "2026-11-23 15",
+"items": [
+{
+"job": {
+"id": "justjoin:d83d7904-2ef6-46ca-a2c6-f6001a1e3cf6",
+"source": "justjoin",
+"title": "QA Automation Engineer | Branża Bankowa",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-qa-automation-engineer-branza-bankowa-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Selenium",
+"Java",
+"SQL",
+"Playwright",
+"Jira"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": null,
+"office_days": 10.0,
+"why": "офис ~10 дн/мес · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "justjoin:07e11b4f-7b97-4a50-8c4e-01d7dd4e4315",
+"source": "justjoin",
+"title": "Starszy Tester Automatyzujący",
+"company": "Ness Solution",
+"url": "https://justjoin.it/job-offer/ness-solution-starszy-tester-automatyzujacy-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "105–130 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Selenium WebDriver",
+"Postman",
+"SoapUI",
+"Git",
+"Jira",
+"Bitbucket",
+"Java",
+"Selenide"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "A",
+"score": 15,
+"rate": 130.0,
+"office_days": null,
+"why": "remote · ~130 PLN/ч · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Ness Solution — клиент из eCommerce: «Test Automation Engineer (Java, Selenium, Playwright, REST Assured)» · Откликнулся · CV Java classic (For Ness) · строка 17"
+]
+},
+{
+"job": {
+"id": "justjoin:55b9d2c3-aa6f-4e39-8731-a815b19ed8db",
+"source": "justjoin",
+"title": "Senior SDET / Performance Test Engineer (100% Remote)",
+"company": "ITLT",
+"url": "https://justjoin.it/job-offer/itlt-senior-sdet-performance-test-engineer-100-remote--wroclaw-testing",
+"location": "Wrocław, Lublin, Kielce, Rzeszów, Szczecin",
+"workplace": "remote",
+"salary": "130–150 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"SDET / Performance Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:91872fa7-bfb2-4aee-b69d-f811ac98ee28",
+"source": "justjoin",
+"title": "Test Lead / Senior Tester | Oracle Technology Refresh",
+"company": "Crestt",
+"url": "https://justjoin.it/job-offer/crestt-test-lead-senior-tester-oracle-technology-refresh-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "135–160 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Oracle Forms",
+"Oracle Reports",
+"Oracle APEX",
+"ORDS",
+"WebLogic",
+"Oracle Database 19c",
+"Oracle Enterprise Linux 9",
+"Oracle SQL",
+"UI",
+"API"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 160.0,
+"office_days": null,
+"why": "remote · ~160 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:cc68c1e3-00d6-4022-8a9d-849660f7e9c1",
+"source": "justjoin",
+"title": "Technical Tester",
+"company": "Crestt",
+"url": "https://justjoin.it/job-offer/crestt-technical-tester-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "110–135 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Oracle Forms",
+"Oracle Reports",
+"Oracle APEX",
+"ORDS",
+"WebLogic",
+"Fusion Middleware",
+"Oracle Database 19c",
+"Oracle Enterprice Linux 9",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": 135.0,
+"office_days": null,
+"why": "remote · ~135 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8cd5e65d-ba5a-4dfc-8625-41bc187289f3",
+"source": "justjoin",
+"title": "Senior SDET / Performance Test Engineer",
+"company": "co.brick Talents",
+"url": "https://justjoin.it/job-offer/co-brick-talents-senior-sdet-performance-test-engineer-gliwice-testing",
+"location": "Gliwice",
+"workplace": "remote",
+"salary": "100–135 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Testing",
+".NET C#",
+"REST API"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "A",
+"score": 15,
+"rate": 135.0,
+"office_days": null,
+"why": "remote · ~135 PLN/ч · C#"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:c146b834-7193-40d7-a3aa-a07d9931d7bf",
+"source": "justjoin",
+"title": "Senior QA Automation Engineer (Playwright)",
+"company": "TQLO SP. Z O.O.",
+"url": "https://justjoin.it/job-offer/tqlo-sp-z-o-o--senior-qa-automation-engineer-playwright--lodz-testing",
+"location": "Łódź",
+"workplace": "hybrid",
+"salary": "110–120 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"Playwright",
+"TypeScript",
+"Python",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": 120.0,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ~120 PLN/ч · Python/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:c34bb7d1-3926-45c6-91bc-987f7b22afc7",
+"source": "justjoin",
+"title": "Tester with Slovenian Language",
+"company": "Samsung R&D Intitute Poland",
+"url": "https://justjoin.it/job-offer/samsung-r-d-intitute-poland-tester-with-slovenian-language-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"QA",
+"Testing",
+"AI",
+"MS Excel",
+"Python"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": null,
+"office_days": 12.899999999999999,
+"why": "офис ~13 дн/мес · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-qa-automation-engineer-yang-models-codilime-Remote",
+"source": "nofluff",
+"title": "Senior QA Automation Engineer - Yang Models",
+"company": "CodiLime",
+"url": "https://nofluffjobs.com/pl/job/senior-qa-automation-engineer-yang-models-codilime-remote",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "18 000–24 000 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"QA",
+"Python",
+"Networking",
+"L2"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "C",
+"score": 7,
+"rate": 142.85714285714286,
+"office_days": null,
+"why": "remote · ~143 PLN/ч · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493767984",
+"source": "linkedin",
+"title": "Software Developer in Test",
+"company": "evoke",
+"url": "https://www.linkedin.com/jobs/view/4493767984",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493663000",
+"source": "linkedin",
+"title": "Senior Automation Test Engineer (Android)",
+"company": "Intellias",
+"url": "https://www.linkedin.com/jobs/view/4493663000",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Intellias — клиент: 360T (FX-торговая площадка Deutsche Börse Group): «Senior AQA Engineer (Java)» · Откликнулся · CV Java classic · строка 71"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4411145583",
+"source": "linkedin",
+"title": "QA engineer",
+"company": "Hays",
+"url": "https://www.linkedin.com/jobs/view/4411145583",
+"location": "Warsaw Metropolitan Area",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "C",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4492615366",
+"source": "linkedin",
+"title": "Middle QA Automation Engineer",
+"company": "Akvelon, Inc.",
+"url": "https://www.linkedin.com/jobs/view/4492615366",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · TS"
+},
+"shown": false,
+"notes": []
+}
+]
 }
