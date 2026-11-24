@@ -409,6 +409,69 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:d611e2d5-fd1d-4fad-8e83-32b48c59f045",
+"source": "justjoin",
+"title": "Software Tester / QA Engineer",
+"company": "Sports Betting Community Limited",
+"url": "https://justjoin.it/job-offer/sports-betting-community-limited-software-tester-qa-engineer-poznan-testing",
+"location": "Poznań",
+"workplace": "remote",
+"salary": "2 800–3 500 GBP/mo b2b",
+"seniority": "mid",
+"skills": [
+"TEST SCENARIOS",
+"Testing",
+"Business Analysis",
+"Analytical Thinking",
+"Playwright",
+"Test Automation",
+"SQL",
+"API Testing",
+"Git",
+"AI"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 11,
+"rate": 102.08333333333333,
+"office_days": null,
+"why": "remote · ~102 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493694454",
+"source": "linkedin",
+"title": "Senior AI QA Engineer – Automation & Cloud Infrastructure",
+"company": "Acronis",
+"url": "https://www.linkedin.com/jobs/view/4493694454",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
