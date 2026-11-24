@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-22",
-"last_batch": "2026-11-23 15",
+"last_batch": "2026-11-24 15",
 "items": [
 {
 "job": {
@@ -469,6 +469,335 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:8093cb45-c83e-4220-afab-67aeeaf2cf97",
+"source": "justjoin",
+"title": "SAP Functional Tester",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-sap-functional-tester-warszawa-testing",
+"location": "Warszawa, Kraków, Gdańsk, Łódź",
+"workplace": "remote",
+"salary": "115–115 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"SAP",
+"SAP FICO",
+"Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": 115.0,
+"office_days": null,
+"why": "remote · ~115 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:0c88c772-cbda-4482-b2e9-cbf1e033cc0e",
+"source": "justjoin",
+"title": "Functional SAP Tester ",
+"company": "emagine Polska",
+"url": "https://justjoin.it/job-offer/emagine-polska-functional-sap-tester--warsaw-testing",
+"location": "Warsaw",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Test Management",
+"SAP",
+"Testing",
+"Back Office",
+"Deployment",
+"SAP FICO (Finance & Controlling)"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:55d99890-3f8d-4931-aca6-cf2545fc4746",
+"source": "justjoin",
+"title": "Senior Automation & Controls Engineer - Subsea Oil & Gas",
+"company": "SoftBlue (InTechHouse)",
+"url": "https://justjoin.it/job-offer/softblue-intechhouse--senior-automation-controls-engineer---subsea-oil-gas-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "120–150 PLN/h b2b",
+"seniority": "senior",
+"skills": [
+"PLC",
+"Scada",
+"HMI",
+"Industrial Control Systems",
+"Brownfield Modifications / System Upgrades",
+"Commissioning",
+"FAT / SIT / System Integration",
+"root cause analysis",
+"Industrial Networking & Communication",
+"Subsea / Offshore Oil & Gas"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": 150.0,
+"office_days": null,
+"why": "remote · ~150 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:1121ded5-ff16-4cd6-867f-5eb46877056e",
+"source": "justjoin",
+"title": "Automation & Controls Engineer",
+"company": "SoftBlue (InTechHouse)",
+"url": "https://justjoin.it/job-offer/softblue-intechhouse--automation-controls-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "90–120 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"PLC",
+"Scada",
+"HMI",
+"Industrial Control Systems",
+"Troubleshooting",
+"FAT / SIT Testing",
+"Comissioning",
+"Industrial Networking & Communication",
+"Subsea / Offshore Oil & Gas",
+"ICS Cybersecurity"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 10,
+"rate": 120.0,
+"office_days": null,
+"why": "remote · ~120 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:15443120-f1c8-49ed-8032-689be0fec368",
+"source": "justjoin",
+"title": "Tester Automatyzujący",
+"company": "RITS",
+"url": "https://justjoin.it/job-offer/rits-tester-automatyzujacy-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "90–115 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"SQL",
+"Selenium WebDriver",
+"Java",
+"Jira",
+"Xray",
+"SoapUI",
+"Postman",
+"CI/CD"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": 115.0,
+"office_days": null,
+"why": "remote · ~115 PLN/ч · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ RITS — клиент из банковской сферы: «Automation Tester» · Планирую отклик · строка 13",
+"⚠️ RITS Group (агентство) — клиент: PKO BP (подтвердила HR 20.11) · ⚠️ тот же клиент, что у Nexio/ITFS/PKO BP Finat (108/109/112) · другая роль RITS — строка 13: «Senior Tester Automatyzujący» · HR · строка 117"
+]
+},
+{
+"job": {
+"id": "justjoin:a63b6ef7-87f7-42d2-8d83-ba7919d410b1",
+"source": "justjoin",
+"title": "Tester automatyzujący (Ochrona Zdrowia)",
+"company": "Billennium",
+"url": "https://justjoin.it/job-offer/billennium-tester-automatyzujacy-ochrona-zdrowia--lublin-testing",
+"location": "Lublin",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Java",
+"Selenium",
+"SoapUI",
+"Postman"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "A",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Java"
+},
+"shown": true,
+"notes": [
+"⚠️ Billennium — клиент: глобальная технологическая компания: «Senior Test Automation Engineer (.NET / C#)» · Откликнулся · CV C# classic · строка 36",
+"⚠️ Billennium — клиент: один из лидеров банковского сектора (интеграционная платформа банка) · другая роль Billennium — строка 36: «Senior Test Automation Engineer (Java, API, Gatling)» · Откликнулся · CV Java (копия For Billennium) · строка 105"
+]
+},
+{
+"job": {
+"id": "justjoin:d7ad4182-83f8-47d3-af0a-b994c4ac3a6a",
+"source": "justjoin",
+"title": "Performance Test Engineer",
+"company": "RemoDevs",
+"url": "https://justjoin.it/job-offer/remodevs-performance-test-engineer-szczecin-testing",
+"location": "Szczecin",
+"workplace": "remote",
+"salary": "17 600–20 800 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"API Testing",
+"Testing",
+"C#",
+".Net"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "A",
+"score": 13,
+"rate": 123.80952380952381,
+"office_days": null,
+"why": "remote · ~124 PLN/ч · C#"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "nofluff:quality-assurance-engineer-cracow-branchspace-Kraków",
+"source": "nofluff",
+"title": "Quality Assurance Engineer (Cracow) ",
+"company": "Branchspace",
+"url": "https://nofluffjobs.com/pl/job/quality-assurance-engineer-cracow-branchspace-krakow",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "15 120–23 100 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"JavaScript",
+"TypeScript",
+"Playwright",
+"Cypress"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-05"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 137.5,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~138 PLN/ч · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493030039",
+"source": "linkedin",
+"title": "AI & Automation Engineer",
+"company": "Tenth Revolution Group",
+"url": "https://www.linkedin.com/jobs/view/4493030039",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493022103",
+"source": "linkedin",
+"title": "Business Process Automation Specialist",
+"company": "Grafton Recruitment",
+"url": "https://www.linkedin.com/jobs/view/4493022103",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
