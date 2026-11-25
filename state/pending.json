@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-22",
-"last_batch": "2026-11-24 15",
+"last_batch": "2026-11-25 12",
 "items": [
 {
 "job": {
@@ -407,7 +407,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · TS"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -445,7 +445,7 @@
 "office_days": null,
 "why": "remote · ~102 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -611,7 +611,7 @@
 "office_days": null,
 "why": "remote · ~120 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -882,6 +882,138 @@
 "notes": [
 "⚠️ Akamai Technologies (продуктовая, США) — Akamai Cloud / Compute (бывш. Linode), управление IP-адресами в облаке: «Senior Software Development Engineer in Test - Remote Poland» · Откликнулся · CV C# classic · строка 103"
 ]
+},
+{
+"job": {
+"id": "nofluff:salesforce-qa-engineer-spyrosoft-Remote",
+"source": "nofluff",
+"title": "Salesforce QA Engineer",
+"company": "Spyrosoft",
+"url": "https://nofluffjobs.com/pl/job/salesforce-qa-engineer-spyrosoft-remote",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "10 080–10 920 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Manual Testing",
+"Salesforce",
+"Security",
+"Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": 65.0,
+"office_days": null,
+"why": "remote · ~65 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4494618283",
+"source": "linkedin",
+"title": "Software Test Engineer",
+"company": "TEKsystems",
+"url": "https://www.linkedin.com/jobs/view/4494618283",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493427216",
+"source": "linkedin",
+"title": "Software Engineer – AI & Workflow Automation (m/f/d)",
+"company": "Asseco Solutions DACH",
+"url": "https://www.linkedin.com/jobs/view/4493427216",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4494790960",
+"source": "linkedin",
+"title": "Automation SME",
+"company": "HCLTech",
+"url": "https://www.linkedin.com/jobs/view/4494790960",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4491870506",
+"source": "linkedin",
+"title": "Marketing Technology & Automation Manager (m/f/d)",
+"company": "Sport Alliance",
+"url": "https://www.linkedin.com/jobs/view/4491870506",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
