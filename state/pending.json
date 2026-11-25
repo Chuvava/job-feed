@@ -801,6 +801,87 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4494422502",
+"source": "linkedin",
+"title": "Software Development Engineer in Test - Poland remote",
+"company": "Akamai Technologies",
+"url": "https://www.linkedin.com/jobs/view/4494422502",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Akamai Technologies (продуктовая, США) — Akamai Cloud / Compute (бывш. Linode), управление IP-адресами в облаке: «Senior Software Development Engineer in Test - Remote Poland» · Откликнулся · CV C# classic · строка 103"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4494425275",
+"source": "linkedin",
+"title": "Senior Software Development Engineer in Test - Poland remote",
+"company": "Akamai Technologies",
+"url": "https://www.linkedin.com/jobs/view/4494425275",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Akamai Technologies (продуктовая, США) — Akamai Cloud / Compute (бывш. Linode), управление IP-адресами в облаке: «Senior Software Development Engineer in Test - Remote Poland» · Откликнулся · CV C# classic · строка 103"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4494423332",
+"source": "linkedin",
+"title": "Software Development Engineer in Test II - Poland remote",
+"company": "Akamai Technologies",
+"url": "https://www.linkedin.com/jobs/view/4494423332",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-24"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Akamai Technologies (продуктовая, США) — Akamai Cloud / Compute (бывш. Linode), управление IP-адресами в облаке: «Senior Software Development Engineer in Test - Remote Poland» · Откликнулся · CV C# classic · строка 103"
+]
 }
 ]
 }
