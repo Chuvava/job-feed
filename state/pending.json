@@ -1110,6 +1110,35 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:0fb42317-3456-4915-bf5c-92d916397880",
+"source": "justjoin",
+"title": "Automation Tester",
+"company": "Devapo",
+"url": "https://justjoin.it/job-offer/devapo-automation-tester-warszawa-testing-a7dbb389",
+"location": "Warszawa, Gdańsk, Wrocław, Kraków, Poznań",
+"workplace": "remote",
+"salary": "8 000–13 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Playwright"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "C",
+"score": 6,
+"rate": 77.38095238095238,
+"office_days": null,
+"why": "remote · ~77 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
