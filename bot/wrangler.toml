@@ -2,4 +2,9 @@ name = "job-feed-bot"
 main = "src/worker.js"
 compatibility_date = "2026-09-01"
 
-# Secrets (wrangler secret put …): TELEGRAM_TOKEN, CHAT_ID, WEBHOOK_SECRET, SHEET_URL, SHEET_SECRET
+# Secrets (wrangler secret put …): TELEGRAM_TOKEN, CHAT_ID, WEBHOOK_SECRET, SHEET_URL, SHEET_SECRET, GITHUB_TOKEN
+
+# Hourly feed run (UTC): 7–23 Warsaw in winter, 8–24 in summer. Needs secret GITHUB_TOKEN
+# (fine-grained PAT, repo job-feed, Actions: read and write).
+[triggers]
+crons = ["0 6-22 * * *"]

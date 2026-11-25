@@ -26,6 +26,26 @@ export default {
     ctx.waitUntil(handle(update, env).catch((e) => console.error("update failed", e.stack || e)));
     return new Response("ok");
   },
+  // Hourly cron (wrangler.toml) starts the feed workflow. A failed dispatch (expired token) is reported
+  // in the chat at 9 and 15 Warsaw time instead of failing silently.
+  async scheduled(event, env, ctx) {
+    const r = await fetch("https://api.github.com/repos/Chuvava/job-feed/actions/workflows/feed.yml/dispatches", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${env.GITHUB_TOKEN}`,
+        Accept: "application/vnd.github+json",
+        "User-Agent": "job-feed-bot",
+      },
+      body: JSON.stringify({ ref: "main" }),
+    });
+    if (r.ok) return;
+    const hour = Number(new Date().toLocaleString("en-GB", { timeZone: "Europe/Warsaw", hour: "2-digit", hour12: false }));
+    console.error("dispatch failed", r.status, await r.text());
+    if (hour === 9 || hour === 15) {
+      await send(env, `⚠️ Лента не запускается: GitHub ответил ${r.status}. ` +
+        (r.status === 401 ? "Токен истёк — обнови GITHUB_TOKEN (bot/: npx wrangler@4 secret put GITHUB_TOKEN)." : ""));
+    }
+  },
 };
 
 async function handle(update, env) {
