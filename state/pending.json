@@ -1164,6 +1164,106 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4494663894",
+"source": "linkedin",
+"title": "Senior QA Engineer",
+"company": "Bayer",
+"url": "https://www.linkedin.com/jobs/view/4494663894",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493444499",
+"source": "linkedin",
+"title": "Senior Quality Assurance Engineer",
+"company": "R Systems",
+"url": "https://www.linkedin.com/jobs/view/4493444499",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4494943627",
+"source": "linkedin",
+"title": "Sr Software QA Engineer",
+"company": "IQVIA",
+"url": "https://www.linkedin.com/jobs/view/4494943627",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4494950076",
+"source": "linkedin",
+"title": "Test Automation Engineer (Java / testy API)",
+"company": "Prime Engineering Poland",
+"url": "https://www.linkedin.com/jobs/view/4494950076",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 13,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
