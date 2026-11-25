@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-22",
-"last_batch": "2026-11-25 12",
+"last_batch": "2026-11-25 15",
 "items": [
 {
 "job": {
@@ -177,7 +177,7 @@
 "office_days": null,
 "why": "remote · ~135 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -535,7 +535,7 @@
 "office_days": null,
 "why": "remote · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -962,7 +962,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -1008,6 +1008,102 @@
 "priority": {
 "tier": "B",
 "score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:09abcde5-d920-4b55-a670-ee4a5fc880cb",
+"source": "justjoin",
+"title": "Performance-Focused QA Engineer",
+"company": "GoCode",
+"url": "https://justjoin.it/job-offer/gocode-performance-focused-qa-engineer-warszawa-testing",
+"location": "Warszawa, Kraków, Wrocław, Poznań, Gdańsk",
+"workplace": "remote",
+"salary": "21 000–21 000 PLN/mo permanent",
+"seniority": "senior",
+"skills": [
+"Kubernetes",
+"AWS",
+"K6",
+"Performance testing",
+"mobile app performance testing",
+"Core Web Vitals",
+"Datadog"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · язык ? · без B2B"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:fcf85687-c5aa-4748-b990-8630216634cf",
+"source": "justjoin",
+"title": "Tester (Ferryt)",
+"company": "SCALO",
+"url": "https://justjoin.it/job-offer/scalo-tester-ferryt--warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "16 000–19 200 PLN/mo b2b",
+"seniority": "senior",
+"skills": [
+"Manual Testing",
+"Ferryt",
+"Jira",
+"Confluence"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": 114.28571428571429,
+"office_days": 2.0,
+"why": "офис ~2 дн/мес · ~114 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Scalo: «QA Engineer (Web Application)» · Откликнулся · CV C# classic · строка 12",
+"⚠️ Scalo — модернизация legacy (.NET 10 + Angular): «Automation Tester/C#» · Откликнулся · CV C# classic · строка 64",
+"⚠️ Scalo — клиент из корпоративного банкинга: «QA / Automation Tester (Java, API)» · Откликнулся · CV C# classic · строка 94"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4494637539",
+"source": "linkedin",
+"title": "Specjalistka / Specjalista ds. nadzoru systemu automatów",
+"company": "Totalizator Sportowy",
+"url": "https://www.linkedin.com/jobs/view/4494637539",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 5,
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
