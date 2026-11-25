@@ -1139,6 +1139,31 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493426525",
+"source": "linkedin",
+"title": "QA Engineer (remote, Poland)",
+"company": "Prosoma",
+"url": "https://www.linkedin.com/jobs/view/4493426525",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-25"
+},
+"priority": {
+"tier": "B",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
