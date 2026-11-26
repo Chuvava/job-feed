@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-25",
-"last_batch": "2026-11-26 9",
+"last_batch": "2026-11-26 12",
 "items": [
 {
 "job": {
@@ -175,6 +175,67 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:salesforce-test-automation-engineer-f-m-x-sii-polska-Remote",
+"source": "nofluff",
+"title": "Salesforce Test Automation Engineer (f/m/x)",
+"company": "Sii Polska",
+"url": "https://nofluffjobs.com/pl/job/salesforce-test-automation-engineer-f-m-x-sii-polska-remote",
+"location": "Białystok, Bydgoszcz, Gdańsk, Katowice, Kraków, Lublin, Piła, Poznań, Rzeszów, S",
+"workplace": "remote",
+"salary": "?–? None/mo b2b",
+"seniority": "Mid",
+"skills": [
+"Salesforce",
+"WebdriverIO",
+"Playwright",
+"JavaScript"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 10,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · JS"
+},
+"shown": false,
+"notes": [
+"⚠️ Sii — Erste / другие проекты: «» · Пауза · CV C# — шаблон Sii (22.10.26); ранее For Sii — 11.08.26 C# · строка 8"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4495281518",
+"source": "linkedin",
+"title": "CATT Tester , Remote Poland or Spain and India",
+"company": "Luxoft",
+"url": "https://www.linkedin.com/jobs/view/4495281518",
+"location": "Poland",
+"workplace": "remote",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python"
+},
+"shown": false,
+"notes": [
+"⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
+]
 }
 ]
 }
