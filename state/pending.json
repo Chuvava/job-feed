@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-25",
-"last_batch": "2026-11-26 15",
+"last_batch": "2026-11-26 18",
 "items": [
 {
 "job": {
@@ -436,8 +436,60 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495040185",
+"source": "linkedin",
+"title": "Tester",
+"company": "IT Factory",
+"url": "https://www.linkedin.com/jobs/view/4495040185",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495041119",
+"source": "linkedin",
+"title": "Senior Test Automation Engineer (with German language)",
+"company": "SoftServe",
+"url": "https://www.linkedin.com/jobs/view/4495041119",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": [
+"⚠️ SoftServe — клиент: европейский госсектор (системы управления грантами и экспертами): «Senior Automation Test Quality Control Engineer» · Закрыто · CV Java classic · строка 81"
+]
 }
 ]
 }
