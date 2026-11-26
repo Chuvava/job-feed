@@ -490,6 +490,108 @@
 "notes": [
 "⚠️ SoftServe — клиент: европейский госсектор (системы управления грантами и экспертами): «Senior Automation Test Quality Control Engineer» · Закрыто · CV Java classic · строка 81"
 ]
+},
+{
+"job": {
+"id": "linkedin:li-4495517558",
+"source": "linkedin",
+"title": "Senior Software Engineer in Test (Cloud)",
+"company": "Motorola Solutions",
+"url": "https://www.linkedin.com/jobs/view/4495517558",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python/JS/TS"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493827947",
+"source": "linkedin",
+"title": "Regular Test Automation Engineer",
+"company": "Circle K",
+"url": "https://www.linkedin.com/jobs/view/4493827947",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493840349",
+"source": "linkedin",
+"title": "Tester automatyzujący Regular - Warszawa (Mazowieckie), Polska K/M",
+"company": "Astek",
+"url": "https://www.linkedin.com/jobs/view/4493840349",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "B",
+"score": 18,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java/Python/JS/TS"
+},
+"shown": false,
+"notes": [
+"⚠️ ASTEK Polska: «QA Inżynier (Java & Selenium | API Testing) (K /M)» · Откликнулся · CV Java classic · строка 23"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4495034802",
+"source": "linkedin",
+"title": "AI Native QA Engineer",
+"company": "Patrianna",
+"url": "https://www.linkedin.com/jobs/view/4495034802",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
