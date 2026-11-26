@@ -261,6 +261,38 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:senior-software-engineer-in-test-motorola-solutions-systems-polska-Kraków",
+"source": "nofluff",
+"title": "Senior Software Engineer in Test",
+"company": "Motorola Solutions Systems Polska",
+"url": "https://nofluffjobs.com/pl/job/senior-software-engineer-in-test-motorola-solutions-systems-polska-krakow",
+"location": "Kraków",
+"workplace": "hybrid",
+"salary": "16 000–21 000 PLN/mo permanent",
+"seniority": "Senior",
+"skills": [
+"Python",
+"Test automation",
+"OOP",
+"pytest"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": 125.0,
+"office_days": 8.6,
+"why": "офис ~9 дн/мес · ~125 PLN/ч · Python · без B2B"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
