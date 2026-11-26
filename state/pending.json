@@ -98,6 +98,83 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:6c5468f8-e343-4445-a1cb-312ef2762a73",
+"source": "justjoin",
+"title": "Mobile QA Engineer",
+"company": "GFT Polska",
+"url": "https://justjoin.it/job-offer/gft-polska-mobile-qa-engineer-warszawa-testing",
+"location": "Warszawa, Poznań, Łódź, Kraków, Wrocław",
+"workplace": "hybrid",
+"salary": "9 750–15 650 PLN/mo permanent",
+"seniority": "mid",
+"skills": [
+"Java",
+"Appium",
+"Appium Inspector",
+"XCode",
+"API SOAP",
+"REST",
+"Git",
+"Gerrit",
+"Test Automation",
+"CI/CD"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 9,
+"rate": 93.1547619047619,
+"office_days": 1,
+"why": "офис ~1 дн/мес · ~93 PLN/ч · Java · без B2B"
+},
+"shown": false,
+"notes": [
+"⚠️ GFT Poland — бывший работодатель (UniCredit mobile banking, 08.2025–04.2026): «Senior QA Consultant (Łódź/Poznań) — подаюсь только сюда; .NET (Kraków) не берём» · Контакт · CV CV For GFT (с GFT в опыте) + cover letter (универсальный, без даты) · строка 80"
+]
+},
+{
+"job": {
+"id": "justjoin:9a9c5791-6021-4ae1-ac10-75e5c69b69fb",
+"source": "justjoin",
+"title": "QA Automation Engineer",
+"company": "Itransition",
+"url": "https://justjoin.it/job-offer/itransition-qa-automation-engineer-warszawa-testing",
+"location": "Warszawa, Wrocław",
+"workplace": "remote",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"Playwright",
+"Cypress",
+"Selenium",
+"JavaScript",
+"Page Object Model",
+"Postman",
+"Android/iOS testing",
+"Jira",
+"Confluence"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 12,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · JS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
