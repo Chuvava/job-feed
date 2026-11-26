@@ -382,6 +382,37 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:27a5b88c-7019-4e6a-ba1f-0c3494799f64",
+"source": "justjoin",
+"title": "Test Engineer",
+"company": "KEMPURI",
+"url": "https://justjoin.it/job-offer/kempuri-test-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "60–90 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"C",
+"C++",
+"Embedded Systems"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 0,
+"rate": 90.0,
+"office_days": null,
+"why": "hybrid · ~90 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
