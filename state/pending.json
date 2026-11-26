@@ -26,6 +26,78 @@
 },
 "shown": true,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:a6391792-a80c-4df1-ae91-b47f17355ad3",
+"source": "justjoin",
+"title": "Senior Mobile QA Engineer",
+"company": "GFT Polska",
+"url": "https://justjoin.it/job-offer/gft-polska-senior-mobile-qa-engineer-warszawa-testing",
+"location": "Warszawa, Poznań, Łódź, Kraków, Wrocław",
+"workplace": "hybrid",
+"salary": "12 850–19 650 PLN/mo permanent",
+"seniority": "senior",
+"skills": [
+"Java",
+"Appium",
+"Appium Inspector",
+"XCode",
+"API SOAP",
+"REST",
+"Git",
+"Gerrit",
+"Test Automation",
+"CI/CD"
+],
+"contracts": [
+"permanent"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 13,
+"rate": 116.96428571428571,
+"office_days": 1,
+"why": "офис ~1 дн/мес · ~117 PLN/ч · Java · без B2B"
+},
+"shown": false,
+"notes": [
+"⚠️ GFT Poland — бывший работодатель (UniCredit mobile banking, 08.2025–04.2026): «Senior QA Consultant (Łódź/Poznań) — подаюсь только сюда; .NET (Kraków) не берём» · Контакт · CV CV For GFT (с GFT в опыте) + cover letter (универсальный, без даты) · строка 80"
+]
+},
+{
+"job": {
+"id": "nofluff:backend-qa-test-engineer-virtusa-Warsaw",
+"source": "nofluff",
+"title": "Backend QA Test Engineer",
+"company": "Virtusa",
+"url": "https://nofluffjobs.com/pl/job/backend-qa-test-engineer-virtusa-warsaw",
+"location": "Warsaw",
+"workplace": "hybrid",
+"salary": "13 440–16 800 PLN/mo b2b",
+"seniority": "Mid",
+"skills": [
+"SQL",
+"QA",
+"Jira",
+"Zephyr"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-26"
+},
+"priority": {
+"tier": "C",
+"score": 4,
+"rate": 100.0,
+"office_days": 17.2,
+"why": "офис ~17 дн/мес · ~100 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
