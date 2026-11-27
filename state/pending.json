@@ -59,6 +59,101 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:385dc51a-9905-47b9-a9d8-3679aa90e548",
+"source": "justjoin",
+"title": "Tester Oprogramowania | Systemy IT dla energetyki",
+"company": "Ideamotive",
+"url": "https://justjoin.it/job-offer/ideamotive-tester-oprogramowania-systemy-it-dla-energetyki-wroclaw-testing",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "90–110 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"REST API",
+"SQL",
+"Testing",
+"Web Application Testing",
+"API Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": 110.0,
+"office_days": null,
+"why": "remote · ~110 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Ideamotive (аутсорс, tech team extension) — клиенты: банки и энергетика: «Senior QA Tester (ручное)» · Откликнулся · CV For Ideamotive · строка 114"
+]
+},
+{
+"job": {
+"id": "justjoin:c45ad681-7e5d-465f-95da-d488a36e1dc5",
+"source": "justjoin",
+"title": "Design For Test Engineer",
+"company": "Red Global",
+"url": "https://justjoin.it/job-offer/red-global-design-for-test-engineer-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"DFT",
+"Python scripting",
+"TCL",
+"Perl"
+],
+"contracts": [
+"mandate_contract"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "C",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · Python · без B2B"
+},
+"shown": false,
+"notes": [
+"⚠️ Red Global (агентство) — клиент не назван: «Senior Test Automation Engineer» · HR · CV C# classic · строка 9",
+"⚠️ Red Global (агентство) — клиент не назван (то же агентство, что в строке 9; по описанию, вероятно, другой проект): «Senior Test Automation Engineer» · Откликнулся · CV Java classic · строка 75"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4483024110",
+"source": "linkedin",
+"title": "Quality Assurance Automation Engineer (Java)",
+"company": "XM",
+"url": "https://www.linkedin.com/jobs/view/4483024110",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 19,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
