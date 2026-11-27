@@ -2,7 +2,8 @@
 
     A  🔥 right away: Java/C# stack + remote or a light hybrid + rate ≥ min_rate (or not stated)
     B  🗂 evening digest, ordered by score
-    C  ⬇️ evening digest, bottom: only Python/JS stack, low rate, no B2B, or office/heavy hybrid outside Łódź
+    C  ⬇️ evening digest, bottom: only Python/JS stack, low rate, or office/heavy hybrid outside Łódź
+    (UoP-only offers are fine since 27.11.2026: their gross salary is converted to a B2B-equivalent rate)
 
 Thresholds live in config.yaml → priority. Weights follow cv-match/profile.md.
 """
@@ -33,6 +34,8 @@ CORE = r"java(?!script)|c#|\.net|csharp"
 OTHER_LANG = r"python|pytest|javascript|js|node\.?js|php|ruby|golang"
 
 CURRENCY = {"pln": 1, "eur": 4.25, "usd": 3.7, "chf": 4.5, "gbp": 4.9}
+UOP = r"permanent|uop|umowa o prac|employment|mandate"
+UOP_TO_B2B = 0.85   # UoP gross/month → B2B-equivalent PLN/h: 25 000 brutto ≈ 126 PLN/h (user's 120–130 equivalence)
 HOURS = {"h": 1, "hour": 1, "hourly": 1, "day": 8, "daily": 8, "mo": 168, "month": 168, "monthly": 168,
          "yr": 2016, "year": 2016, "yearly": 2016}
 
@@ -46,7 +49,8 @@ def _has(pattern: str, text: str) -> bool:
 
 
 def rate_per_hour(salary: str) -> float | None:
-    """'18 480–25 200 PLN/mo b2b; …' -> 150.0 (top of the B2B range, PLN per hour)."""
+    """'18 480–25 200 PLN/mo b2b; …' -> 150.0 (top of the B2B range, PLN per hour).
+    Without a B2B part, a UoP salary is scaled by UOP_TO_B2B so it compares with B2B thresholds."""
     parts = [p for p in salary.split(";") if p.strip()]
     b2b = [p for p in parts if "b2b" in p.lower()]
     best = None
@@ -65,6 +69,8 @@ def rate_per_hour(salary: str) -> float | None:
         elif unit == 1 and value > 2000:      # …and the other way round
             unit = 168
         rate = value / unit
+        if not b2b and re.search(UOP, part.lower()):
+            rate *= UOP_TO_B2B
         best = rate if best is None else max(best, rate)
     return best
 
@@ -166,7 +172,7 @@ def priority(job: Job, cfg: dict | None = None, today: date | None = None) -> Pr
         age = (today - date.fromisoformat(job.published)).days
         score += 2 if age <= 3 else 1 if age <= 7 else 0
 
-    low = other_only or (rate is not None and rate < cfg["low_rate"]) or heavy or job.no_b2b
+    low = other_only or (rate is not None and rate < cfg["low_rate"]) or heavy
     rate_ok = rate is None or rate >= cfg["min_rate"]
     tier = "A" if core and light and rate_ok and not low else "C" if low else "B"
 
@@ -177,5 +183,5 @@ def priority(job: Job, cfg: dict | None = None, today: date | None = None) -> Pr
                            ("JS", r"javascript|js|node\.?js"), ("TS", r"typescript")) if _has(p, stack_text)]
     why.append("/".join(lang) or "язык ?")
     if job.no_b2b:
-        why.append("без B2B")
+        why.append("только UoP")
     return Priority(tier, score, rate, office, " · ".join(why))

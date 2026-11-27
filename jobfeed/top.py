@@ -71,8 +71,6 @@ def main() -> int:
             continue  # not new in this period
         if not filters.passes(job, cfg["filters"]):
             stats["фильтры"] += 1
-        elif job.no_b2b:
-            stats["без B2B"] += 1
         elif tracker.find(job) or tracker.hidden(job):
             stats["в трекере / 🗑"] += 1
         else:

@@ -1,4 +1,4 @@
-"""One-off sorting of everything currently online: fresh, matching, B2B offers ranked by stack fit.
+"""One-off sorting of everything currently online: fresh, matching offers (B2B or UoP) ranked by stack fit.
 
     python -m jobfeed.triage --dry-run                 # print the ranking
     python -m jobfeed.triage --days 14 --cards 25      # top 25 as cards with buttons, the rest as a digest
@@ -81,13 +81,11 @@ def main() -> int:
         except Exception as e:
             log.error("%s failed: %s", name, e)
 
-    stats = {"online": len(collected), "filters": 0, "no_b2b": 0, "old": 0, "tracked": 0}
+    stats = {"online": len(collected), "filters": 0, "old": 0, "tracked": 0}
     best: dict[str, tuple[int, Job]] = {}
     for job in collected:
         if not filters.passes(job, cfg["filters"]):
             stats["filters"] += 1; continue
-        if job.no_b2b:
-            stats["no_b2b"] += 1; continue
         if job.published and date.fromisoformat(job.published) < since:
             stats["old"] += 1; continue
         if tracker.find(job):
@@ -100,8 +98,8 @@ def main() -> int:
     log.info("stats: %s, left: %d", stats, len(ranked))
 
     top, rest = ranked[:args.cards], ranked[args.cards:]
-    head = (f"🗂 <b>Разбор за {args.days} дней</b>: {len(ranked)} подходящих B2B-вакансий "
-            f"(отсеяно: фильтры {stats['filters']}, без B2B {stats['no_b2b']}, старше {args.days} дн. {stats['old']}, "
+    head = (f"🗂 <b>Разбор за {args.days} дней</b>: {len(ranked)} подходящих вакансий "
+            f"(отсеяно: фильтры {stats['filters']}, старше {args.days} дн. {stats['old']}, "
             f"уже в трекере {stats['tracked']}).\nТоп-{len(top)} — карточками с кнопками, по убыванию 🔥, "
             f"остальные — списком ниже.")
     if args.dry_run:

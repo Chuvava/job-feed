@@ -208,7 +208,7 @@ def send_digest(tg: Telegram, items: list) -> None:
         for message in digest_lines(rest):
             tg.send(message)
     if low:
-        tg.send(f"<b>⬇️ Низкий приоритет — {len(low)}</b> (Python/JS без Java/C#, ставка ниже порога, без B2B, офис):")
+        tg.send(f"<b>⬇️ Низкий приоритет — {len(low)}</b> (Python/JS без Java/C#, ставка ниже порога, офис):")
         for message in digest_lines(low):
             tg.send(message)
 

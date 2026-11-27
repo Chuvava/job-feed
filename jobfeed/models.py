@@ -19,7 +19,7 @@ class Job:
 
     @property
     def no_b2b(self) -> bool:
-        """Contract types are known and B2B isn't among them (the user works only on B2B)."""
+        """Contract types are known and B2B isn't among them (shown as a note; UoP is acceptable since 27.11.2026)."""
         return no_b2b(self.contracts)
 
 
