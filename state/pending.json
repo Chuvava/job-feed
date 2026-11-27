@@ -352,6 +352,39 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:9bd19567-53b6-4e55-b7de-c29c37111473",
+"source": "justjoin",
+"title": "Tester / Testerka",
+"company": "Sorigo",
+"url": "https://justjoin.it/job-offer/sorigo-tester-testerka-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"testowanie manualne",
+"Projektowanie przypadków testowych",
+"Testowanie integracyjne",
+"Testowanie regresyjne",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "hybrid · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
