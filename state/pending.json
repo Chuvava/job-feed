@@ -254,6 +254,79 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:430fd800-3fad-41fa-b6cf-62ef73a72110",
+"source": "justjoin",
+"title": "Senior Tester",
+"company": "GET IT TOGETHER Sp. z o.o.",
+"url": "https://justjoin.it/job-offer/get-it-together-sp-z-o-o--senior-tester-wroclaw-testing-71051e60",
+"location": "Wrocław",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"ISTQB Foundation level",
+"Testowanie REST API",
+"SQL",
+"narzędzia AI",
+"AIDLC"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "justjoin:949a8437-cac8-435f-8745-3711755869ec",
+"source": "justjoin",
+"title": "Senior Web & REST API Test Engineer",
+"company": "ITDS",
+"url": "https://justjoin.it/job-offer/itds-senior-web-rest-api-test-engineer-wroclaw-testing",
+"location": "Wroclaw",
+"workplace": "remote",
+"salary": "16 800–21 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Web Application Testing",
+"REST API Testing",
+"Test Planning & Reporting",
+"SQL",
+"ISTQB",
+"Playwright",
+"Robot Framework",
+"CI/CD Tools (GitLab/Jenkins)",
+"JIRA & Confluence",
+"AI Testing Tools"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ ITDS (агентство) — клиент: Citibank: «Senior Test Automation Engineer – UI and API Frameworks» · Техническое · CV C# classic · строка 18"
+]
 }
 ]
 }
