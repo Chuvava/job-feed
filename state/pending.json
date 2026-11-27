@@ -634,6 +634,40 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "nofluff:software-developement-engineer-in-test-avenga-agencja-pracy-nr-kraz-8448-Warszawa-2",
+"source": "nofluff",
+"title": "Software Developement Engineer in Test",
+"company": "AVENGA (Agencja Pracy, nr KRAZ: 8448)",
+"url": "https://nofluffjobs.com/pl/job/software-developement-engineer-in-test-avenga-agencja-pracy-nr-kraz-8448-warszawa-2",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "25 200–33 600 PLN/mo b2b",
+"seniority": "Senior",
+"skills": [
+"Java",
+"Selenium",
+"BDD",
+"Agile"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 14,
+"rate": 200.0,
+"office_days": null,
+"why": "hybrid · ~200 PLN/ч · Java"
+},
+"shown": false,
+"notes": [
+"⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
+]
 }
 ]
 }
