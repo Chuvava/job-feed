@@ -509,6 +509,56 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495827375",
+"source": "linkedin",
+"title": "QA Engineer",
+"company": "Comarch",
+"url": "https://www.linkedin.com/jobs/view/4495827375",
+"location": "Łódź, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495823622",
+"source": "linkedin",
+"title": "Test Automation Developer (K/M)",
+"company": "Soflab",
+"url": "https://www.linkedin.com/jobs/view/4495823622",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 16,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Java"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
