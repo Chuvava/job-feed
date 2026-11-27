@@ -668,6 +668,42 @@
 "notes": [
 "⚠️ AVENGA (Agencja Pracy, nr KRAZ: 8448): «Tester automatyzujący» · Контакт · CV C# classic · строка 24"
 ]
+},
+{
+"job": {
+"id": "justjoin:96e9cd59-257a-4cf4-956b-e37784a0104d",
+"source": "justjoin",
+"title": "QA Engineer",
+"company": "Dietly.pl",
+"url": "https://justjoin.it/job-offer/dietly-pl-qa-engineer-gdansk-testing",
+"location": "Gdańsk",
+"workplace": "remote",
+"salary": "10 000–14 000 PLN/mo b2b",
+"seniority": "mid",
+"skills": [
+"Playwright",
+"TypeScript",
+"Appium",
+"API Testing",
+"GitHub",
+"Git",
+"BDD",
+"AI"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "C",
+"score": 8,
+"rate": 83.33333333333333,
+"office_days": null,
+"why": "remote · ~83 PLN/ч · TS"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
