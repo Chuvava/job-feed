@@ -28,6 +28,37 @@
 "notes": [
 "⚠️ Luxoft — клиент: инвестбанк (Investment Bank IT, Agency Trading — Market Engineering; банк не назван): «Senior QA Automation Engineer (Java)» · Откликнулся · CV Java classic · строка 89"
 ]
+},
+{
+"job": {
+"id": "justjoin:8ff58bd7-78b3-4864-be79-9b2ad9bf3ecf",
+"source": "justjoin",
+"title": "Delivery Test Engineer",
+"company": "Andersen",
+"url": "https://justjoin.it/job-offer/andersen-delivery-test-engineer-beograd-testing",
+"location": "Beograd, Sarajevo",
+"workplace": "remote",
+"salary": "1 200–2 200 USD/mo any",
+"seniority": "mid",
+"skills": [
+"Delivery",
+"test engineer",
+"QA"
+],
+"contracts": [
+"any"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "C",
+"score": 2,
+"rate": 48.45238095238095,
+"office_days": null,
+"why": "remote · ~48 PLN/ч · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
