@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-26",
-"last_batch": "2026-11-27 9",
+"last_batch": "2026-11-27 12",
 "items": [
 {
 "job": {
@@ -90,7 +90,7 @@
 "office_days": null,
 "why": "remote · ~110 PLN/ч · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Ideamotive (аутсорс, tech team extension) — клиенты: банки и энергетика: «Senior QA Tester (ручное)» · Откликнулся · CV For Ideamotive · строка 114"
 ]
@@ -151,6 +151,56 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483027070",
+"source": "linkedin",
+"title": "Senior AI QA Test Automation Engineer – CX Agent",
+"company": "XM",
+"url": "https://www.linkedin.com/jobs/view/4483027070",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 6,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4483028059",
+"source": "linkedin",
+"title": "Quality Assurance Automation Engineer (Python)",
+"company": "XM",
+"url": "https://www.linkedin.com/jobs/view/4483028059",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "C",
+"score": 1,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · Python"
 },
 "shown": false,
 "notes": []
