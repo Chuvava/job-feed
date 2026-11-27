@@ -385,6 +385,130 @@
 },
 "shown": false,
 "notes": []
+},
+{
+"job": {
+"id": "justjoin:dbf74d2f-24b3-4328-ab4e-c60c509d73ed",
+"source": "justjoin",
+"title": "Senior QA Tester | Branża Energetyczna",
+"company": "Edge One Solutions Sp. z o.o",
+"url": "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-senior-qa-tester-branza-energetyczna-warszawa-testing",
+"location": "Warszawa, Wrocław, Poznań, Kraków, Gdańsk",
+"workplace": "remote",
+"salary": "",
+"seniority": "senior",
+"skills": [
+"Testowanie aplikacji webowych",
+"REST API",
+"ISTQB",
+"Jira",
+"SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 9,
+"rate": null,
+"office_days": null,
+"why": "remote · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
+"⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
+]
+},
+{
+"job": {
+"id": "justjoin:56cba805-c146-4de1-b52e-a28ef9ed9592",
+"source": "justjoin",
+"title": "System Analyst/Tester",
+"company": "BlueSoft",
+"url": "https://justjoin.it/job-offer/bluesoft-system-analyst-tester-warszawa-testing",
+"location": "Warszawa",
+"workplace": "hybrid",
+"salary": "",
+"seniority": "mid",
+"skills": [
+"analiza systemowa",
+"Testowanie oprogramowania",
+"Zbieranie i analiza wymagań",
+"Scrum",
+"UML",
+"BPMN",
+"MS SQL"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": 4.3,
+"why": "офис ~4 дн/мес · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": [
+"⚠️ BlueSoft (Orange Group) — клиент: крупный банк (Open Banking): «Senior Test Automation Engineer (JAVA)» · Откликнулся · CV Java classic (For ALTEN) · строка 42",
+"⚠️ BlueSoft (Orange Group) — клиент: банковский сектор · другая роль BlueSoft (Open Banking, 6×/мес в офисе) — строка 42: «Senior Test Automation Engineer» · Откликнулся · CV For ALTEN and Bluesoft (Java) · строка 126"
+]
+},
+{
+"job": {
+"id": "linkedin:li-4495302615",
+"source": "linkedin",
+"title": "ETL Test Engineer",
+"company": "Senovo IT Ltd",
+"url": "https://www.linkedin.com/jobs/view/4495302615",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 3,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495831065",
+"source": "linkedin",
+"title": "Senior Platform Controls Automation Engineer",
+"company": "N Consulting Global",
+"url": "https://www.linkedin.com/jobs/view/4495831065",
+"location": "Kraków, Łódzkie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 8,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
 }
 ]
 }
