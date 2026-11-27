@@ -73,7 +73,7 @@ sources:
 # The rest waits: at each batch hour the best `batch_cards` of them go out as cards; at digest_hour the
 # day summary lists everything else (low priority at the bottom). Hours are Europe/Warsaw.
 priority:
-  min_rate: 120          # PLN/h B2B (UoP gross ×0.85, see rank.UOP_TO_B2B); monthly /168, daily /8, EUR ×4.25; not stated counts as OK
+  min_rate: 120          # PLN/h B2B (UoP gross ×0.9, see rank.UOP_TO_B2B); monthly /168, daily /8, EUR ×4.25; not stated counts as OK
   low_rate: 100          # below this → low priority, never a card
   light_hybrid_days: 4   # office days per month that still count as "almost remote"
   batch_hours: [9, 12, 15, 18, 21]

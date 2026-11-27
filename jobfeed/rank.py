@@ -35,7 +35,7 @@ OTHER_LANG = r"python|pytest|javascript|js|node\.?js|php|ruby|golang"
 
 CURRENCY = {"pln": 1, "eur": 4.25, "usd": 3.7, "chf": 4.5, "gbp": 4.9}
 UOP = r"permanent|uop|umowa o prac|employment|mandate"
-UOP_TO_B2B = 0.85   # UoP gross/month → B2B-equivalent PLN/h: 25 000 brutto ≈ 126 PLN/h (user's 120–130 equivalence)
+UOP_TO_B2B = 0.9    # UoP gross/month ×0.9 ≈ B2B invoice (ryczałt 12%) with the same net incl. paid leave, no KUP: 22 000 ≈ 118 PLN/h
 HOURS = {"h": 1, "hour": 1, "hourly": 1, "day": 8, "daily": 8, "mo": 168, "month": 168, "monthly": 168,
          "yr": 2016, "year": 2016, "yearly": 2016}
 
