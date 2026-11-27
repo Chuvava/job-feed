@@ -1,6 +1,6 @@
 {
 "last_digest": "2026-11-26",
-"last_batch": "2026-11-27 15",
+"last_batch": "2026-11-27 18",
 "items": [
 {
 "job": {
@@ -416,7 +416,7 @@
 "office_days": null,
 "why": "remote · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": [
 "⚠️ Edge One Solutions (Euvic) — клиент из энергетики: «QA Engineer | Branża Energetyczna» · Откликнулся · CV C# classic · строка 11",
 "⚠️ Edge One Solutions (Euvic) — клиент: банк из топ-3 в Польше: «Tester Ferryt | Branża Bankowa» · Откликнулся · CV C# classic · строка 32"
@@ -507,7 +507,7 @@
 "office_days": null,
 "why": "формат ? · ставка не указана · язык ?"
 },
-"shown": false,
+"shown": true,
 "notes": []
 },
 {
@@ -556,6 +556,81 @@
 "rate": null,
 "office_days": null,
 "why": "формат ? · ставка не указана · Java"
+},
+"shown": true,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4493896742",
+"source": "linkedin",
+"title": "SAP Test Automation Project Manager – Tricentis TTA / UiPath / SolMan / Cloud ALM – German C1",
+"company": "W-ITC",
+"url": "https://www.linkedin.com/jobs/view/4493896742",
+"location": "Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495837176",
+"source": "linkedin",
+"title": "Tester/ka w branży medycznej",
+"company": "Soflab",
+"url": "https://www.linkedin.com/jobs/view/4495837176",
+"location": "Warsaw, Mazowieckie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 4,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
+},
+"shown": false,
+"notes": []
+},
+{
+"job": {
+"id": "linkedin:li-4495323347",
+"source": "linkedin",
+"title": "Low Code Automation Developer",
+"company": "Euroclear",
+"url": "https://www.linkedin.com/jobs/view/4495323347",
+"location": "Cracow, Małopolskie, Poland",
+"workplace": "",
+"salary": "",
+"seniority": "",
+"skills": [],
+"contracts": [],
+"published": "2026-11-27"
+},
+"priority": {
+"tier": "B",
+"score": 5,
+"rate": null,
+"office_days": null,
+"why": "формат ? · ставка не указана · язык ?"
 },
 "shown": false,
 "notes": []
