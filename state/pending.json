@@ -1,5 +1,36 @@
 {
 "last_digest": "2026-11-27",
-"last_batch": "2026-11-28 9",
-"items": []
+"last_batch": "2026-11-28 12",
+"items": [
+{
+"job": {
+"id": "justjoin:2ff0317e-8b07-4df7-b43e-ae8f62ba34f6",
+"source": "justjoin",
+"title": "Data Tester Analyst",
+"company": "TQLO SP. Z O.O.",
+"url": "https://justjoin.it/job-offer/tqlo-sp-z-o-o--data-tester-analyst-warszawa-testing",
+"location": "Warszawa",
+"workplace": "remote",
+"salary": "100–125 PLN/h b2b",
+"seniority": "mid",
+"skills": [
+"Data",
+"Testing"
+],
+"contracts": [
+"b2b"
+],
+"published": "2026-11-23"
+},
+"priority": {
+"tier": "B",
+"score": 7,
+"rate": 125.0,
+"office_days": null,
+"why": "remote · ~125 PLN/ч · язык ?"
+},
+"shown": true,
+"notes": []
+}
+]
 }
